@@ -1,0 +1,132 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 x43"
+				},
+				"command": "text_pastry_step",
+				"text": "1 x43"
+			},
+			"key": "3739cce165aca87d471004fb7edfe3a3",
+			"label": "1 x43"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 x"
+				},
+				"command": "text_pastry_step",
+				"text": "1 x"
+			},
+			"key": "795e97d99d96aea06d50998caaba485c",
+			"label": "1 x"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 x 4"
+				},
+				"command": "text_pastry_step",
+				"text": "1 x 4"
+			},
+			"key": "850bed821f8289291d519496b74d65b6",
+			"label": "1 x 4"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 x4"
+				},
+				"command": "text_pastry_step",
+				"text": "1 x4"
+			},
+			"key": "ffdf56c2bb3ba821468f0aea5437d670",
+			"label": "1 x4"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i"
+			},
+			"key": "1bd7ee1ce72751da4e64129f6d32db41",
+			"label": "\\i"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "%i",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "%i"
+			},
+			"key": "01e06cef7ff664f7bf4d2fc85eec52ec",
+			"label": "%i"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 1 2"
+				},
+				"command": "text_pastry_step",
+				"text": "1 1 2"
+			},
+			"key": "bed4ce69bb178ee0474acea7c3188868",
+			"label": "1 1 2"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i(24,M)"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i(24,M)"
+			},
+			"key": "0e00de57b8a33b2605597434a2d224cc",
+			"label": "\\i(24,M)"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i8"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i8"
+			},
+			"key": "c0fe4e53f6724c4bea36f8a43c36d96f",
+			"label": "\\i8"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "\\i8"
+		},
+		"command": "text_pastry_step",
+		"text": "\\i8"
+	}
+}

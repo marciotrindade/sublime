@@ -1,0 +1,6139 @@
+{
+	"folder_history":
+	[
+		"/Users/marciotrindade/pipefy/pipefy",
+		"/Users/marciotrindade/codebits/vcamp",
+		"/Users/marciotrindade/locaweb/locaweb-backup",
+		"/Volumes/Time Machine Backups/Backups.backupdb/Trindade MacBook Pro/2015-12-05-061203/Macintosh HD/Users/marciotrindade/locaweb/saas/emkt-web",
+		"/Users/marciotrindade/locaweb/emkt-core",
+		"/Users/marciotrindade/pipefy/pipeui",
+		"/Users/marciotrindade/Google Drive/codigos",
+		"/Users/marciotrindade/pipefy/old_pipeui",
+		"/Users/marciotrindade/projects/BackgroundMusic",
+		"/Users/marciotrindade/Dropbox/Sublime Text 3",
+		"/Users/marciotrindade/pipefy/locastyle",
+		"/usr/local/etc/nginx",
+		"/Users/marciotrindade/Library/Application Support/Sublime Text 3",
+		"/Users/marciotrindade/.rvm/gems/ruby-2.3.0/gems/mina-slack-0.1.0",
+		"/Users/marciotrindade/sites/alurapic",
+		"/Users/marciotrindade/sites/inspinia/SCSS",
+		"/Users/marciotrindade/codebits/app-soukdesigner-com",
+		"/Users/marciotrindade/sites/icheck",
+		"/Users/marciotrindade/sites/inspinia/Static_Full_Version",
+		"/Users/marciotrindade/sites/my_blog",
+		"/usr/local/var/postgres",
+		"/Users/marciotrindade/sites/detetive_fatima",
+		"/Users/marciotrindade/sites/fatima",
+		"/Users/marciotrindade/ansible/blog_provisioner",
+		"/usr/local/Cellar/nginx/1.8.0",
+		"/usr/local/opt/nginx",
+		"/Users/marciotrindade/sites/ticketee_review",
+		"/Users/marciotrindade/ansible/teamspeak",
+		"/Users/marciotrindade/codebits/vcamp-servers",
+		"/Users/marciotrindade/.ssh",
+		"/Users/marciotrindade/codebits/vcamp-ansible",
+		"/Users/marciotrindade/ansible",
+		"/Users/marciotrindade/codebits/vcamp/vendor/assets/stylesheets/slick",
+		"/Users/marciotrindade/codebits/vcamp/vendor/assets/stylesheets/jsTree",
+		"/Users/marciotrindade/codebits/vcamp/vendor/assets/stylesheets/ionRangeSlider",
+		"/Users/marciotrindade/codebits/spree_souk_provisioner",
+		"/Users/marciotrindade/codebits/spree_soukdesigner_core",
+		"/Users/marciotrindade/codebit/spree_soukdesigner_core",
+		"/Users/marciotrindade/codebit/app-soukdesigner-com",
+		"/Users/marciotrindade/velocity/vcamp",
+		"/Users/marciotrindade/Google Drive/codigos/vcamp",
+		"/Volumes/time_machine/Backups.backupdb/Trindade MacBook Pro/2015-11-19-002421/Macintosh HD/Users/marciotrindade/locaweb/saas/backup-de-sites",
+		"/Users/marciotrindade/locaweb/saas/pabx-provisioner",
+		"/Users/marciotrindade/Downloads",
+		"/Users/marciotrindade/locaweb/saas/backup-de-sites",
+		"/Users/marciotrindade/.rvm/gems/ruby-2.2.2/gems/padrino-core-0.10.7",
+		"/Users/marciotrindade/.rvm/gems/ruby-2.2.2/gems/padrino-0.10.7",
+		"/Users/marciotrindade/locaweb/saas/webdesk",
+		"/Users/marciotrindade/locaweb/frontend/banner-api",
+		"/Users/marciotrindade/locaweb/saas/webdesk-product-api",
+		"/Users/marciotrindade/locaweb/saas/webdesk-provisioner",
+		"/Users/marciotrindade/locaweb/saas/emkt-core",
+		"/Users/marciotrindade/locaweb/saas/emkt-web",
+		"/Users/marciotrindade/locaweb/qualidade/autobots/bkup",
+		"/Users/marciotrindade/locaweb/cfengine/ft_qa_saas_masterfiles",
+		"/Users/marciotrindade/locaweb/qualidade/autobots/autobots-paas-hospedagem",
+		"/Users/marciotrindade/locaweb/commom/products-plan-config",
+		"/Users/marciotrindade/locaweb/qualidade/autobots/all_spark-selenium",
+		"/Users/marciotrindade/locaweb/qualidade/autobots/emkt",
+		"/Users/marciotrindade/locaweb/cfengine/ft_qa_saas_inputs",
+		"/Users/marciotrindade/projects/testapp",
+		"/Users/marciotrindade/projects/my_blog",
+		"/Users/marciotrindade/locaweb/qualidade/autobots/ea",
+		"/Users/marciotrindade/locaweb/saas/saas_plan_config",
+		"/Users/marciotrindade/locaweb/commom/apostila"
+	],
+	"last_version": 3114,
+	"last_window_id": 2569,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1151.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"la",
+						"lambda"
+					],
+					[
+						"pipe",
+						"pipe_settings	(_settings_menu.html.slim)"
+					],
+					[
+						"organiza",
+						"organization	(en.yml)"
+					],
+					[
+						"Report",
+						"ReportExport	(report_export.rb)"
+					],
+					[
+						"fie",
+						"field"
+					],
+					[
+						"first",
+						"first_phase_card"
+					],
+					[
+						"save",
+						"save_and_generate	(report_export.rb)"
+					],
+					[
+						"report",
+						"report_export"
+					],
+					[
+						"pre",
+						"previous_phase"
+					],
+					[
+						"wi",
+						"wait_until	(base.rb)"
+					],
+					[
+						"in",
+						"index_to_move"
+					],
+					[
+						"to",
+						"to_f"
+					],
+					[
+						"next",
+						"next_phase"
+					],
+					[
+						"get",
+						"get_edit"
+					],
+					[
+						"con",
+						"context	context"
+					],
+					[
+						"field",
+						"field2"
+					],
+					[
+						"empty",
+						"empty_add"
+					],
+					[
+						"fields",
+						"fields"
+					],
+					[
+						"put",
+						"put_update"
+					],
+					[
+						"jump",
+						"jump_to_phase	(routes.rb)"
+					],
+					[
+						"current",
+						"current_pipe"
+					],
+					[
+						"start",
+						"start_form	(routes.rb)"
+					],
+					[
+						"sub",
+						"subquery"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"curret",
+						"current_pipe	(email_templates_controller.rb)"
+					],
+					[
+						"star",
+						"start_time"
+					],
+					[
+						"expect",
+						"expected_time"
+					],
+					[
+						"loca",
+						"localed_hour	(feature_due_date.rb)"
+					],
+					[
+						"up",
+						"updated_hour	(feature_due_date.rb)"
+					],
+					[
+						"crea",
+						"created_date	(due_date_in_en_spec.rb)"
+					],
+					[
+						"pip",
+						"pipe1"
+					],
+					[
+						"or",
+						"organizations"
+					],
+					[
+						"check",
+						"checkbox"
+					],
+					[
+						"raw",
+						"raw_invitation_token	(invite_accepting_flow_spec.rb)"
+					],
+					[
+						"invite",
+						"invited_users	(user.rb)"
+					],
+					[
+						"RA",
+						"Rails	(suppress_logs.rb)"
+					],
+					[
+						"card",
+						"card_value"
+					],
+					[
+						"and",
+						"and_return	(analytics_spec.rb)"
+					],
+					[
+						"fe",
+						"features	(rails_helper.rb)"
+					],
+					[
+						"nav",
+						"nav_right	(base.html.slim)"
+					],
+					[
+						"post",
+						"post_create"
+					],
+					[
+						"subj",
+						"subject"
+					],
+					[
+						"email",
+						"email_templates"
+					],
+					[
+						"email_",
+						"email_templates	(routes.rb)"
+					],
+					[
+						"han",
+						"handlebars_options	(_form.html.slim)"
+					],
+					[
+						"header",
+						"header_organization	(base.html.slim)"
+					],
+					[
+						"cur",
+						"current_pipe"
+					],
+					[
+						"match",
+						"match_array	(email_templates_controller_spec.rb)"
+					],
+					[
+						"mar",
+						"margin-mini-bottom"
+					],
+					[
+						"service",
+						"service_event"
+					],
+					[
+						"custom",
+						"custom_attributes"
+					],
+					[
+						"des",
+						"described_class"
+					],
+					[
+						"user",
+						"user_client"
+					],
+					[
+						"any",
+						"any_args	(mixpanel_spec.rb)"
+					],
+					[
+						"expe",
+						"expected_attributes"
+					],
+					[
+						"user_",
+						"user_attributes"
+					],
+					[
+						"clone",
+						"cloned_pipe1"
+					],
+					[
+						"descr",
+						"described_class	(analytics_spec.rb)"
+					],
+					[
+						"mode",
+						"module	(analytics.rb)"
+					],
+					[
+						"orga",
+						"organization_id"
+					],
+					[
+						"role",
+						"role_ids"
+					],
+					[
+						"fla",
+						"flash	flash[…]"
+					],
+					[
+						"re",
+						"resources"
+					],
+					[
+						"text",
+						"text_field"
+					],
+					[
+						"opt",
+						"opts"
+					],
+					[
+						"html",
+						"html_opts"
+					],
+					[
+						"lsf",
+						"lsf_properties"
+					],
+					[
+						"ibm_",
+						"ibm_elb_properties"
+					],
+					[
+						"ibm",
+						"ibm_http_properties"
+					],
+					[
+						"lan",
+						"landmark_elb_properties"
+					],
+					[
+						"landmar",
+						"landmark_properties"
+					],
+					[
+						"pro",
+						"properties"
+					],
+					[
+						"pe",
+						"pendding_ad"
+					],
+					[
+						"pen",
+						"pendding_ad"
+					],
+					[
+						"sts",
+						"statuses"
+					],
+					[
+						"new",
+						"new_state"
+					],
+					[
+						"update",
+						"update_attributes"
+					],
+					[
+						"statu",
+						"statuses	(contracted_plan.rb)"
+					],
+					[
+						"exist",
+						"exists	(contracted_plan_spec.rb)"
+					],
+					[
+						"produ",
+						"product"
+					],
+					[
+						"set",
+						"set_roles"
+					],
+					[
+						"cu",
+						"current_organization"
+					],
+					[
+						"op",
+						"opts"
+					],
+					[
+						"en",
+						"entitlements	(contracted_service.rb)"
+					],
+					[
+						"contracted",
+						"contracted_service"
+					],
+					[
+						"contr",
+						"contracted_node"
+					],
+					[
+						"contracte",
+						"contracted_node"
+					],
+					[
+						"contra",
+						"contracted_service"
+					],
+					[
+						"En",
+						"Entitlements	(services_controller.rb)"
+					],
+					[
+						"cont",
+						"content_for	(show.html.erb)"
+					],
+					[
+						"st",
+						"start_date"
+					],
+					[
+						"sta",
+						"star_end_time"
+					],
+					[
+						"content",
+						"content_for"
+					],
+					[
+						"subn",
+						"subnet_ids"
+					],
+					[
+						"Data",
+						"DataCenter"
+					],
+					[
+						"data_ce",
+						"data_centers"
+					],
+					[
+						"ava",
+						"availabel_in_dc_by_kind"
+					],
+					[
+						"tra",
+						"transaction"
+					],
+					[
+						"subnet",
+						"subnet_pro_1"
+					],
+					[
+						"contract",
+						"contracted_landscape"
+					],
+					[
+						"land",
+						"landscapes_service	(contracted_landscape.rb)"
+					],
+					[
+						"data",
+						"data_center	(data_center.rake)"
+					],
+					[
+						"create",
+						"create_with"
+					],
+					[
+						"og",
+						"organization"
+					],
+					[
+						"o",
+						"organization"
+					],
+					[
+						"prod",
+						"production	(20160413180252_add_zone_and_production.rb)"
+					],
+					[
+						"ser",
+						"serializer"
+					],
+					[
+						"landsc",
+						"landscapes	(en.yml)"
+					],
+					[
+						"real",
+						"realtime_view"
+					],
+					[
+						"contracted_land",
+						"contracted_landscapes	(show.html.erb)"
+					],
+					[
+						"ope",
+						"operating_system_id	(contracted_node.rb)"
+					],
+					[
+						"node",
+						"node_value"
+					],
+					[
+						"opts",
+						"opts_addon"
+					],
+					[
+						"reserv",
+						"reserved_subnet"
+					],
+					[
+						"inter",
+						"internal_code"
+					],
+					[
+						"Blu",
+						"BlueprintSerializer"
+					],
+					[
+						"os",
+						"operating_system_id"
+					],
+					[
+						"provi",
+						"provider_name"
+					],
+					[
+						"para",
+						"parameterize"
+					],
+					[
+						"load",
+						"load_contracted_plan"
+					],
+					[
+						"ad",
+						"addon	(contracted_service.rb)"
+					],
+					[
+						"install",
+						"installing"
+					],
+					[
+						"not",
+						"not_addons	(contracted_service.rb)"
+					],
+					[
+						"no",
+						"notify"
+					],
+					[
+						"send",
+						"send_email"
+					],
+					[
+						"acc",
+						"access_params"
+					],
+					[
+						"validate",
+						"validate_presence_of"
+					],
+					[
+						"has",
+						"has_many"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"List",
+							""
+						],
+						[
+							"Rspec",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Rspec",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "rubo",
+				"selected_items":
+				[
+					[
+						"rubo",
+						"RuboCop: Check current file"
+					],
+					[
+						"delete",
+						"File: Delete"
+					],
+					[
+						"path",
+						"File: Copy Path"
+					],
+					[
+						"dele",
+						"File: Delete"
+					],
+					[
+						"duplicate",
+						"File: Duplicate"
+					],
+					[
+						"hash",
+						"Convert Hashes"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"rubocop",
+						"RuboCop: Check current file"
+					],
+					[
+						"rename",
+						"File: Rename"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"dash",
+						"DashDoc: invoke Dash with selected word"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"duplic",
+						"File: Duplicate"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"dupli",
+						"File: Duplicate"
+					],
+					[
+						"duplica",
+						"File: Duplicate"
+					],
+					[
+						"gitbla",
+						"Git: Blame"
+					],
+					[
+						"gitb",
+						"Git: Blame"
+					],
+					[
+						"ruboc",
+						"RuboCop: Check current file"
+					],
+					[
+						"mo",
+						"File: Move"
+					],
+					[
+						"git:",
+						"Git: Blame"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"ranem",
+						"ColorSchemeSelector: Random Color Scheme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"rena",
+						"File: Rename"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"forma",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"form",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"fo",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"for",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"search",
+						"Search In Project"
+					],
+					[
+						"ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"title",
+						"Convert Case: Title Case"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"theme",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"jsonl",
+						"Pretty JSON: Validate"
+					],
+					[
+						"sql",
+						"SQL Beautifier: Format Current SQL File"
+					],
+					[
+						"rails partia",
+						"Snippet: insert a rails view password_field_tag helper"
+					],
+					[
+						"dupl",
+						"File: Duplicate"
+					],
+					[
+						"reanme",
+						"File: Rename"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"color",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"tex",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"jso",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"dup",
+						"File: Duplicate"
+					],
+					[
+						"title ",
+						"Convert Case: Title Case"
+					],
+					[
+						"upper",
+						"Convert Case: Upper Case"
+					],
+					[
+						"csv",
+						"CSV: Justify columns"
+					],
+					[
+						"ren",
+						"File: Rename"
+					],
+					[
+						"todo",
+						"SimpleTODO: List TODO"
+					],
+					[
+						"select",
+						"Snippet: assert_select"
+					],
+					[
+						"du",
+						"File: Duplicate"
+					],
+					[
+						"MO",
+						"File: Move"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"renam",
+						"File: Rename"
+					],
+					[
+						"renm",
+						"File: Rename"
+					],
+					[
+						"copy",
+						"File: Copy Path"
+					],
+					[
+						"del",
+						"File: Delete"
+					],
+					[
+						"block",
+						"Toggle Block Comment"
+					],
+					[
+						"dulp",
+						"File: Duplicate"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"table",
+						"Table Editor: Enable for current view"
+					],
+					[
+						"mak",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"erb",
+						"Snippet: output ERB tags"
+					],
+					[
+						"yml",
+						"Set Syntax: YAML"
+					],
+					[
+						"colo",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"mult",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"mul",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"package",
+						"Package Control: Discover Packages"
+					],
+					[
+						"better",
+						"Set Syntax: Better RSpec"
+					],
+					[
+						"cs",
+						"CSV: Justify columns"
+					],
+					[
+						"dahs",
+						"DashDoc: invoke Dash with selected word"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"rspec",
+						"Set Syntax: RSpec"
+					],
+					[
+						"ma",
+						"Set Syntax: Markdown"
+					],
+					[
+						"conflu",
+						"Markup Jira Confluence: Post page to Jira Confluence"
+					],
+					[
+						"confluen",
+						"Markup Jira Confluence: Post page to Jira Confluence"
+					],
+					[
+						"conflue",
+						"Markup Jira Confluence: Post page to Jira Confluence"
+					],
+					[
+						"ngin",
+						"Set Syntax: nginx"
+					],
+					[
+						"ng",
+						"Set Syntax: nginx"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"case",
+						"Convert Case: Title Case"
+					],
+					[
+						"them",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"shc",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"ruy",
+						"Set Syntax: Ruby"
+					],
+					[
+						"rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ru",
+						"Set Syntax: Ruby"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"jaca",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"colors",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Enable Package"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"pla",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"te",
+						"Set Syntax: TeX"
+					],
+					[
+						"j",
+						"Set Syntax: JavaScript (Rails)"
+					],
+					[
+						"gitl",
+						"Git: Log All"
+					]
+				],
+				"width": 584.0
+			},
+			"console":
+			{
+				"height": 752.0,
+				"history":
+				[
+					"help",
+					"reload"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/marciotrindade/pipefy/pipefy/app/models/card.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/card_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/bin/quality",
+				"/Users/marciotrindade/pipefy/pipefy/app/helpers/email_templates_helper.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/helpers/email_templates_helper_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/reports/_navbar.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipes/_header.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/organizations/_pipe.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/spec/routing/pipe_settings/pipes_routing_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/layouts/pipe_settings/_menu.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/onboarding/e2/tour_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipes/_settings_menu.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/pt-BR.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/en.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/routes.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipe_settings/pipes_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/pipes/edit.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/pipes/_form.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/settings/pipe_labels_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/card_phase_detail_time_entry_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipes_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipes_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipe_settings/pipes_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipe_settings/base_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/organization.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipes/_form.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/spec/routing/pipe_settings/email_templates_routing_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/.travis.yml",
+				"/Users/marciotrindade/pipefy/pipefy/.git/COMMIT_EDITMSG",
+				"/Users/marciotrindade/pipefy/pipefy/README.md",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/report_export.rb",
+				"/Users/marciotrindade/pipefy/pipefy/lib/tasks/pipefy.rake",
+				"/Users/marciotrindade/pipefy/pipefy/spec/factories/reports_factory.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/report_export_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/Gemfile",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/concerns/reportable.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/workers/report_export_worker.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/fixtures/cards.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/initializers/aws.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/factories/report_exports_factory.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/report.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/uploads_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app.json",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/phase.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/phase_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/config/brakeman.ignore",
+				"/Users/marciotrindade/pipefy/pipefy/.brakeman.json",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/onboarding_users_cant_close_first_start_form_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/support/features/base.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/support/features/capybara.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/assets/javascripts/v3/helpers/tour_helpers.js.coffee",
+				"/Users/marciotrindade/pipefy/pipefy/config/secrets.yml",
+				"/Users/marciotrindade/pipefy/pipefy/.git/rebase-merge/git-rebase-todo",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipe_settings/phases_controller.rb",
+				"/Users/marciotrindade/Dropbox/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipe_settings/phases_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/fixtures/phases.yml",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/concerns/cache_invalidatable.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/tour/open_card_tours_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/phases_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/routing/pipe_settings/start_form_routing_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/phases/_field_list.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/phases/_form.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/phases/index.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/Gemfile.lock",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/phases/_field_list.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/spec/routing/pipe_settings/phases_routing_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/support/features/pipe.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/tabs/previous_phases/basic_previous_phase_display_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/settings/phase_edit_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/presenters/phase_ui_presenter_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/settings/pipe_setup_phase_list_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/settings/pipe_connections_settings_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipe_settings/start_forms_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipe_settings/start_forms_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/factories/field_types_factory.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipes_controller_update_start_form_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/factories/fields_factory.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/start_forms/_email_inbox.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/helpers/pipes_helper.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/start_forms/show.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/start_forms/_public_form.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/start_forms/_email_setup.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/fields_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/fields_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/automated_message_setups_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipe_connections_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/automated_message_setups_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/presenters/phase_ui_presenter.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/phases/edit.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/field.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/pipe.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/fixtures/pipes.yml",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipes/show.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/phases/new.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/fields/_field.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/fields/_field.html.erb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipe_settings/email_templates_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipe_settings/labels_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/application_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/ability.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/phases_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/config/initializers/intercom.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/assets/stylesheets/v3/_tour-v2.scss",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/checklist_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/pipe_clone_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/devise_invitable.en.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/simple_form.en.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/devise_invitable.en-US.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/devise.en-US.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/devise.en.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/database.yml",
+				"/Users/marciotrindade/pipefy/pipefy/app/presenters/clone_presenters/pipe_presenter.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/download_pipe_exportation_file_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/spec_helper.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/database_field_creation_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/database_record_creation_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/database_table_creation_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/database_table_edition_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/database/currency_field_in_edit_form_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/user_department_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/organization_industry_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/previous_phase_field_types/due_date_in_pt_br_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/previous_phase_field_types/date_in_pt_br_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/due_date/due_date_in_pt_br_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/current_phase_field_types/date_time_in_pt_br_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/current_phase_field_types/date_in_pt_br_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/current_phase_field_types/currency_spec.rb"
+			],
+			"find":
+			{
+				"height": 58.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/spec",
+					"",
+					"render ",
+					"",
+					"/Users/marciotrindade/locaweb/saas/backup-de-sites/app/views/servers",
+					"",
+					"/Users/marciotrindade/locaweb/emkt-core/spec_truncation",
+					"/Users/marciotrindade/locaweb/emkt-core/spec",
+					"",
+					"/Users/marciotrindade/locaweb/emkt-workers/app",
+					"",
+					"/Users/marciotrindade/locaweb/emailmarketing/config/locales",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"cloning",
+					"expired_conditions",
+					"EXPIRED_SCOPE_QUERY_CONDITIONS",
+					"self.",
+					"\"",
+					"database_table",
+					"database_record",
+					"\"",
+					"cloning",
+					"edit_pipe_path",
+					"offense",
+					"offenses",
+					"(.*) - (.*)",
+					"class=(",
+					"@pip",
+					"pipe_params",
+					"update",
+					"edit",
+					"phase",
+					"set_organizations_to_move",
+					"accessible_by",
+					"set_organizations_to_move",
+					"@pipe",
+					"pipe_id",
+					"email_template",
+					"email_templates",
+					"dirname",
+					"CsvShaper",
+					"export_fields",
+					"generate_csv_and_store",
+					"columns_mapping",
+					"export_fields",
+					"ordered_fields",
+					"title",
+					"\"",
+					"CsvShaper",
+					"fields",
+					"export",
+					"columns_mapping",
+					"Reportable",
+					"S3_BUCKET",
+					"CsvShaper",
+					"kaminari",
+					"self.",
+					"lateness_unit",
+					"card_phase_detail_time_entry",
+					", disabled: :all",
+					"['disabled'] == 'false'",
+					".include?('hidden')",
+					"sleep(0.2)",
+					"sleep(1)",
+					"1",
+					"0.5",
+					"js-e2-pipe-tour-pipe-button",
+					"first_phase?",
+					"\\\"",
+					"move",
+					"put_forward",
+					"phase2",
+					"first",
+					"phases",
+					"load_for_phase_edit",
+					"O que você quer que seja feito ou informado nessa fase?",
+					"field_list",
+					"current_phase",
+					"def open_card",
+					"edit_phase_path",
+					"pipe_settings",
+					"pipe_settings.phases.form.pipe_connection.new",
+					"from_name",
+					"phase",
+					"get_edit",
+					" successfully updated",
+					"update",
+					", ",
+					"set_organizations_to_move",
+					"text_fields",
+					"string",
+					"_html",
+					"text_fields",
+					"short_text",
+					"email_from_address_field_id",
+					"f.",
+					"f",
+					"short_text_fields",
+					":email_from_name_field_id",
+					"email_inbox",
+					"@pipe",
+					"users_for_store",
+					"@pipe",
+					"card_title_description",
+					"settings_pipe_phases",
+					"edit_phase_path",
+					"phase_fields_description",
+					"put_update",
+					"no_content",
+					"go_to_pipe",
+					"edit_settings_pipe_phase_path",
+					"pipe_phases_path",
+					"prepare_phase",
+					"settings_pipe_phase_path",
+					"pipe_id: @phase.pipe.id, pipe_name: @phase.pipe.name, ",
+					"track_ordered_phase",
+					"pipe_phases_path",
+					"event_params",
+					"connected_pipes",
+					"edit_phase_path",
+					"phases",
+					"pipe",
+					".has-hint",
+					"action_buttons",
+					"users_for_store",
+					"options",
+					"possible_jump_targets",
+					"label",
+					"def track_event",
+					"destroy",
+					"phase",
+					"label",
+					"track_event",
+					"phases",
+					"label",
+					"Proc.new",
+					"count",
+					"\", \"",
+					"<<",
+					"<<<",
+					"tour"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"$2 - $1",
+					"users(:pipe_org_admin)",
+					"pending",
+					"$2",
+					"render ",
+					":$1",
+					"product_properties_check('$1', $2, dynamic: true)",
+					"product_properties_radio('$1', $2, default: true)",
+					"product_properties_check('$1', $2, default: true)",
+					"$1",
+					"{{ server_hostname }}",
+					"current_site",
+					"ApiClient",
+					"",
+					"set_flash",
+					"$3",
+					"$1;",
+					"$2",
+					"",
+					", ",
+					"{account_id: $1, message_id: $2, batch: $3},",
+					"",
+					"$2,$1,hm8307\\n",
+					"$2,$1,hm8307",
+					"{account_id: $1, message_id: $2},",
+					"$2,$1,hm1720\\n",
+					"$2,$1,hm950\\n",
+					"$2,$1,hm950",
+					"$2,$1,hm638",
+					"\\n",
+					"\"",
+					"\"\\n\"",
+					"'\\n'",
+					"$1",
+					"\\n",
+					"be_falsey",
+					"be_truthy",
+					"be_falsey",
+					"be_truthy",
+					"ls-label",
+					"ls-label-text",
+					"{\"$3\" => \"$1\"},",
+					"{\"$3}\" => \"$1\"},",
+					"\\n",
+					"",
+					"\\n",
+					"",
+					"\\n",
+					"",
+					"$1, $3, $5",
+					"Host.find_by_ip(\"$2\").update_attribute(:name, \"$3\")",
+					"$2,$3,$1",
+					",\\n",
+					"$1",
+					",\\n",
+					",",
+					",\\n",
+					"$2",
+					"",
+					"\\n",
+					"",
+					"\"$1\",",
+					"$1",
+					"\",\\n\"",
+					",\\n",
+					"$1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 53.0
+			},
+			"menu_visible": true,
+			"output.9o:///Users/marciotrindade/locaweb/emkt-bounces/app/workers":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/marciotrindade/locaweb/emkt-provisioner/spec/lib":
+			{
+				"height": 112.0
+			},
+			"output.GoSublime-output":
+			{
+				"height": 100.0
+			},
+			"output.MarGo-output":
+			{
+				"height": 100.0
+			},
+			"output.exec":
+			{
+				"height": 406.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/Bash.sublime-build",
+			"replace":
+			{
+				"height": 100.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"card",
+						"app/models/card.rb"
+					],
+					[
+						"qua",
+						"bin/quality"
+					],
+					[
+						"routpip",
+						"spec/routing/pipe_settings/pipes_routing_spec.rb"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"pipemenu",
+						"app/views/layouts/pipe_settings/_menu.html.slim"
+					],
+					[
+						"en",
+						"config/locales/en.yml"
+					],
+					[
+						"pt",
+						"config/locales/pt-BR.yml"
+					],
+					[
+						"pipecontroller",
+						"app/controllers/pipes_controller.rb"
+					],
+					[
+						"basecontroller",
+						"app/controllers/pipe_settings/base_controller.rb"
+					],
+					[
+						"organi",
+						"app/models/organization.rb"
+					],
+					[
+						"pipescontroller",
+						"app/controllers/pipes_controller.rb"
+					],
+					[
+						"ptbr",
+						"config/locales/pt-BR.yml"
+					],
+					[
+						"report",
+						"app/models/report_export.rb"
+					],
+					[
+						"reportable",
+						"app/models/concerns/reportable.rb"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"reportfac",
+						"spec/factories/reports_factory.rb"
+					],
+					[
+						"cards",
+						"spec/fixtures/cards.yml"
+					],
+					[
+						"reportexport",
+						"app/models/report_export.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"phase",
+						"app/models/phase.rb"
+					],
+					[
+						"travi",
+						".travis.yml"
+					],
+					[
+						"secrets",
+						"config/secrets.yml"
+					],
+					[
+						"phasecontroller",
+						"app/controllers/pipe_settings/phases_controller.rb"
+					],
+					[
+						"phasecontrolelr",
+						"app/controllers/pipe_settings/phases_controller.rb"
+					],
+					[
+						"phasescontroller",
+						"app/controllers/pipe_settings/phases_controller.rb"
+					],
+					[
+						"phasesyml",
+						"spec/fixtures/phases.yml"
+					],
+					[
+						"cacheinvalidatable",
+						"app/models/concerns/cache_invalidatable.rb"
+					],
+					[
+						"phaserb",
+						"app/models/phase.rb"
+					],
+					[
+						"phasecon",
+						"app/controllers/phases_controller.rb"
+					],
+					[
+						"phases",
+						"spec/fixtures/phases.yml"
+					],
+					[
+						"routingstart",
+						"spec/routing/pipe_settings/start_form_routing_spec.rb"
+					],
+					[
+						"pt-",
+						"config/locales/pt-BR.yml"
+					],
+					[
+						"routephases",
+						"spec/routing/pipe_settings/phases_routing_spec.rb"
+					],
+					[
+						"field_type",
+						"spec/factories/field_types_factory.rb"
+					],
+					[
+						"fieldtype",
+						"spec/factories/field_types_factory.rb"
+					],
+					[
+						"fieldfac",
+						"spec/factories/fields_factory.rb"
+					],
+					[
+						"app/controllers/pipe_connections_controller.rb",
+						"app/controllers/pipe_connections_controller.rb"
+					],
+					[
+						"app/controllers/fields_controller.rb",
+						"app/controllers/fields_controller.rb"
+					],
+					[
+						"pipe",
+						"app/models/pipe.rb"
+					],
+					[
+						"field",
+						"app/models/field.rb"
+					],
+					[
+						"app/controllers/automated_message_setups_controller.rb",
+						"app/controllers/automated_message_setups_controller.rb"
+					],
+					[
+						"app/views/pipes/show.html.slim",
+						"app/views/pipes/show.html.slim"
+					],
+					[
+						"app/presenters/phase_ui_presenter.rb",
+						"app/presenters/phase_ui_presenter.rb"
+					],
+					[
+						"pipes",
+						"spec/fixtures/pipes.yml"
+					],
+					[
+						"applicationcontroller",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"abili",
+						"app/models/ability.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"intercom",
+						"config/initializers/intercom.rb"
+					],
+					[
+						"interco",
+						"config/initializers/intercom.rb"
+					],
+					[
+						"app/assets/stylesheets/v3/_tour-v2.scss",
+						"app/assets/stylesheets/v3/_tour-v2.scss"
+					],
+					[
+						"data",
+						"config/database.yml"
+					],
+					[
+						"pipepresenter",
+						"app/presenters/clone_presenters/pipe_presenter.rb"
+					],
+					[
+						"pipecontr",
+						"app/controllers/pipes_controller.rb"
+					],
+					[
+						"invali",
+						"app/models/concerns/cache_invalidatable.rb"
+					],
+					[
+						"labelscontroller",
+						"app/controllers/pipe_settings/labels_controller.rb"
+					],
+					[
+						"applica",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"applicationcon",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"app/views/layouts/_nav_right.html.slim",
+						"app/views/layouts/_nav_right.html.slim"
+					],
+					[
+						"automatedmessage",
+						"app/models/automated_message.rb"
+					],
+					[
+						"config/initializers/intercom.rb",
+						"config/initializers/intercom.rb"
+					],
+					[
+						"applicationhtml",
+						"app/views/layouts/application.html.slim"
+					],
+					[
+						"show",
+						"app/views/automated_message_setups/show.html.erb"
+					],
+					[
+						"deve",
+						"config/environments/development.rb"
+					],
+					[
+						"capybara",
+						"spec/support/features/capybara.rb"
+					],
+					[
+						"application.rb",
+						"config/application.rb"
+					],
+					[
+						"applicationrb",
+						"config/application.rb"
+					],
+					[
+						"application",
+						"config/application.rb"
+					],
+					[
+						"enus",
+						"config/locales/en-US.yml"
+					],
+					[
+						"labels",
+						"app/controllers/labels_controller.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"pipesco",
+						"app/controllers/pipes_controller.rb"
+					],
+					[
+						"_closed_show",
+						"app/views/cards/_closed_show.html.slim"
+					],
+					[
+						"fieldvalu",
+						"app/models/card_field_value.rb"
+					],
+					[
+						"capy",
+						"spec/support/features/capybara.rb"
+					],
+					[
+						"users",
+						"spec/fixtures/users.yml"
+					],
+					[
+						"puma",
+						"config/puma.rb"
+					],
+					[
+						"spec/features/public_form_spec.rb",
+						"spec/features/public_form_spec.rb"
+					],
+					[
+						"travis",
+						".travis.yml"
+					],
+					[
+						"cardphasedetailuipresenter",
+						"app/presenters/card_phase_detail_ui_presenter.rb"
+					],
+					[
+						"users.yml",
+						"spec/fixtures/users.yml"
+					],
+					[
+						"carduipresenter",
+						"app/presenters/card_ui_presenter.rb"
+					],
+					[
+						"cardscontroller",
+						"app/controllers/cards_controller.rb"
+					],
+					[
+						"usersyml",
+						"spec/fixtures/users.yml"
+					],
+					[
+						"features/open_card/due_date/due_date_in_en_spec.rb",
+						"spec/features/open_card/due_date/due_date_in_en_spec.rb"
+					],
+					[
+						"spec/features/invite_users_to_organization_spec.rb",
+						"spec/features/invite_users_to_organization_spec.rb"
+					],
+					[
+						"spec/features/manage_pipe_members_spec.rb",
+						"spec/features/manage_pipe_members_spec.rb"
+					],
+					[
+						"side",
+						"config/sidekiq.yml"
+					],
+					[
+						"cardrb",
+						"app/models/card.rb"
+					],
+					[
+						"spec/features/open_card/current_phase_field_types/assignee_select_spec.rb",
+						"spec/features/open_card/current_phase_field_types/assignee_select_spec.rb"
+					],
+					[
+						"spec/features/open_card/card_assignees_spec.rb",
+						"spec/features/open_card/card_assignees_spec.rb"
+					],
+					[
+						"spec/features/onboarding/onboarding_header_steps_spec.rb",
+						"spec/features/onboarding/onboarding_header_steps_spec.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"userrole",
+						"app/models/users_role.rb"
+					],
+					[
+						"userrb",
+						"app/models/user.rb"
+					],
+					[
+						"automatem",
+						"app/controllers/automated_messages_controller.rb"
+					],
+					[
+						"anal",
+						"app/models/analytics.rb"
+					],
+					[
+						"ana",
+						"app/models/analytics.rb"
+					],
+					[
+						"pi",
+						"app/models/pipe.rb"
+					],
+					[
+						"publicactivity",
+						"tmp/rubycritic/app/models/public_activity_publisher.html"
+					],
+					[
+						"publicacti",
+						"app/models/public_activity_publisher.rb"
+					],
+					[
+						"userspec",
+						"spec/models/user_spec.rb"
+					],
+					[
+						"role",
+						"app/models/role.rb"
+					],
+					[
+						"spec/features/settings/email_template_settings_spec.rb",
+						"spec/features/settings/email_template_settings_spec.rb"
+					],
+					[
+						"pipes/settings_menu",
+						"app/views/pipes/_settings_menu.html.slim"
+					],
+					[
+						"pipes/header",
+						"app/views/pipes/_header.html.slim"
+					],
+					[
+						"layoutshead",
+						"app/views/layouts/_header.html.slim"
+					],
+					[
+						"layouts/header",
+						"app/views/layouts/_header.html.slim"
+					],
+					[
+						"sharedlan",
+						"app/views/shared/_launchpad.html.slim"
+					],
+					[
+						"applicationhtmlslim",
+						"app/views/layouts/application.html.slim"
+					],
+					[
+						"app/views/pipe_settings/email_templates/index.html.slim",
+						"app/views/pipe_settings/email_templates/index.html.slim"
+					],
+					[
+						"app/views/pipe_settings/email_templates/edit.html.slim",
+						"app/views/pipe_settings/email_templates/edit.html.slim"
+					],
+					[
+						"app/views/pipe_settings/email_templates/_form.html.slim",
+						"app/views/pipe_settings/email_templates/_form.html.slim"
+					],
+					[
+						"app/views/email_templates/index.html.slim",
+						"app/views/email_templates/index.html.slim"
+					],
+					[
+						"source/assets/javascripts/components/views/_bundle.js",
+						"source/assets/javascripts/components/views/_bundle.js"
+					],
+					[
+						"applicationcss",
+						"tmp/rubycritic/assets/stylesheets/application.css"
+					],
+					[
+						"app/views/phases/_form.html.erb",
+						"app/views/phases/_form.html.erb"
+					],
+					[
+						"cacheinvalidationworker",
+						"app/workers/cache_invalidation_worker.rb"
+					],
+					[
+						"cache",
+						"app/models/concerns/cache_invalidatable.rb"
+					],
+					[
+						"en-us",
+						"config/locales/en-US.yml"
+					],
+					[
+						"cardshow",
+						"app/views/card_field_values/show.json.jbuilder"
+					],
+					[
+						"emailtemplateconsp",
+						"spec/controllers/email_templates_controller_spec.rb"
+					],
+					[
+						"email",
+						"app/models/email_template.rb"
+					],
+					[
+						"spec/controllers/labels_controller_spec.rb",
+						"spec/controllers/labels_controller_spec.rb"
+					],
+					[
+						"layouts/pipe_settings/menu",
+						"app/views/layouts/pipe_settings/_menu.html.slim"
+					],
+					[
+						"applicoint",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"settingmenu",
+						"app/views/pipes/_settings_menu.html.slim"
+					],
+					[
+						"label",
+						"app/controllers/labels_controller.rb"
+					],
+					[
+						"app/views/automated_message_setups/_form.html.slim",
+						"app/views/automated_message_setups/_form.html.slim"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/Dropbox/sublime_projects/codigos.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"2.1",
+						"$(TIMESTAMP_DIR)/.RUBYARCHDIR.-.hitimes.-.2.1.time:"
+					]
+				],
+				"width": 512.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 378.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1920.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"la",
+						"lambda"
+					],
+					[
+						"pipe",
+						"pipe_settings	(_settings_menu.html.slim)"
+					],
+					[
+						"organiza",
+						"organization	(en.yml)"
+					],
+					[
+						"Report",
+						"ReportExport	(report_export.rb)"
+					],
+					[
+						"fie",
+						"field"
+					],
+					[
+						"first",
+						"first_phase_card"
+					],
+					[
+						"save",
+						"save_and_generate	(report_export.rb)"
+					],
+					[
+						"report",
+						"report_export"
+					],
+					[
+						"pre",
+						"previous_phase"
+					],
+					[
+						"wi",
+						"wait_until	(base.rb)"
+					],
+					[
+						"in",
+						"index_to_move"
+					],
+					[
+						"to",
+						"to_f"
+					],
+					[
+						"next",
+						"next_phase"
+					],
+					[
+						"get",
+						"get_edit"
+					],
+					[
+						"con",
+						"context	context"
+					],
+					[
+						"field",
+						"field2"
+					],
+					[
+						"empty",
+						"empty_add"
+					],
+					[
+						"fields",
+						"fields"
+					],
+					[
+						"put",
+						"put_update"
+					],
+					[
+						"jump",
+						"jump_to_phase	(routes.rb)"
+					],
+					[
+						"current",
+						"current_pipe"
+					],
+					[
+						"start",
+						"start_form	(routes.rb)"
+					],
+					[
+						"sub",
+						"subquery"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"curret",
+						"current_pipe	(email_templates_controller.rb)"
+					],
+					[
+						"star",
+						"start_time"
+					],
+					[
+						"expect",
+						"expected_time"
+					],
+					[
+						"loca",
+						"localed_hour	(feature_due_date.rb)"
+					],
+					[
+						"up",
+						"updated_hour	(feature_due_date.rb)"
+					],
+					[
+						"crea",
+						"created_date	(due_date_in_en_spec.rb)"
+					],
+					[
+						"pip",
+						"pipe1"
+					],
+					[
+						"or",
+						"organizations"
+					],
+					[
+						"check",
+						"checkbox"
+					],
+					[
+						"raw",
+						"raw_invitation_token	(invite_accepting_flow_spec.rb)"
+					],
+					[
+						"invite",
+						"invited_users	(user.rb)"
+					],
+					[
+						"RA",
+						"Rails	(suppress_logs.rb)"
+					],
+					[
+						"card",
+						"card_value"
+					],
+					[
+						"and",
+						"and_return	(analytics_spec.rb)"
+					],
+					[
+						"fe",
+						"features	(rails_helper.rb)"
+					],
+					[
+						"nav",
+						"nav_right	(base.html.slim)"
+					],
+					[
+						"post",
+						"post_create"
+					],
+					[
+						"subj",
+						"subject"
+					],
+					[
+						"email",
+						"email_templates"
+					],
+					[
+						"email_",
+						"email_templates	(routes.rb)"
+					],
+					[
+						"han",
+						"handlebars_options	(_form.html.slim)"
+					],
+					[
+						"header",
+						"header_organization	(base.html.slim)"
+					],
+					[
+						"cur",
+						"current_pipe"
+					],
+					[
+						"match",
+						"match_array	(email_templates_controller_spec.rb)"
+					],
+					[
+						"mar",
+						"margin-mini-bottom"
+					],
+					[
+						"service",
+						"service_event"
+					],
+					[
+						"custom",
+						"custom_attributes"
+					],
+					[
+						"des",
+						"described_class"
+					],
+					[
+						"user",
+						"user_client"
+					],
+					[
+						"any",
+						"any_args	(mixpanel_spec.rb)"
+					],
+					[
+						"expe",
+						"expected_attributes"
+					],
+					[
+						"user_",
+						"user_attributes"
+					],
+					[
+						"clone",
+						"cloned_pipe1"
+					],
+					[
+						"descr",
+						"described_class	(analytics_spec.rb)"
+					],
+					[
+						"mode",
+						"module	(analytics.rb)"
+					],
+					[
+						"orga",
+						"organization_id"
+					],
+					[
+						"role",
+						"role_ids"
+					],
+					[
+						"fla",
+						"flash	flash[…]"
+					],
+					[
+						"re",
+						"resources"
+					],
+					[
+						"text",
+						"text_field"
+					],
+					[
+						"opt",
+						"opts"
+					],
+					[
+						"html",
+						"html_opts"
+					],
+					[
+						"lsf",
+						"lsf_properties"
+					],
+					[
+						"ibm_",
+						"ibm_elb_properties"
+					],
+					[
+						"ibm",
+						"ibm_http_properties"
+					],
+					[
+						"lan",
+						"landmark_elb_properties"
+					],
+					[
+						"landmar",
+						"landmark_properties"
+					],
+					[
+						"pro",
+						"properties"
+					],
+					[
+						"pe",
+						"pendding_ad"
+					],
+					[
+						"pen",
+						"pendding_ad"
+					],
+					[
+						"sts",
+						"statuses"
+					],
+					[
+						"new",
+						"new_state"
+					],
+					[
+						"update",
+						"update_attributes"
+					],
+					[
+						"statu",
+						"statuses	(contracted_plan.rb)"
+					],
+					[
+						"exist",
+						"exists	(contracted_plan_spec.rb)"
+					],
+					[
+						"produ",
+						"product"
+					],
+					[
+						"set",
+						"set_roles"
+					],
+					[
+						"cu",
+						"current_organization"
+					],
+					[
+						"op",
+						"opts"
+					],
+					[
+						"en",
+						"entitlements	(contracted_service.rb)"
+					],
+					[
+						"contracted",
+						"contracted_service"
+					],
+					[
+						"contr",
+						"contracted_node"
+					],
+					[
+						"contracte",
+						"contracted_node"
+					],
+					[
+						"contra",
+						"contracted_service"
+					],
+					[
+						"En",
+						"Entitlements	(services_controller.rb)"
+					],
+					[
+						"cont",
+						"content_for	(show.html.erb)"
+					],
+					[
+						"st",
+						"start_date"
+					],
+					[
+						"sta",
+						"star_end_time"
+					],
+					[
+						"content",
+						"content_for"
+					],
+					[
+						"subn",
+						"subnet_ids"
+					],
+					[
+						"Data",
+						"DataCenter"
+					],
+					[
+						"data_ce",
+						"data_centers"
+					],
+					[
+						"ava",
+						"availabel_in_dc_by_kind"
+					],
+					[
+						"tra",
+						"transaction"
+					],
+					[
+						"subnet",
+						"subnet_pro_1"
+					],
+					[
+						"contract",
+						"contracted_landscape"
+					],
+					[
+						"land",
+						"landscapes_service	(contracted_landscape.rb)"
+					],
+					[
+						"data",
+						"data_center	(data_center.rake)"
+					],
+					[
+						"create",
+						"create_with"
+					],
+					[
+						"og",
+						"organization"
+					],
+					[
+						"o",
+						"organization"
+					],
+					[
+						"prod",
+						"production	(20160413180252_add_zone_and_production.rb)"
+					],
+					[
+						"ser",
+						"serializer"
+					],
+					[
+						"landsc",
+						"landscapes	(en.yml)"
+					],
+					[
+						"real",
+						"realtime_view"
+					],
+					[
+						"contracted_land",
+						"contracted_landscapes	(show.html.erb)"
+					],
+					[
+						"ope",
+						"operating_system_id	(contracted_node.rb)"
+					],
+					[
+						"node",
+						"node_value"
+					],
+					[
+						"opts",
+						"opts_addon"
+					],
+					[
+						"reserv",
+						"reserved_subnet"
+					],
+					[
+						"inter",
+						"internal_code"
+					],
+					[
+						"Blu",
+						"BlueprintSerializer"
+					],
+					[
+						"os",
+						"operating_system_id"
+					],
+					[
+						"provi",
+						"provider_name"
+					],
+					[
+						"para",
+						"parameterize"
+					],
+					[
+						"load",
+						"load_contracted_plan"
+					],
+					[
+						"ad",
+						"addon	(contracted_service.rb)"
+					],
+					[
+						"install",
+						"installing"
+					],
+					[
+						"not",
+						"not_addons	(contracted_service.rb)"
+					],
+					[
+						"no",
+						"notify"
+					],
+					[
+						"send",
+						"send_email"
+					],
+					[
+						"acc",
+						"access_params"
+					],
+					[
+						"validate",
+						"validate_presence_of"
+					],
+					[
+						"has",
+						"has_many"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/marciotrindade/pipefy/pipefy/config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 6484,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"List",
+							""
+						],
+						[
+							"Rspec",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Rspec",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "rubo",
+				"selected_items":
+				[
+					[
+						"rubo",
+						"RuboCop: Check current file"
+					],
+					[
+						"delete",
+						"File: Delete"
+					],
+					[
+						"path",
+						"File: Copy Path"
+					],
+					[
+						"dele",
+						"File: Delete"
+					],
+					[
+						"duplicate",
+						"File: Duplicate"
+					],
+					[
+						"hash",
+						"Convert Hashes"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"rubocop",
+						"RuboCop: Check current file"
+					],
+					[
+						"rename",
+						"File: Rename"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"dash",
+						"DashDoc: invoke Dash with selected word"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"duplic",
+						"File: Duplicate"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"dupli",
+						"File: Duplicate"
+					],
+					[
+						"duplica",
+						"File: Duplicate"
+					],
+					[
+						"gitbla",
+						"Git: Blame"
+					],
+					[
+						"gitb",
+						"Git: Blame"
+					],
+					[
+						"ruboc",
+						"RuboCop: Check current file"
+					],
+					[
+						"mo",
+						"File: Move"
+					],
+					[
+						"git:",
+						"Git: Blame"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"ranem",
+						"ColorSchemeSelector: Random Color Scheme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"rena",
+						"File: Rename"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"forma",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"form",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"fo",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"for",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"search",
+						"Search In Project"
+					],
+					[
+						"ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"title",
+						"Convert Case: Title Case"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"theme",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"jsonl",
+						"Pretty JSON: Validate"
+					],
+					[
+						"sql",
+						"SQL Beautifier: Format Current SQL File"
+					],
+					[
+						"rails partia",
+						"Snippet: insert a rails view password_field_tag helper"
+					],
+					[
+						"dupl",
+						"File: Duplicate"
+					],
+					[
+						"reanme",
+						"File: Rename"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"color",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"tex",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"jso",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"dup",
+						"File: Duplicate"
+					],
+					[
+						"title ",
+						"Convert Case: Title Case"
+					],
+					[
+						"upper",
+						"Convert Case: Upper Case"
+					],
+					[
+						"csv",
+						"CSV: Justify columns"
+					],
+					[
+						"ren",
+						"File: Rename"
+					],
+					[
+						"todo",
+						"SimpleTODO: List TODO"
+					],
+					[
+						"select",
+						"Snippet: assert_select"
+					],
+					[
+						"du",
+						"File: Duplicate"
+					],
+					[
+						"MO",
+						"File: Move"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"renam",
+						"File: Rename"
+					],
+					[
+						"renm",
+						"File: Rename"
+					],
+					[
+						"copy",
+						"File: Copy Path"
+					],
+					[
+						"del",
+						"File: Delete"
+					],
+					[
+						"block",
+						"Toggle Block Comment"
+					],
+					[
+						"dulp",
+						"File: Duplicate"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"table",
+						"Table Editor: Enable for current view"
+					],
+					[
+						"mak",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"erb",
+						"Snippet: output ERB tags"
+					],
+					[
+						"yml",
+						"Set Syntax: YAML"
+					],
+					[
+						"colo",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"mult",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"mul",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"package",
+						"Package Control: Discover Packages"
+					],
+					[
+						"better",
+						"Set Syntax: Better RSpec"
+					],
+					[
+						"cs",
+						"CSV: Justify columns"
+					],
+					[
+						"dahs",
+						"DashDoc: invoke Dash with selected word"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"rspec",
+						"Set Syntax: RSpec"
+					],
+					[
+						"ma",
+						"Set Syntax: Markdown"
+					],
+					[
+						"conflu",
+						"Markup Jira Confluence: Post page to Jira Confluence"
+					],
+					[
+						"confluen",
+						"Markup Jira Confluence: Post page to Jira Confluence"
+					],
+					[
+						"conflue",
+						"Markup Jira Confluence: Post page to Jira Confluence"
+					],
+					[
+						"ngin",
+						"Set Syntax: nginx"
+					],
+					[
+						"ng",
+						"Set Syntax: nginx"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"case",
+						"Convert Case: Title Case"
+					],
+					[
+						"them",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"shc",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"ruy",
+						"Set Syntax: Ruby"
+					],
+					[
+						"rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ru",
+						"Set Syntax: Ruby"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"jaca",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"colors",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Enable Package"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"pla",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"te",
+						"Set Syntax: TeX"
+					],
+					[
+						"j",
+						"Set Syntax: JavaScript (Rails)"
+					],
+					[
+						"gitl",
+						"Git: Log All"
+					]
+				],
+				"width": 584.0
+			},
+			"console":
+			{
+				"height": 752.0,
+				"history":
+				[
+					"help",
+					"reload"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/marciotrindade/pipefy/pipefy",
+				"/Users/marciotrindade/pipefy/pipefy/app",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipe_settings",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/layouts/pipe_settings",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/phases",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/pipes",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipe_settings",
+				"/Users/marciotrindade/pipefy/pipefy/spec/routing",
+				"/Users/marciotrindade/pipefy/pipefy/spec/routing/pipe_settings"
+			],
+			"file_history":
+			[
+				"/Users/marciotrindade/pipefy/pipefy/app/models/card.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/card_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/bin/quality",
+				"/Users/marciotrindade/pipefy/pipefy/app/helpers/email_templates_helper.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/helpers/email_templates_helper_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/reports/_navbar.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipes/_header.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/organizations/_pipe.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/spec/routing/pipe_settings/pipes_routing_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/layouts/pipe_settings/_menu.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/onboarding/e2/tour_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipes/_settings_menu.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/pt-BR.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/en.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/routes.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipe_settings/pipes_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/pipes/edit.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/pipes/_form.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/settings/pipe_labels_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/card_phase_detail_time_entry_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipes_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipes_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipe_settings/pipes_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipe_settings/base_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/organization.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipes/_form.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/spec/routing/pipe_settings/email_templates_routing_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/.travis.yml",
+				"/Users/marciotrindade/pipefy/pipefy/.git/COMMIT_EDITMSG",
+				"/Users/marciotrindade/pipefy/pipefy/README.md",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/report_export.rb",
+				"/Users/marciotrindade/pipefy/pipefy/lib/tasks/pipefy.rake",
+				"/Users/marciotrindade/pipefy/pipefy/spec/factories/reports_factory.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/report_export_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/Gemfile",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/concerns/reportable.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/workers/report_export_worker.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/fixtures/cards.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/initializers/aws.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/factories/report_exports_factory.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/report.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/uploads_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app.json",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/phase.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/phase_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/config/brakeman.ignore",
+				"/Users/marciotrindade/pipefy/pipefy/.brakeman.json",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/onboarding_users_cant_close_first_start_form_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/support/features/base.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/support/features/capybara.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/assets/javascripts/v3/helpers/tour_helpers.js.coffee",
+				"/Users/marciotrindade/pipefy/pipefy/config/secrets.yml",
+				"/Users/marciotrindade/pipefy/pipefy/.git/rebase-merge/git-rebase-todo",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipe_settings/phases_controller.rb",
+				"/Users/marciotrindade/Dropbox/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipe_settings/phases_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/fixtures/phases.yml",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/concerns/cache_invalidatable.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/tour/open_card_tours_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/phases_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/routing/pipe_settings/start_form_routing_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/phases/_field_list.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/phases/_form.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/phases/index.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/Gemfile.lock",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/phases/_field_list.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/spec/routing/pipe_settings/phases_routing_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/support/features/pipe.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/tabs/previous_phases/basic_previous_phase_display_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/settings/phase_edit_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/presenters/phase_ui_presenter_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/settings/pipe_setup_phase_list_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/settings/pipe_connections_settings_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipe_settings/start_forms_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipe_settings/start_forms_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/factories/field_types_factory.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipes_controller_update_start_form_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/factories/fields_factory.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/start_forms/_email_inbox.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/helpers/pipes_helper.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/start_forms/show.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/start_forms/_public_form.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/start_forms/_email_setup.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/fields_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/fields_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/automated_message_setups_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipe_connections_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/automated_message_setups_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/presenters/phase_ui_presenter.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/phases/edit.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/field.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/pipe.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/fixtures/pipes.yml",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipes/show.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/phases/new.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/fields/_field.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/fields/_field.html.erb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipe_settings/email_templates_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipe_settings/labels_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/application_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/ability.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/phases_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/config/initializers/intercom.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/assets/stylesheets/v3/_tour-v2.scss",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/checklist_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/pipe_clone_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/devise_invitable.en.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/simple_form.en.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/devise_invitable.en-US.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/devise.en-US.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/devise.en.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/database.yml",
+				"/Users/marciotrindade/pipefy/pipefy/app/presenters/clone_presenters/pipe_presenter.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/download_pipe_exportation_file_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/spec_helper.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/database_field_creation_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/database_record_creation_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/database_table_creation_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/database_table_edition_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/database/currency_field_in_edit_form_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/user_department_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/organization_industry_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/previous_phase_field_types/due_date_in_pt_br_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/previous_phase_field_types/date_in_pt_br_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/due_date/due_date_in_pt_br_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/current_phase_field_types/date_time_in_pt_br_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/current_phase_field_types/date_in_pt_br_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/current_phase_field_types/currency_spec.rb"
+			],
+			"find":
+			{
+				"height": 58.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/spec",
+					"",
+					"render ",
+					"",
+					"/Users/marciotrindade/locaweb/saas/backup-de-sites/app/views/servers",
+					"",
+					"/Users/marciotrindade/locaweb/emkt-core/spec_truncation",
+					"/Users/marciotrindade/locaweb/emkt-core/spec",
+					"",
+					"/Users/marciotrindade/locaweb/emkt-workers/app",
+					"",
+					"/Users/marciotrindade/locaweb/emailmarketing/config/locales",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"cloning",
+					"expired_conditions",
+					"EXPIRED_SCOPE_QUERY_CONDITIONS",
+					"self.",
+					"\"",
+					"database_table",
+					"database_record",
+					"\"",
+					"cloning",
+					"edit_pipe_path",
+					"offense",
+					"offenses",
+					"(.*) - (.*)",
+					"class=(",
+					"@pip",
+					"pipe_params",
+					"update",
+					"edit",
+					"phase",
+					"set_organizations_to_move",
+					"accessible_by",
+					"set_organizations_to_move",
+					"@pipe",
+					"pipe_id",
+					"email_template",
+					"email_templates",
+					"dirname",
+					"CsvShaper",
+					"export_fields",
+					"generate_csv_and_store",
+					"columns_mapping",
+					"export_fields",
+					"ordered_fields",
+					"title",
+					"\"",
+					"CsvShaper",
+					"fields",
+					"export",
+					"columns_mapping",
+					"Reportable",
+					"S3_BUCKET",
+					"CsvShaper",
+					"kaminari",
+					"self.",
+					"lateness_unit",
+					"card_phase_detail_time_entry",
+					", disabled: :all",
+					"['disabled'] == 'false'",
+					".include?('hidden')",
+					"sleep(0.2)",
+					"sleep(1)",
+					"1",
+					"0.5",
+					"js-e2-pipe-tour-pipe-button",
+					"first_phase?",
+					"\\\"",
+					"move",
+					"put_forward",
+					"phase2",
+					"first",
+					"phases",
+					"load_for_phase_edit",
+					"O que você quer que seja feito ou informado nessa fase?",
+					"field_list",
+					"current_phase",
+					"def open_card",
+					"edit_phase_path",
+					"pipe_settings",
+					"pipe_settings.phases.form.pipe_connection.new",
+					"from_name",
+					"phase",
+					"get_edit",
+					" successfully updated",
+					"update",
+					", ",
+					"set_organizations_to_move",
+					"text_fields",
+					"string",
+					"_html",
+					"text_fields",
+					"short_text",
+					"email_from_address_field_id",
+					"f.",
+					"f",
+					"short_text_fields",
+					":email_from_name_field_id",
+					"email_inbox",
+					"@pipe",
+					"users_for_store",
+					"@pipe",
+					"card_title_description",
+					"settings_pipe_phases",
+					"edit_phase_path",
+					"phase_fields_description",
+					"put_update",
+					"no_content",
+					"go_to_pipe",
+					"edit_settings_pipe_phase_path",
+					"pipe_phases_path",
+					"prepare_phase",
+					"settings_pipe_phase_path",
+					"pipe_id: @phase.pipe.id, pipe_name: @phase.pipe.name, ",
+					"track_ordered_phase",
+					"pipe_phases_path",
+					"event_params",
+					"connected_pipes",
+					"edit_phase_path",
+					"phases",
+					"pipe",
+					".has-hint",
+					"action_buttons",
+					"users_for_store",
+					"options",
+					"possible_jump_targets",
+					"label",
+					"def track_event",
+					"destroy",
+					"phase",
+					"label",
+					"track_event",
+					"phases",
+					"label",
+					"Proc.new",
+					"count",
+					"\", \"",
+					"<<",
+					"<<<",
+					"tour"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"$2 - $1",
+					"users(:pipe_org_admin)",
+					"pending",
+					"$2",
+					"render ",
+					":$1",
+					"product_properties_check('$1', $2, dynamic: true)",
+					"product_properties_radio('$1', $2, default: true)",
+					"product_properties_check('$1', $2, default: true)",
+					"$1",
+					"{{ server_hostname }}",
+					"current_site",
+					"ApiClient",
+					"",
+					"set_flash",
+					"$3",
+					"$1;",
+					"$2",
+					"",
+					", ",
+					"{account_id: $1, message_id: $2, batch: $3},",
+					"",
+					"$2,$1,hm8307\\n",
+					"$2,$1,hm8307",
+					"{account_id: $1, message_id: $2},",
+					"$2,$1,hm1720\\n",
+					"$2,$1,hm950\\n",
+					"$2,$1,hm950",
+					"$2,$1,hm638",
+					"\\n",
+					"\"",
+					"\"\\n\"",
+					"'\\n'",
+					"$1",
+					"\\n",
+					"be_falsey",
+					"be_truthy",
+					"be_falsey",
+					"be_truthy",
+					"ls-label",
+					"ls-label-text",
+					"{\"$3\" => \"$1\"},",
+					"{\"$3}\" => \"$1\"},",
+					"\\n",
+					"",
+					"\\n",
+					"",
+					"\\n",
+					"",
+					"$1, $3, $5",
+					"Host.find_by_ip(\"$2\").update_attribute(:name, \"$3\")",
+					"$2,$3,$1",
+					",\\n",
+					"$1",
+					",\\n",
+					",",
+					",\\n",
+					"$2",
+					"",
+					"\\n",
+					"",
+					"\"$1\",",
+					"$1",
+					"\",\\n\"",
+					",\\n",
+					"$1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/marciotrindade/pipefy/pipefy"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/marciotrindade/pipefy/pipefy/config/routes.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6484,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2982,
+										2989
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/Rails/Ruby on Rails.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 53.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o:///Users/marciotrindade/locaweb/emkt-bounces/app/workers":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/marciotrindade/locaweb/emkt-provisioner/spec/lib":
+			{
+				"height": 112.0
+			},
+			"output.GoSublime-output":
+			{
+				"height": 100.0
+			},
+			"output.MarGo-output":
+			{
+				"height": 100.0
+			},
+			"output.exec":
+			{
+				"height": 406.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/Bash.sublime-build",
+			"position": "0 0 4 1920 1173 0 0 1920 1177 ",
+			"project": "",
+			"replace":
+			{
+				"height": 100.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"card",
+						"app/models/card.rb"
+					],
+					[
+						"qua",
+						"bin/quality"
+					],
+					[
+						"routpip",
+						"spec/routing/pipe_settings/pipes_routing_spec.rb"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"pipemenu",
+						"app/views/layouts/pipe_settings/_menu.html.slim"
+					],
+					[
+						"en",
+						"config/locales/en.yml"
+					],
+					[
+						"pt",
+						"config/locales/pt-BR.yml"
+					],
+					[
+						"pipecontroller",
+						"app/controllers/pipes_controller.rb"
+					],
+					[
+						"basecontroller",
+						"app/controllers/pipe_settings/base_controller.rb"
+					],
+					[
+						"organi",
+						"app/models/organization.rb"
+					],
+					[
+						"pipescontroller",
+						"app/controllers/pipes_controller.rb"
+					],
+					[
+						"ptbr",
+						"config/locales/pt-BR.yml"
+					],
+					[
+						"report",
+						"app/models/report_export.rb"
+					],
+					[
+						"reportable",
+						"app/models/concerns/reportable.rb"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"reportfac",
+						"spec/factories/reports_factory.rb"
+					],
+					[
+						"cards",
+						"spec/fixtures/cards.yml"
+					],
+					[
+						"reportexport",
+						"app/models/report_export.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"phase",
+						"app/models/phase.rb"
+					],
+					[
+						"travi",
+						".travis.yml"
+					],
+					[
+						"secrets",
+						"config/secrets.yml"
+					],
+					[
+						"phasecontroller",
+						"app/controllers/pipe_settings/phases_controller.rb"
+					],
+					[
+						"phasecontrolelr",
+						"app/controllers/pipe_settings/phases_controller.rb"
+					],
+					[
+						"phasescontroller",
+						"app/controllers/pipe_settings/phases_controller.rb"
+					],
+					[
+						"phasesyml",
+						"spec/fixtures/phases.yml"
+					],
+					[
+						"cacheinvalidatable",
+						"app/models/concerns/cache_invalidatable.rb"
+					],
+					[
+						"phaserb",
+						"app/models/phase.rb"
+					],
+					[
+						"phasecon",
+						"app/controllers/phases_controller.rb"
+					],
+					[
+						"phases",
+						"spec/fixtures/phases.yml"
+					],
+					[
+						"routingstart",
+						"spec/routing/pipe_settings/start_form_routing_spec.rb"
+					],
+					[
+						"pt-",
+						"config/locales/pt-BR.yml"
+					],
+					[
+						"routephases",
+						"spec/routing/pipe_settings/phases_routing_spec.rb"
+					],
+					[
+						"field_type",
+						"spec/factories/field_types_factory.rb"
+					],
+					[
+						"fieldtype",
+						"spec/factories/field_types_factory.rb"
+					],
+					[
+						"fieldfac",
+						"spec/factories/fields_factory.rb"
+					],
+					[
+						"app/controllers/pipe_connections_controller.rb",
+						"app/controllers/pipe_connections_controller.rb"
+					],
+					[
+						"app/controllers/fields_controller.rb",
+						"app/controllers/fields_controller.rb"
+					],
+					[
+						"pipe",
+						"app/models/pipe.rb"
+					],
+					[
+						"field",
+						"app/models/field.rb"
+					],
+					[
+						"app/controllers/automated_message_setups_controller.rb",
+						"app/controllers/automated_message_setups_controller.rb"
+					],
+					[
+						"app/views/pipes/show.html.slim",
+						"app/views/pipes/show.html.slim"
+					],
+					[
+						"app/presenters/phase_ui_presenter.rb",
+						"app/presenters/phase_ui_presenter.rb"
+					],
+					[
+						"pipes",
+						"spec/fixtures/pipes.yml"
+					],
+					[
+						"applicationcontroller",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"abili",
+						"app/models/ability.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"intercom",
+						"config/initializers/intercom.rb"
+					],
+					[
+						"interco",
+						"config/initializers/intercom.rb"
+					],
+					[
+						"app/assets/stylesheets/v3/_tour-v2.scss",
+						"app/assets/stylesheets/v3/_tour-v2.scss"
+					],
+					[
+						"data",
+						"config/database.yml"
+					],
+					[
+						"pipepresenter",
+						"app/presenters/clone_presenters/pipe_presenter.rb"
+					],
+					[
+						"pipecontr",
+						"app/controllers/pipes_controller.rb"
+					],
+					[
+						"invali",
+						"app/models/concerns/cache_invalidatable.rb"
+					],
+					[
+						"labelscontroller",
+						"app/controllers/pipe_settings/labels_controller.rb"
+					],
+					[
+						"applica",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"applicationcon",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"app/views/layouts/_nav_right.html.slim",
+						"app/views/layouts/_nav_right.html.slim"
+					],
+					[
+						"automatedmessage",
+						"app/models/automated_message.rb"
+					],
+					[
+						"config/initializers/intercom.rb",
+						"config/initializers/intercom.rb"
+					],
+					[
+						"applicationhtml",
+						"app/views/layouts/application.html.slim"
+					],
+					[
+						"show",
+						"app/views/automated_message_setups/show.html.erb"
+					],
+					[
+						"deve",
+						"config/environments/development.rb"
+					],
+					[
+						"capybara",
+						"spec/support/features/capybara.rb"
+					],
+					[
+						"application.rb",
+						"config/application.rb"
+					],
+					[
+						"applicationrb",
+						"config/application.rb"
+					],
+					[
+						"application",
+						"config/application.rb"
+					],
+					[
+						"enus",
+						"config/locales/en-US.yml"
+					],
+					[
+						"labels",
+						"app/controllers/labels_controller.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"pipesco",
+						"app/controllers/pipes_controller.rb"
+					],
+					[
+						"_closed_show",
+						"app/views/cards/_closed_show.html.slim"
+					],
+					[
+						"fieldvalu",
+						"app/models/card_field_value.rb"
+					],
+					[
+						"capy",
+						"spec/support/features/capybara.rb"
+					],
+					[
+						"users",
+						"spec/fixtures/users.yml"
+					],
+					[
+						"puma",
+						"config/puma.rb"
+					],
+					[
+						"spec/features/public_form_spec.rb",
+						"spec/features/public_form_spec.rb"
+					],
+					[
+						"travis",
+						".travis.yml"
+					],
+					[
+						"cardphasedetailuipresenter",
+						"app/presenters/card_phase_detail_ui_presenter.rb"
+					],
+					[
+						"users.yml",
+						"spec/fixtures/users.yml"
+					],
+					[
+						"carduipresenter",
+						"app/presenters/card_ui_presenter.rb"
+					],
+					[
+						"cardscontroller",
+						"app/controllers/cards_controller.rb"
+					],
+					[
+						"usersyml",
+						"spec/fixtures/users.yml"
+					],
+					[
+						"features/open_card/due_date/due_date_in_en_spec.rb",
+						"spec/features/open_card/due_date/due_date_in_en_spec.rb"
+					],
+					[
+						"spec/features/invite_users_to_organization_spec.rb",
+						"spec/features/invite_users_to_organization_spec.rb"
+					],
+					[
+						"spec/features/manage_pipe_members_spec.rb",
+						"spec/features/manage_pipe_members_spec.rb"
+					],
+					[
+						"side",
+						"config/sidekiq.yml"
+					],
+					[
+						"cardrb",
+						"app/models/card.rb"
+					],
+					[
+						"spec/features/open_card/current_phase_field_types/assignee_select_spec.rb",
+						"spec/features/open_card/current_phase_field_types/assignee_select_spec.rb"
+					],
+					[
+						"spec/features/open_card/card_assignees_spec.rb",
+						"spec/features/open_card/card_assignees_spec.rb"
+					],
+					[
+						"spec/features/onboarding/onboarding_header_steps_spec.rb",
+						"spec/features/onboarding/onboarding_header_steps_spec.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"userrole",
+						"app/models/users_role.rb"
+					],
+					[
+						"userrb",
+						"app/models/user.rb"
+					],
+					[
+						"automatem",
+						"app/controllers/automated_messages_controller.rb"
+					],
+					[
+						"anal",
+						"app/models/analytics.rb"
+					],
+					[
+						"ana",
+						"app/models/analytics.rb"
+					],
+					[
+						"pi",
+						"app/models/pipe.rb"
+					],
+					[
+						"publicactivity",
+						"tmp/rubycritic/app/models/public_activity_publisher.html"
+					],
+					[
+						"publicacti",
+						"app/models/public_activity_publisher.rb"
+					],
+					[
+						"userspec",
+						"spec/models/user_spec.rb"
+					],
+					[
+						"role",
+						"app/models/role.rb"
+					],
+					[
+						"spec/features/settings/email_template_settings_spec.rb",
+						"spec/features/settings/email_template_settings_spec.rb"
+					],
+					[
+						"pipes/settings_menu",
+						"app/views/pipes/_settings_menu.html.slim"
+					],
+					[
+						"pipes/header",
+						"app/views/pipes/_header.html.slim"
+					],
+					[
+						"layoutshead",
+						"app/views/layouts/_header.html.slim"
+					],
+					[
+						"layouts/header",
+						"app/views/layouts/_header.html.slim"
+					],
+					[
+						"sharedlan",
+						"app/views/shared/_launchpad.html.slim"
+					],
+					[
+						"applicationhtmlslim",
+						"app/views/layouts/application.html.slim"
+					],
+					[
+						"app/views/pipe_settings/email_templates/index.html.slim",
+						"app/views/pipe_settings/email_templates/index.html.slim"
+					],
+					[
+						"app/views/pipe_settings/email_templates/edit.html.slim",
+						"app/views/pipe_settings/email_templates/edit.html.slim"
+					],
+					[
+						"app/views/pipe_settings/email_templates/_form.html.slim",
+						"app/views/pipe_settings/email_templates/_form.html.slim"
+					],
+					[
+						"app/views/email_templates/index.html.slim",
+						"app/views/email_templates/index.html.slim"
+					],
+					[
+						"source/assets/javascripts/components/views/_bundle.js",
+						"source/assets/javascripts/components/views/_bundle.js"
+					],
+					[
+						"applicationcss",
+						"tmp/rubycritic/assets/stylesheets/application.css"
+					],
+					[
+						"app/views/phases/_form.html.erb",
+						"app/views/phases/_form.html.erb"
+					],
+					[
+						"cacheinvalidationworker",
+						"app/workers/cache_invalidation_worker.rb"
+					],
+					[
+						"cache",
+						"app/models/concerns/cache_invalidatable.rb"
+					],
+					[
+						"en-us",
+						"config/locales/en-US.yml"
+					],
+					[
+						"cardshow",
+						"app/views/card_field_values/show.json.jbuilder"
+					],
+					[
+						"emailtemplateconsp",
+						"spec/controllers/email_templates_controller_spec.rb"
+					],
+					[
+						"email",
+						"app/models/email_template.rb"
+					],
+					[
+						"spec/controllers/labels_controller_spec.rb",
+						"spec/controllers/labels_controller_spec.rb"
+					],
+					[
+						"layouts/pipe_settings/menu",
+						"app/views/layouts/pipe_settings/_menu.html.slim"
+					],
+					[
+						"applicoint",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"settingmenu",
+						"app/views/pipes/_settings_menu.html.slim"
+					],
+					[
+						"label",
+						"app/controllers/labels_controller.rb"
+					],
+					[
+						"app/views/automated_message_setups/_form.html.slim",
+						"app/views/automated_message_setups/_form.html.slim"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/Dropbox/sublime_projects/codigos.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"2.1",
+						"$(TIMESTAMP_DIR)/.RUBYARCHDIR.-.hitimes.-.2.1.time:"
+					]
+				],
+				"width": 512.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 378.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2557,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"la",
+						"lambda"
+					],
+					[
+						"pipe",
+						"pipe_settings	(_settings_menu.html.slim)"
+					],
+					[
+						"organiza",
+						"organization	(en.yml)"
+					],
+					[
+						"Report",
+						"ReportExport	(report_export.rb)"
+					],
+					[
+						"fie",
+						"field"
+					],
+					[
+						"first",
+						"first_phase_card"
+					],
+					[
+						"save",
+						"save_and_generate	(report_export.rb)"
+					],
+					[
+						"report",
+						"report_export"
+					],
+					[
+						"pre",
+						"previous_phase"
+					],
+					[
+						"wi",
+						"wait_until	(base.rb)"
+					],
+					[
+						"in",
+						"index_to_move"
+					],
+					[
+						"to",
+						"to_f"
+					],
+					[
+						"next",
+						"next_phase"
+					],
+					[
+						"get",
+						"get_edit"
+					],
+					[
+						"con",
+						"context	context"
+					],
+					[
+						"field",
+						"field2"
+					],
+					[
+						"empty",
+						"empty_add"
+					],
+					[
+						"fields",
+						"fields"
+					],
+					[
+						"put",
+						"put_update"
+					],
+					[
+						"jump",
+						"jump_to_phase	(routes.rb)"
+					],
+					[
+						"current",
+						"current_pipe"
+					],
+					[
+						"start",
+						"start_form	(routes.rb)"
+					],
+					[
+						"sub",
+						"subquery"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"curret",
+						"current_pipe	(email_templates_controller.rb)"
+					],
+					[
+						"star",
+						"start_time"
+					],
+					[
+						"expect",
+						"expected_time"
+					],
+					[
+						"loca",
+						"localed_hour	(feature_due_date.rb)"
+					],
+					[
+						"up",
+						"updated_hour	(feature_due_date.rb)"
+					],
+					[
+						"crea",
+						"created_date	(due_date_in_en_spec.rb)"
+					],
+					[
+						"pip",
+						"pipe1"
+					],
+					[
+						"or",
+						"organizations"
+					],
+					[
+						"check",
+						"checkbox"
+					],
+					[
+						"raw",
+						"raw_invitation_token	(invite_accepting_flow_spec.rb)"
+					],
+					[
+						"invite",
+						"invited_users	(user.rb)"
+					],
+					[
+						"RA",
+						"Rails	(suppress_logs.rb)"
+					],
+					[
+						"card",
+						"card_value"
+					],
+					[
+						"and",
+						"and_return	(analytics_spec.rb)"
+					],
+					[
+						"fe",
+						"features	(rails_helper.rb)"
+					],
+					[
+						"nav",
+						"nav_right	(base.html.slim)"
+					],
+					[
+						"post",
+						"post_create"
+					],
+					[
+						"subj",
+						"subject"
+					],
+					[
+						"email",
+						"email_templates"
+					],
+					[
+						"email_",
+						"email_templates	(routes.rb)"
+					],
+					[
+						"han",
+						"handlebars_options	(_form.html.slim)"
+					],
+					[
+						"header",
+						"header_organization	(base.html.slim)"
+					],
+					[
+						"cur",
+						"current_pipe"
+					],
+					[
+						"match",
+						"match_array	(email_templates_controller_spec.rb)"
+					],
+					[
+						"mar",
+						"margin-mini-bottom"
+					],
+					[
+						"service",
+						"service_event"
+					],
+					[
+						"custom",
+						"custom_attributes"
+					],
+					[
+						"des",
+						"described_class"
+					],
+					[
+						"user",
+						"user_client"
+					],
+					[
+						"any",
+						"any_args	(mixpanel_spec.rb)"
+					],
+					[
+						"expe",
+						"expected_attributes"
+					],
+					[
+						"user_",
+						"user_attributes"
+					],
+					[
+						"clone",
+						"cloned_pipe1"
+					],
+					[
+						"descr",
+						"described_class	(analytics_spec.rb)"
+					],
+					[
+						"mode",
+						"module	(analytics.rb)"
+					],
+					[
+						"orga",
+						"organization_id"
+					],
+					[
+						"role",
+						"role_ids"
+					],
+					[
+						"fla",
+						"flash	flash[…]"
+					],
+					[
+						"re",
+						"resources"
+					],
+					[
+						"text",
+						"text_field"
+					],
+					[
+						"opt",
+						"opts"
+					],
+					[
+						"html",
+						"html_opts"
+					],
+					[
+						"lsf",
+						"lsf_properties"
+					],
+					[
+						"ibm_",
+						"ibm_elb_properties"
+					],
+					[
+						"ibm",
+						"ibm_http_properties"
+					],
+					[
+						"lan",
+						"landmark_elb_properties"
+					],
+					[
+						"landmar",
+						"landmark_properties"
+					],
+					[
+						"pro",
+						"properties"
+					],
+					[
+						"pe",
+						"pendding_ad"
+					],
+					[
+						"pen",
+						"pendding_ad"
+					],
+					[
+						"sts",
+						"statuses"
+					],
+					[
+						"new",
+						"new_state"
+					],
+					[
+						"update",
+						"update_attributes"
+					],
+					[
+						"statu",
+						"statuses	(contracted_plan.rb)"
+					],
+					[
+						"exist",
+						"exists	(contracted_plan_spec.rb)"
+					],
+					[
+						"produ",
+						"product"
+					],
+					[
+						"set",
+						"set_roles"
+					],
+					[
+						"cu",
+						"current_organization"
+					],
+					[
+						"op",
+						"opts"
+					],
+					[
+						"en",
+						"entitlements	(contracted_service.rb)"
+					],
+					[
+						"contracted",
+						"contracted_service"
+					],
+					[
+						"contr",
+						"contracted_node"
+					],
+					[
+						"contracte",
+						"contracted_node"
+					],
+					[
+						"contra",
+						"contracted_service"
+					],
+					[
+						"En",
+						"Entitlements	(services_controller.rb)"
+					],
+					[
+						"cont",
+						"content_for	(show.html.erb)"
+					],
+					[
+						"st",
+						"start_date"
+					],
+					[
+						"sta",
+						"star_end_time"
+					],
+					[
+						"content",
+						"content_for"
+					],
+					[
+						"subn",
+						"subnet_ids"
+					],
+					[
+						"Data",
+						"DataCenter"
+					],
+					[
+						"data_ce",
+						"data_centers"
+					],
+					[
+						"ava",
+						"availabel_in_dc_by_kind"
+					],
+					[
+						"tra",
+						"transaction"
+					],
+					[
+						"subnet",
+						"subnet_pro_1"
+					],
+					[
+						"contract",
+						"contracted_landscape"
+					],
+					[
+						"land",
+						"landscapes_service	(contracted_landscape.rb)"
+					],
+					[
+						"data",
+						"data_center	(data_center.rake)"
+					],
+					[
+						"create",
+						"create_with"
+					],
+					[
+						"og",
+						"organization"
+					],
+					[
+						"o",
+						"organization"
+					],
+					[
+						"prod",
+						"production	(20160413180252_add_zone_and_production.rb)"
+					],
+					[
+						"ser",
+						"serializer"
+					],
+					[
+						"landsc",
+						"landscapes	(en.yml)"
+					],
+					[
+						"real",
+						"realtime_view"
+					],
+					[
+						"contracted_land",
+						"contracted_landscapes	(show.html.erb)"
+					],
+					[
+						"ope",
+						"operating_system_id	(contracted_node.rb)"
+					],
+					[
+						"node",
+						"node_value"
+					],
+					[
+						"opts",
+						"opts_addon"
+					],
+					[
+						"reserv",
+						"reserved_subnet"
+					],
+					[
+						"inter",
+						"internal_code"
+					],
+					[
+						"Blu",
+						"BlueprintSerializer"
+					],
+					[
+						"os",
+						"operating_system_id"
+					],
+					[
+						"provi",
+						"provider_name"
+					],
+					[
+						"para",
+						"parameterize"
+					],
+					[
+						"load",
+						"load_contracted_plan"
+					],
+					[
+						"ad",
+						"addon	(contracted_service.rb)"
+					],
+					[
+						"install",
+						"installing"
+					],
+					[
+						"not",
+						"not_addons	(contracted_service.rb)"
+					],
+					[
+						"no",
+						"notify"
+					],
+					[
+						"send",
+						"send_email"
+					],
+					[
+						"acc",
+						"access_params"
+					],
+					[
+						"validate",
+						"validate_presence_of"
+					],
+					[
+						"has",
+						"has_many"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/marciotrindade/pipefy/pipefy/spec/factories/card_phase_detail_time_entry_factory.rb",
+					"settings":
+					{
+						"buffer_size": 147,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"List",
+							""
+						],
+						[
+							"Rspec",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Rspec",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "rubo",
+				"selected_items":
+				[
+					[
+						"rubo",
+						"RuboCop: Check current file"
+					],
+					[
+						"delete",
+						"File: Delete"
+					],
+					[
+						"path",
+						"File: Copy Path"
+					],
+					[
+						"dele",
+						"File: Delete"
+					],
+					[
+						"duplicate",
+						"File: Duplicate"
+					],
+					[
+						"hash",
+						"Convert Hashes"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"rubocop",
+						"RuboCop: Check current file"
+					],
+					[
+						"rename",
+						"File: Rename"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"dash",
+						"DashDoc: invoke Dash with selected word"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"duplic",
+						"File: Duplicate"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"dupli",
+						"File: Duplicate"
+					],
+					[
+						"duplica",
+						"File: Duplicate"
+					],
+					[
+						"gitbla",
+						"Git: Blame"
+					],
+					[
+						"gitb",
+						"Git: Blame"
+					],
+					[
+						"ruboc",
+						"RuboCop: Check current file"
+					],
+					[
+						"mo",
+						"File: Move"
+					],
+					[
+						"git:",
+						"Git: Blame"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"ranem",
+						"ColorSchemeSelector: Random Color Scheme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"rena",
+						"File: Rename"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"forma",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"form",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"fo",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"for",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"search",
+						"Search In Project"
+					],
+					[
+						"ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"title",
+						"Convert Case: Title Case"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"theme",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"jsonl",
+						"Pretty JSON: Validate"
+					],
+					[
+						"sql",
+						"SQL Beautifier: Format Current SQL File"
+					],
+					[
+						"rails partia",
+						"Snippet: insert a rails view password_field_tag helper"
+					],
+					[
+						"dupl",
+						"File: Duplicate"
+					],
+					[
+						"reanme",
+						"File: Rename"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"color",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"tex",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"jso",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"dup",
+						"File: Duplicate"
+					],
+					[
+						"title ",
+						"Convert Case: Title Case"
+					],
+					[
+						"upper",
+						"Convert Case: Upper Case"
+					],
+					[
+						"csv",
+						"CSV: Justify columns"
+					],
+					[
+						"ren",
+						"File: Rename"
+					],
+					[
+						"todo",
+						"SimpleTODO: List TODO"
+					],
+					[
+						"select",
+						"Snippet: assert_select"
+					],
+					[
+						"du",
+						"File: Duplicate"
+					],
+					[
+						"MO",
+						"File: Move"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"renam",
+						"File: Rename"
+					],
+					[
+						"renm",
+						"File: Rename"
+					],
+					[
+						"copy",
+						"File: Copy Path"
+					],
+					[
+						"del",
+						"File: Delete"
+					],
+					[
+						"block",
+						"Toggle Block Comment"
+					],
+					[
+						"dulp",
+						"File: Duplicate"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"table",
+						"Table Editor: Enable for current view"
+					],
+					[
+						"mak",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"erb",
+						"Snippet: output ERB tags"
+					],
+					[
+						"yml",
+						"Set Syntax: YAML"
+					],
+					[
+						"colo",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"mult",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"mul",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"package",
+						"Package Control: Discover Packages"
+					],
+					[
+						"better",
+						"Set Syntax: Better RSpec"
+					],
+					[
+						"cs",
+						"CSV: Justify columns"
+					],
+					[
+						"dahs",
+						"DashDoc: invoke Dash with selected word"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"rspec",
+						"Set Syntax: RSpec"
+					],
+					[
+						"ma",
+						"Set Syntax: Markdown"
+					],
+					[
+						"conflu",
+						"Markup Jira Confluence: Post page to Jira Confluence"
+					],
+					[
+						"confluen",
+						"Markup Jira Confluence: Post page to Jira Confluence"
+					],
+					[
+						"conflue",
+						"Markup Jira Confluence: Post page to Jira Confluence"
+					],
+					[
+						"ngin",
+						"Set Syntax: nginx"
+					],
+					[
+						"ng",
+						"Set Syntax: nginx"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"case",
+						"Convert Case: Title Case"
+					],
+					[
+						"them",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"shc",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"ruy",
+						"Set Syntax: Ruby"
+					],
+					[
+						"rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ru",
+						"Set Syntax: Ruby"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"jaca",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"colors",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Enable Package"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"pla",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"te",
+						"Set Syntax: TeX"
+					],
+					[
+						"j",
+						"Set Syntax: JavaScript (Rails)"
+					],
+					[
+						"gitl",
+						"Git: Log All"
+					]
+				],
+				"width": 584.0
+			},
+			"console":
+			{
+				"height": 752.0,
+				"history":
+				[
+					"help",
+					"reload"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/marciotrindade/pipefy/pipefy/app/models/card.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/card_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/bin/quality",
+				"/Users/marciotrindade/pipefy/pipefy/app/helpers/email_templates_helper.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/helpers/email_templates_helper_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/reports/_navbar.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipes/_header.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/organizations/_pipe.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/spec/routing/pipe_settings/pipes_routing_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/layouts/pipe_settings/_menu.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/onboarding/e2/tour_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipes/_settings_menu.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/pt-BR.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/en.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/routes.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipe_settings/pipes_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/pipes/edit.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/pipes/_form.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/settings/pipe_labels_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/card_phase_detail_time_entry_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipes_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipes_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipe_settings/pipes_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipe_settings/base_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/organization.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipes/_form.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/spec/routing/pipe_settings/email_templates_routing_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/.travis.yml",
+				"/Users/marciotrindade/pipefy/pipefy/.git/COMMIT_EDITMSG",
+				"/Users/marciotrindade/pipefy/pipefy/README.md",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/report_export.rb",
+				"/Users/marciotrindade/pipefy/pipefy/lib/tasks/pipefy.rake",
+				"/Users/marciotrindade/pipefy/pipefy/spec/factories/reports_factory.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/report_export_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/Gemfile",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/concerns/reportable.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/workers/report_export_worker.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/fixtures/cards.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/initializers/aws.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/factories/report_exports_factory.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/report.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/uploads_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app.json",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/phase.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/phase_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/config/brakeman.ignore",
+				"/Users/marciotrindade/pipefy/pipefy/.brakeman.json",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/onboarding_users_cant_close_first_start_form_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/support/features/base.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/support/features/capybara.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/assets/javascripts/v3/helpers/tour_helpers.js.coffee",
+				"/Users/marciotrindade/pipefy/pipefy/config/secrets.yml",
+				"/Users/marciotrindade/pipefy/pipefy/.git/rebase-merge/git-rebase-todo",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipe_settings/phases_controller.rb",
+				"/Users/marciotrindade/Dropbox/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipe_settings/phases_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/fixtures/phases.yml",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/concerns/cache_invalidatable.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/tour/open_card_tours_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/phases_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/routing/pipe_settings/start_form_routing_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/phases/_field_list.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/phases/_form.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/phases/index.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/Gemfile.lock",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/phases/_field_list.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/spec/routing/pipe_settings/phases_routing_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/support/features/pipe.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/tabs/previous_phases/basic_previous_phase_display_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/settings/phase_edit_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/presenters/phase_ui_presenter_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/settings/pipe_setup_phase_list_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/settings/pipe_connections_settings_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipe_settings/start_forms_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipe_settings/start_forms_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/factories/field_types_factory.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipes_controller_update_start_form_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/factories/fields_factory.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/start_forms/_email_inbox.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/helpers/pipes_helper.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/start_forms/show.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/start_forms/_public_form.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/start_forms/_email_setup.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/fields_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/fields_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/automated_message_setups_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/pipe_connections_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/automated_message_setups_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/presenters/phase_ui_presenter.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/phases/edit.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/field.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/pipe.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/fixtures/pipes.yml",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipes/show.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/phases/new.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/fields/_field.html.slim",
+				"/Users/marciotrindade/pipefy/pipefy/app/views/pipe_settings/fields/_field.html.erb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipe_settings/email_templates_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/pipe_settings/labels_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/controllers/application_controller.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/models/ability.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/controllers/phases_controller_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/config/initializers/intercom.rb",
+				"/Users/marciotrindade/pipefy/pipefy/app/assets/stylesheets/v3/_tour-v2.scss",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/checklist_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/pipe_clone_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/devise_invitable.en.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/simple_form.en.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/devise_invitable.en-US.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/devise.en-US.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/locales/devise.en.yml",
+				"/Users/marciotrindade/pipefy/pipefy/config/database.yml",
+				"/Users/marciotrindade/pipefy/pipefy/app/presenters/clone_presenters/pipe_presenter.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/download_pipe_exportation_file_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/spec_helper.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/database_field_creation_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/database_record_creation_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/database_table_creation_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/database_table_edition_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/database/currency_field_in_edit_form_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/user_department_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/models/organization_industry_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/previous_phase_field_types/due_date_in_pt_br_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/previous_phase_field_types/date_in_pt_br_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/due_date/due_date_in_pt_br_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/current_phase_field_types/date_time_in_pt_br_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/current_phase_field_types/date_in_pt_br_spec.rb",
+				"/Users/marciotrindade/pipefy/pipefy/spec/features/open_card/current_phase_field_types/currency_spec.rb"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/spec",
+					"",
+					"render ",
+					"",
+					"/Users/marciotrindade/locaweb/saas/backup-de-sites/app/views/servers",
+					"",
+					"/Users/marciotrindade/locaweb/emkt-core/spec_truncation",
+					"/Users/marciotrindade/locaweb/emkt-core/spec",
+					"",
+					"/Users/marciotrindade/locaweb/emkt-workers/app",
+					"",
+					"/Users/marciotrindade/locaweb/emailmarketing/config/locales",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"cloning",
+					"expired_conditions",
+					"EXPIRED_SCOPE_QUERY_CONDITIONS",
+					"self.",
+					"\"",
+					"database_table",
+					"database_record",
+					"\"",
+					"cloning",
+					"edit_pipe_path",
+					"offense",
+					"offenses",
+					"(.*) - (.*)",
+					"class=(",
+					"@pip",
+					"pipe_params",
+					"update",
+					"edit",
+					"phase",
+					"set_organizations_to_move",
+					"accessible_by",
+					"set_organizations_to_move",
+					"@pipe",
+					"pipe_id",
+					"email_template",
+					"email_templates",
+					"dirname",
+					"CsvShaper",
+					"export_fields",
+					"generate_csv_and_store",
+					"columns_mapping",
+					"export_fields",
+					"ordered_fields",
+					"title",
+					"\"",
+					"CsvShaper",
+					"fields",
+					"export",
+					"columns_mapping",
+					"Reportable",
+					"S3_BUCKET",
+					"CsvShaper",
+					"kaminari",
+					"self.",
+					"lateness_unit",
+					"card_phase_detail_time_entry",
+					", disabled: :all",
+					"['disabled'] == 'false'",
+					".include?('hidden')",
+					"sleep(0.2)",
+					"sleep(1)",
+					"1",
+					"0.5",
+					"js-e2-pipe-tour-pipe-button",
+					"first_phase?",
+					"\\\"",
+					"move",
+					"put_forward",
+					"phase2",
+					"first",
+					"phases",
+					"load_for_phase_edit",
+					"O que você quer que seja feito ou informado nessa fase?",
+					"field_list",
+					"current_phase",
+					"def open_card",
+					"edit_phase_path",
+					"pipe_settings",
+					"pipe_settings.phases.form.pipe_connection.new",
+					"from_name",
+					"phase",
+					"get_edit",
+					" successfully updated",
+					"update",
+					", ",
+					"set_organizations_to_move",
+					"text_fields",
+					"string",
+					"_html",
+					"text_fields",
+					"short_text",
+					"email_from_address_field_id",
+					"f.",
+					"f",
+					"short_text_fields",
+					":email_from_name_field_id",
+					"email_inbox",
+					"@pipe",
+					"users_for_store",
+					"@pipe",
+					"card_title_description",
+					"settings_pipe_phases",
+					"edit_phase_path",
+					"phase_fields_description",
+					"put_update",
+					"no_content",
+					"go_to_pipe",
+					"edit_settings_pipe_phase_path",
+					"pipe_phases_path",
+					"prepare_phase",
+					"settings_pipe_phase_path",
+					"pipe_id: @phase.pipe.id, pipe_name: @phase.pipe.name, ",
+					"track_ordered_phase",
+					"pipe_phases_path",
+					"event_params",
+					"connected_pipes",
+					"edit_phase_path",
+					"phases",
+					"pipe",
+					".has-hint",
+					"action_buttons",
+					"users_for_store",
+					"options",
+					"possible_jump_targets",
+					"label",
+					"def track_event",
+					"destroy",
+					"phase",
+					"label",
+					"track_event",
+					"phases",
+					"label",
+					"Proc.new",
+					"count",
+					"\", \"",
+					"<<",
+					"<<<",
+					"tour"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"$2 - $1",
+					"users(:pipe_org_admin)",
+					"pending",
+					"$2",
+					"render ",
+					":$1",
+					"product_properties_check('$1', $2, dynamic: true)",
+					"product_properties_radio('$1', $2, default: true)",
+					"product_properties_check('$1', $2, default: true)",
+					"$1",
+					"{{ server_hostname }}",
+					"current_site",
+					"ApiClient",
+					"",
+					"set_flash",
+					"$3",
+					"$1;",
+					"$2",
+					"",
+					", ",
+					"{account_id: $1, message_id: $2, batch: $3},",
+					"",
+					"$2,$1,hm8307\\n",
+					"$2,$1,hm8307",
+					"{account_id: $1, message_id: $2},",
+					"$2,$1,hm1720\\n",
+					"$2,$1,hm950\\n",
+					"$2,$1,hm950",
+					"$2,$1,hm638",
+					"\\n",
+					"\"",
+					"\"\\n\"",
+					"'\\n'",
+					"$1",
+					"\\n",
+					"be_falsey",
+					"be_truthy",
+					"be_falsey",
+					"be_truthy",
+					"ls-label",
+					"ls-label-text",
+					"{\"$3\" => \"$1\"},",
+					"{\"$3}\" => \"$1\"},",
+					"\\n",
+					"",
+					"\\n",
+					"",
+					"\\n",
+					"",
+					"$1, $3, $5",
+					"Host.find_by_ip(\"$2\").update_attribute(:name, \"$3\")",
+					"$2,$3,$1",
+					",\\n",
+					"$1",
+					",\\n",
+					",",
+					",\\n",
+					"$2",
+					"",
+					"\\n",
+					"",
+					"\"$1\",",
+					"$1",
+					"\",\\n\"",
+					",\\n",
+					"$1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/marciotrindade/pipefy/pipefy/spec/factories/card_phase_detail_time_entry_factory.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 147,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										83,
+										83
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/Better RSpec/Better RSpec.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 53.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o:///Users/marciotrindade/locaweb/emkt-bounces/app/workers":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/marciotrindade/locaweb/emkt-provisioner/spec/lib":
+			{
+				"height": 112.0
+			},
+			"output.GoSublime-output":
+			{
+				"height": 100.0
+			},
+			"output.MarGo-output":
+			{
+				"height": 100.0
+			},
+			"output.exec":
+			{
+				"height": 406.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/Bash.sublime-build",
+			"position": "0 0 4 1920 1173 0 0 1920 1177 ",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"card",
+						"app/models/card.rb"
+					],
+					[
+						"qua",
+						"bin/quality"
+					],
+					[
+						"routpip",
+						"spec/routing/pipe_settings/pipes_routing_spec.rb"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"pipemenu",
+						"app/views/layouts/pipe_settings/_menu.html.slim"
+					],
+					[
+						"en",
+						"config/locales/en.yml"
+					],
+					[
+						"pt",
+						"config/locales/pt-BR.yml"
+					],
+					[
+						"pipecontroller",
+						"app/controllers/pipes_controller.rb"
+					],
+					[
+						"basecontroller",
+						"app/controllers/pipe_settings/base_controller.rb"
+					],
+					[
+						"organi",
+						"app/models/organization.rb"
+					],
+					[
+						"pipescontroller",
+						"app/controllers/pipes_controller.rb"
+					],
+					[
+						"ptbr",
+						"config/locales/pt-BR.yml"
+					],
+					[
+						"report",
+						"app/models/report_export.rb"
+					],
+					[
+						"reportable",
+						"app/models/concerns/reportable.rb"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"reportfac",
+						"spec/factories/reports_factory.rb"
+					],
+					[
+						"cards",
+						"spec/fixtures/cards.yml"
+					],
+					[
+						"reportexport",
+						"app/models/report_export.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"phase",
+						"app/models/phase.rb"
+					],
+					[
+						"travi",
+						".travis.yml"
+					],
+					[
+						"secrets",
+						"config/secrets.yml"
+					],
+					[
+						"phasecontroller",
+						"app/controllers/pipe_settings/phases_controller.rb"
+					],
+					[
+						"phasecontrolelr",
+						"app/controllers/pipe_settings/phases_controller.rb"
+					],
+					[
+						"phasescontroller",
+						"app/controllers/pipe_settings/phases_controller.rb"
+					],
+					[
+						"phasesyml",
+						"spec/fixtures/phases.yml"
+					],
+					[
+						"cacheinvalidatable",
+						"app/models/concerns/cache_invalidatable.rb"
+					],
+					[
+						"phaserb",
+						"app/models/phase.rb"
+					],
+					[
+						"phasecon",
+						"app/controllers/phases_controller.rb"
+					],
+					[
+						"phases",
+						"spec/fixtures/phases.yml"
+					],
+					[
+						"routingstart",
+						"spec/routing/pipe_settings/start_form_routing_spec.rb"
+					],
+					[
+						"pt-",
+						"config/locales/pt-BR.yml"
+					],
+					[
+						"routephases",
+						"spec/routing/pipe_settings/phases_routing_spec.rb"
+					],
+					[
+						"field_type",
+						"spec/factories/field_types_factory.rb"
+					],
+					[
+						"fieldtype",
+						"spec/factories/field_types_factory.rb"
+					],
+					[
+						"fieldfac",
+						"spec/factories/fields_factory.rb"
+					],
+					[
+						"app/controllers/pipe_connections_controller.rb",
+						"app/controllers/pipe_connections_controller.rb"
+					],
+					[
+						"app/controllers/fields_controller.rb",
+						"app/controllers/fields_controller.rb"
+					],
+					[
+						"pipe",
+						"app/models/pipe.rb"
+					],
+					[
+						"field",
+						"app/models/field.rb"
+					],
+					[
+						"app/controllers/automated_message_setups_controller.rb",
+						"app/controllers/automated_message_setups_controller.rb"
+					],
+					[
+						"app/views/pipes/show.html.slim",
+						"app/views/pipes/show.html.slim"
+					],
+					[
+						"app/presenters/phase_ui_presenter.rb",
+						"app/presenters/phase_ui_presenter.rb"
+					],
+					[
+						"pipes",
+						"spec/fixtures/pipes.yml"
+					],
+					[
+						"applicationcontroller",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"abili",
+						"app/models/ability.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"intercom",
+						"config/initializers/intercom.rb"
+					],
+					[
+						"interco",
+						"config/initializers/intercom.rb"
+					],
+					[
+						"app/assets/stylesheets/v3/_tour-v2.scss",
+						"app/assets/stylesheets/v3/_tour-v2.scss"
+					],
+					[
+						"data",
+						"config/database.yml"
+					],
+					[
+						"pipepresenter",
+						"app/presenters/clone_presenters/pipe_presenter.rb"
+					],
+					[
+						"pipecontr",
+						"app/controllers/pipes_controller.rb"
+					],
+					[
+						"invali",
+						"app/models/concerns/cache_invalidatable.rb"
+					],
+					[
+						"labelscontroller",
+						"app/controllers/pipe_settings/labels_controller.rb"
+					],
+					[
+						"applica",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"applicationcon",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"app/views/layouts/_nav_right.html.slim",
+						"app/views/layouts/_nav_right.html.slim"
+					],
+					[
+						"automatedmessage",
+						"app/models/automated_message.rb"
+					],
+					[
+						"config/initializers/intercom.rb",
+						"config/initializers/intercom.rb"
+					],
+					[
+						"applicationhtml",
+						"app/views/layouts/application.html.slim"
+					],
+					[
+						"show",
+						"app/views/automated_message_setups/show.html.erb"
+					],
+					[
+						"deve",
+						"config/environments/development.rb"
+					],
+					[
+						"capybara",
+						"spec/support/features/capybara.rb"
+					],
+					[
+						"application.rb",
+						"config/application.rb"
+					],
+					[
+						"applicationrb",
+						"config/application.rb"
+					],
+					[
+						"application",
+						"config/application.rb"
+					],
+					[
+						"enus",
+						"config/locales/en-US.yml"
+					],
+					[
+						"labels",
+						"app/controllers/labels_controller.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"pipesco",
+						"app/controllers/pipes_controller.rb"
+					],
+					[
+						"_closed_show",
+						"app/views/cards/_closed_show.html.slim"
+					],
+					[
+						"fieldvalu",
+						"app/models/card_field_value.rb"
+					],
+					[
+						"capy",
+						"spec/support/features/capybara.rb"
+					],
+					[
+						"users",
+						"spec/fixtures/users.yml"
+					],
+					[
+						"puma",
+						"config/puma.rb"
+					],
+					[
+						"spec/features/public_form_spec.rb",
+						"spec/features/public_form_spec.rb"
+					],
+					[
+						"travis",
+						".travis.yml"
+					],
+					[
+						"cardphasedetailuipresenter",
+						"app/presenters/card_phase_detail_ui_presenter.rb"
+					],
+					[
+						"users.yml",
+						"spec/fixtures/users.yml"
+					],
+					[
+						"carduipresenter",
+						"app/presenters/card_ui_presenter.rb"
+					],
+					[
+						"cardscontroller",
+						"app/controllers/cards_controller.rb"
+					],
+					[
+						"usersyml",
+						"spec/fixtures/users.yml"
+					],
+					[
+						"features/open_card/due_date/due_date_in_en_spec.rb",
+						"spec/features/open_card/due_date/due_date_in_en_spec.rb"
+					],
+					[
+						"spec/features/invite_users_to_organization_spec.rb",
+						"spec/features/invite_users_to_organization_spec.rb"
+					],
+					[
+						"spec/features/manage_pipe_members_spec.rb",
+						"spec/features/manage_pipe_members_spec.rb"
+					],
+					[
+						"side",
+						"config/sidekiq.yml"
+					],
+					[
+						"cardrb",
+						"app/models/card.rb"
+					],
+					[
+						"spec/features/open_card/current_phase_field_types/assignee_select_spec.rb",
+						"spec/features/open_card/current_phase_field_types/assignee_select_spec.rb"
+					],
+					[
+						"spec/features/open_card/card_assignees_spec.rb",
+						"spec/features/open_card/card_assignees_spec.rb"
+					],
+					[
+						"spec/features/onboarding/onboarding_header_steps_spec.rb",
+						"spec/features/onboarding/onboarding_header_steps_spec.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"userrole",
+						"app/models/users_role.rb"
+					],
+					[
+						"userrb",
+						"app/models/user.rb"
+					],
+					[
+						"automatem",
+						"app/controllers/automated_messages_controller.rb"
+					],
+					[
+						"anal",
+						"app/models/analytics.rb"
+					],
+					[
+						"ana",
+						"app/models/analytics.rb"
+					],
+					[
+						"pi",
+						"app/models/pipe.rb"
+					],
+					[
+						"publicactivity",
+						"tmp/rubycritic/app/models/public_activity_publisher.html"
+					],
+					[
+						"publicacti",
+						"app/models/public_activity_publisher.rb"
+					],
+					[
+						"userspec",
+						"spec/models/user_spec.rb"
+					],
+					[
+						"role",
+						"app/models/role.rb"
+					],
+					[
+						"spec/features/settings/email_template_settings_spec.rb",
+						"spec/features/settings/email_template_settings_spec.rb"
+					],
+					[
+						"pipes/settings_menu",
+						"app/views/pipes/_settings_menu.html.slim"
+					],
+					[
+						"pipes/header",
+						"app/views/pipes/_header.html.slim"
+					],
+					[
+						"layoutshead",
+						"app/views/layouts/_header.html.slim"
+					],
+					[
+						"layouts/header",
+						"app/views/layouts/_header.html.slim"
+					],
+					[
+						"sharedlan",
+						"app/views/shared/_launchpad.html.slim"
+					],
+					[
+						"applicationhtmlslim",
+						"app/views/layouts/application.html.slim"
+					],
+					[
+						"app/views/pipe_settings/email_templates/index.html.slim",
+						"app/views/pipe_settings/email_templates/index.html.slim"
+					],
+					[
+						"app/views/pipe_settings/email_templates/edit.html.slim",
+						"app/views/pipe_settings/email_templates/edit.html.slim"
+					],
+					[
+						"app/views/pipe_settings/email_templates/_form.html.slim",
+						"app/views/pipe_settings/email_templates/_form.html.slim"
+					],
+					[
+						"app/views/email_templates/index.html.slim",
+						"app/views/email_templates/index.html.slim"
+					],
+					[
+						"source/assets/javascripts/components/views/_bundle.js",
+						"source/assets/javascripts/components/views/_bundle.js"
+					],
+					[
+						"applicationcss",
+						"tmp/rubycritic/assets/stylesheets/application.css"
+					],
+					[
+						"app/views/phases/_form.html.erb",
+						"app/views/phases/_form.html.erb"
+					],
+					[
+						"cacheinvalidationworker",
+						"app/workers/cache_invalidation_worker.rb"
+					],
+					[
+						"cache",
+						"app/models/concerns/cache_invalidatable.rb"
+					],
+					[
+						"en-us",
+						"config/locales/en-US.yml"
+					],
+					[
+						"cardshow",
+						"app/views/card_field_values/show.json.jbuilder"
+					],
+					[
+						"emailtemplateconsp",
+						"spec/controllers/email_templates_controller_spec.rb"
+					],
+					[
+						"email",
+						"app/models/email_template.rb"
+					],
+					[
+						"spec/controllers/labels_controller_spec.rb",
+						"spec/controllers/labels_controller_spec.rb"
+					],
+					[
+						"layouts/pipe_settings/menu",
+						"app/views/layouts/pipe_settings/_menu.html.slim"
+					],
+					[
+						"applicoint",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"settingmenu",
+						"app/views/pipes/_settings_menu.html.slim"
+					],
+					[
+						"label",
+						"app/controllers/labels_controller.rb"
+					],
+					[
+						"app/views/automated_message_setups/_form.html.slim",
+						"app/views/automated_message_setups/_form.html.slim"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/Dropbox/sublime_projects/codigos.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"2.1",
+						"$(TIMESTAMP_DIR)/.RUBYARCHDIR.-.hitimes.-.2.1.time:"
+					]
+				],
+				"width": 512.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 378.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2569,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/marciotrindade/Dropbox/sublime_projects/backup-de-sites.sublime-workspace",
+			"/Users/marciotrindade/Dropbox/sublime_projects/codigos.sublime-workspace"
+		]
+	}
+}

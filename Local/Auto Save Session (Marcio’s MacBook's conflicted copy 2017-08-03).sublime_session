@@ -1,0 +1,7015 @@
+{
+	"folder_history":
+	[
+		"/Users/marciotrindade/Google Drive/codigos/pipefy",
+		"/Users/marciotrindade/projects/pipefy/github-app",
+		"/Users/marciotrindade/projects/pipefy/pipefy_activities",
+		"/Users/marciotrindade/projects/pipefy/pipefy-importer",
+		"/Users/marciotrindade/projects/pipefy/pipefy-mobile",
+		"/Users/marciotrindade/Projects/pipefy/pipeui",
+		"/Users/marciotrindade/Projects/public/apollo-client-presentation",
+		"/Users/marciotrindade/Projects/pipefy/pipefy",
+		"/Users/marciotrindade/Projects/pipefy/pipefy_activities",
+		"/Users/marciotrindade/Projects/pipefy/slack-app",
+		"/Users/marciotrindade/Projects/pipefy/pipefy-mobile",
+		"/Users/marciotrindade/Projects/personal/codes/pipefy",
+		"/Users/marciotrindade/Projects/personal/codes",
+		"/Users/marciotrindade/Projects/personal/ansible/blog_provisioner",
+		"/Users/marciotrindade/Google Drive/codigos/pipefy/graphql",
+		"/Users/marciotrindade/Projects/locaweb/saas/backup-de-sites",
+		"/Users/marciotrindade/Projects/codebits/vcamp",
+		"/Users/marciotrindade/Google Drive/codigos",
+		"/Users/marciotrindade/Projects/pipefy/pipefy-importer",
+		"/Users/marciotrindade/Projects/pipefy/omniauth-pipefy",
+		"/Users/marciotrindade/Projects/pipefy/pipestyle-react",
+		"/Users/marciotrindade/Projects/pipefy/pipefy/node_modules/react-pipestyle",
+		"/Users/marciotrindade/Dropbox/Sublime Text 3/Packages/User",
+		"/Users/marciotrindade/Projects/personal/my-app",
+		"/Users/marciotrindade/Projects/locaweb/saas/emkt-pmta",
+		"/Users/marciotrindade/Projects/locaweb/saas",
+		"/Users/marciotrindade/Projects/locaweb/saas/emkt-workers",
+		"/Users/marciotrindade/Projects/locaweb/saas/emkt-core",
+		"/Users/marciotrindade/Projects/public/gitlab-ce",
+		"/Users/marciotrindade/Projects/pipefy/pipestyle",
+		"/Users/marciotrindade/Projects/pipefy/graphql-api-doc",
+		"/Users/marciotrindade/Projects/pipefy",
+		"/Users/marciotrindade/Projects/personal/example",
+		"/Users/marciotrindade/Projects/personal",
+		"/Users/marciotrindade/Projects/locaweb/saas/emkt-provisioner",
+		"/Users/marciotrindade/Projects/public/test",
+		"/Users/marciotrindade/Projects/public/omniauth-pipefy",
+		"/Users/marciotrindade/Downloads/recruitment_exercise",
+		"/Users/marciotrindade/Projects/locaweb/saas/emkt-web",
+		"/Users/marciotrindade/Projects/pipefy/pipefy_salesforce",
+		"/Users/marciotrindade/Projects/public/es6.io",
+		"/usr/local/var/postgres",
+		"/Users/marciotrindade/Projects/pipefy/wordpress-site",
+		"/Users/marciotrindade/Projects/pipefy/autopipe",
+		"/Users/marciotrindade/Projects/pipefy/quality/all_spark-selenium",
+		"/Users/marciotrindade/Projects/pipefy/quality/autobots",
+		"/Users/marciotrindade/Projects/pipefy/autobots",
+		"/Users/marciotrindade/Projects/pipefy/all_spark-selenium",
+		"/Users/marciotrindade/Projects/pipefy/backup",
+		"/Users/marciotrindade/Projects/pipefy/all_spark",
+		"/Users/marciotrindade/Projects/locaweb/front/banner-api",
+		"/Users/marciotrindade/Projects/locaweb/saas/saas_plan_config",
+		"/Users/marciotrindade/pipefy/pipefy",
+		"/Users/marciotrindade/ansible/blog_provisioner",
+		"/Users/marciotrindade/pipefy/pipefy_old",
+		"/Users/marciotrindade/pipefy/pipestyle",
+		"/Users/marciotrindade/projects/BackgroundMusic",
+		"/Users/marciotrindade/codebits/vcamp",
+		"/Users/marciotrindade/locaweb/locaweb-backup",
+		"/Users/marciotrindade/Google Drive/docs/pipefy",
+		"/Users/marciotrindade/pipefy/pipefy-wp-theme",
+		"/Users/marciotrindade/sites/test_app",
+		"/Users/marciotrindade/Desktop",
+		"/Users/marciotrindade/sites/project",
+		"/Users/marciotrindade/locaweb/emkt-core",
+		"/Users/marciotrindade/codebits/vcamp-servers",
+		"/Users/marciotrindade/sites/vcamp-servers",
+		"/Users/marciotrindade/sites/inspinia/Static_Full_Version",
+		"/Users/marciotrindade/sites/es2015",
+		"/Users/marciotrindade/pipefy/app",
+		"/Users/marciotrindade/pipefy/pipeui",
+		"/Volumes/Time Machine Backups/Backups.backupdb/Trindade MacBook Pro/2015-12-05-061203/Macintosh HD/Users/marciotrindade/locaweb/saas/emkt-web",
+		"/Users/marciotrindade/pipefy/old_pipeui",
+		"/Users/marciotrindade/Dropbox/Sublime Text 3",
+		"/Users/marciotrindade/pipefy/locastyle",
+		"/usr/local/etc/nginx",
+		"/Users/marciotrindade/Library/Application Support/Sublime Text 3",
+		"/Users/marciotrindade/.rvm/gems/ruby-2.3.0/gems/mina-slack-0.1.0",
+		"/Users/marciotrindade/sites/alurapic",
+		"/Users/marciotrindade/sites/inspinia/SCSS",
+		"/Users/marciotrindade/codebits/app-soukdesigner-com",
+		"/Users/marciotrindade/sites/icheck",
+		"/Users/marciotrindade/sites/my_blog",
+		"/Users/marciotrindade/sites/detetive_fatima",
+		"/Users/marciotrindade/sites/fatima",
+		"/usr/local/Cellar/nginx/1.8.0",
+		"/usr/local/opt/nginx",
+		"/Users/marciotrindade/sites/ticketee_review",
+		"/Users/marciotrindade/ansible/teamspeak",
+		"/Users/marciotrindade/.ssh",
+		"/Users/marciotrindade/codebits/vcamp-ansible",
+		"/Users/marciotrindade/ansible",
+		"/Users/marciotrindade/codebits/vcamp/vendor/assets/stylesheets/slick",
+		"/Users/marciotrindade/codebits/vcamp/vendor/assets/stylesheets/jsTree",
+		"/Users/marciotrindade/codebits/vcamp/vendor/assets/stylesheets/ionRangeSlider",
+		"/Users/marciotrindade/codebits/spree_souk_provisioner",
+		"/Users/marciotrindade/codebits/spree_soukdesigner_core",
+		"/Users/marciotrindade/codebit/spree_soukdesigner_core",
+		"/Users/marciotrindade/codebit/app-soukdesigner-com",
+		"/Users/marciotrindade/velocity/vcamp",
+		"/Users/marciotrindade/Google Drive/codigos/vcamp",
+		"/Volumes/time_machine/Backups.backupdb/Trindade MacBook Pro/2015-11-19-002421/Macintosh HD/Users/marciotrindade/locaweb/saas/backup-de-sites",
+		"/Users/marciotrindade/locaweb/saas/pabx-provisioner",
+		"/Users/marciotrindade/Downloads",
+		"/Users/marciotrindade/locaweb/saas/backup-de-sites",
+		"/Users/marciotrindade/.rvm/gems/ruby-2.2.2/gems/padrino-core-0.10.7",
+		"/Users/marciotrindade/.rvm/gems/ruby-2.2.2/gems/padrino-0.10.7",
+		"/Users/marciotrindade/locaweb/saas/webdesk",
+		"/Users/marciotrindade/locaweb/frontend/banner-api",
+		"/Users/marciotrindade/locaweb/saas/webdesk-product-api",
+		"/Users/marciotrindade/locaweb/saas/webdesk-provisioner",
+		"/Users/marciotrindade/locaweb/saas/emkt-core",
+		"/Users/marciotrindade/locaweb/saas/emkt-web",
+		"/Users/marciotrindade/locaweb/qualidade/autobots/bkup",
+		"/Users/marciotrindade/locaweb/cfengine/ft_qa_saas_masterfiles",
+		"/Users/marciotrindade/locaweb/qualidade/autobots/autobots-paas-hospedagem",
+		"/Users/marciotrindade/locaweb/commom/products-plan-config",
+		"/Users/marciotrindade/locaweb/qualidade/autobots/all_spark-selenium",
+		"/Users/marciotrindade/locaweb/qualidade/autobots/emkt",
+		"/Users/marciotrindade/locaweb/cfengine/ft_qa_saas_inputs",
+		"/Users/marciotrindade/projects/testapp",
+		"/Users/marciotrindade/projects/my_blog",
+		"/Users/marciotrindade/locaweb/qualidade/autobots/ea",
+		"/Users/marciotrindade/locaweb/saas/saas_plan_config",
+		"/Users/marciotrindade/locaweb/commom/apostila"
+	],
+	"last_version": 3126,
+	"last_window_id": 3451,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 856.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"is",
+						"is_expected"
+					],
+					[
+						"noti",
+						"notifications_popup\t(_header.html.erb)"
+					],
+					[
+						"ass",
+						"assignees\t(index.rb)"
+					],
+					[
+						"React",
+						"ReactDOM"
+					],
+					[
+						"tab",
+						"tabIndex"
+					],
+					[
+						"pipe",
+						"pipeRelation"
+					],
+					[
+						"ta",
+						"tabIndex"
+					],
+					[
+						"private",
+						"private_constant\t(create.rb)"
+					],
+					[
+						"priv",
+						"private_constant\t(create.rb)"
+					],
+					[
+						"conslo",
+						"console.log"
+					],
+					[
+						"extend",
+						"extends"
+					],
+					[
+						"fiel",
+						"field_maps"
+					],
+					[
+						"repo",
+						"repo_clone"
+					],
+					[
+						"public_for",
+						"public_form_status"
+					],
+					[
+						"email_",
+						"email_inbox_attributes\t(start_forms_controller.rb)"
+					],
+					[
+						"public",
+						"public_form_active\t(repo.rb)"
+					],
+					[
+						"match",
+						"match_array"
+					],
+					[
+						"create",
+						"create_token"
+					],
+					[
+						"return",
+						"return_error"
+					],
+					[
+						"pla",
+						"platform_apps"
+					],
+					[
+						"email",
+						"email_inboxes"
+					],
+					[
+						"subtitle",
+						"subtitle_fields"
+					],
+					[
+						"the",
+						"then"
+					],
+					[
+						"phase",
+						"phase_details\t(card_phase_detail.rb)"
+					],
+					[
+						"alias",
+						"alias_method"
+					],
+					[
+						"upda",
+						"update_column"
+					],
+					[
+						"send",
+						"send_cards_to_es\t(reindex_cards_worker.rb)"
+					],
+					[
+						"find",
+						"find_each\t(elastic_search.rake)"
+					],
+					[
+						"checkli",
+						"checklist_items"
+					],
+					[
+						"check",
+						"checklist_items"
+					],
+					[
+						"time",
+						"time_entries\t(index.rb)"
+					],
+					[
+						"field",
+						"field_id"
+					],
+					[
+						"current_phase",
+						"current_phase_detail\t(index.rb)"
+					],
+					[
+						"curren",
+						"current_phase_detail"
+					],
+					[
+						"card_",
+						"card_hash"
+					],
+					[
+						"crea",
+						"created\t(create.rb)"
+					],
+					[
+						"com",
+						"comment"
+					],
+					[
+						"can",
+						"can_clone_all"
+					],
+					[
+						"Field",
+						"FieldType"
+					],
+					[
+						"user",
+						"user_id"
+					],
+					[
+						"assig",
+						"assigned_repo"
+					],
+					[
+						"title_field",
+						"title_field_id"
+					],
+					[
+						"mut",
+						"mutation"
+					],
+					[
+						"permi",
+						"permission_denied\t(base.rb)"
+					],
+					[
+						"perm",
+						"permission_denied\t(update.rb)"
+					],
+					[
+						"assi",
+						"assigned_repo\t(delete.rb)"
+					],
+					[
+						"table",
+						"table_id\t(create.rb)"
+					],
+					[
+						"in",
+						"input"
+					],
+					[
+						"pip",
+						"pipe_id"
+					],
+					[
+						"sel",
+						"self"
+					],
+					[
+						"sle",
+						"self"
+					],
+					[
+						"pro",
+						"process_input_and_context"
+					],
+					[
+						"proc",
+						"process_input_and_context\t(relation_creator.rb)"
+					],
+					[
+						"sub",
+						"subscription"
+					],
+					[
+						"acti",
+						"active_subscription\t(dunning_controller.rb)"
+					],
+					[
+						"current",
+						"current_organization"
+					],
+					[
+						"summa",
+						"summary_options"
+					],
+					[
+						"su",
+						"summary_attributes"
+					],
+					[
+						"tho",
+						"through"
+					],
+					[
+						"finis",
+						"finish_at\t(card_indexer.rb)"
+					],
+					[
+						"tim",
+						"time_entries\t(card.rb)"
+					],
+					[
+						"start",
+						"start_at\t(card_indexer.rb)"
+					],
+					[
+						"display",
+						"display_name\t(card_mover.rb)"
+					],
+					[
+						"attr",
+						"attr_reader\t(notifier.rb)"
+					],
+					[
+						"Prop",
+						"PropTypes.string"
+					],
+					[
+						"footer",
+						"footerOnClick\t(Popup.jsx)"
+					],
+					[
+						"Pro",
+						"PropTypes.string"
+					],
+					[
+						"card",
+						"card_ids"
+					],
+					[
+						"Repo",
+						"RepoSummarizedLayoutAttribute\t(field.rb)"
+					],
+					[
+						"destroy",
+						"destroys"
+					],
+					[
+						"delete",
+						"deleted_at\t(phase_destroyer.rb)"
+					],
+					[
+						"Phase",
+						"PhaseDetail\t(phase_destroyer.rb)"
+					],
+					[
+						"automate",
+						"automated_message_setup"
+					],
+					[
+						"con",
+						"context\tcontext"
+					],
+					[
+						"attri",
+						"attribute_slug\t(field.rb)"
+					],
+					[
+						"A",
+						"AutomatedMessageSetup\t(automated_message_setup.rb)"
+					],
+					[
+						"pp-no",
+						"pp-no-margin"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"min",
+						"min_users"
+					],
+					[
+						"active",
+						"active_subscription"
+					],
+					[
+						"mini",
+						"minimal_view"
+					],
+					[
+						"toggle",
+						"toggleEmbedCode"
+					],
+					[
+						"class",
+						"className"
+					],
+					[
+						"preve",
+						"preventDefault\t(SettingsSidebar.jsx)"
+					],
+					[
+						"clas",
+						"className"
+					],
+					[
+						"canM",
+						"canManageTable"
+					],
+					[
+						"canMa",
+						"canManage"
+					],
+					[
+						"pp",
+						"pp-active\t(SettingsSidebar.jsx)"
+					],
+					[
+						"defa",
+						"defaultProps\t(SettingsSidebar.jsx)"
+					],
+					[
+						"cons",
+						"constructor\t(SettingsSidebar.jsx)"
+					],
+					[
+						"boo",
+						"boolean"
+					],
+					[
+						"bind",
+						"bindKeys"
+					],
+					[
+						"constru",
+						"constructor\tReact.Component"
+					],
+					[
+						"org_",
+						"org_preferences"
+					],
+					[
+						"public_form",
+						"public_form_enterprise\t(public_form.html.erb)"
+					],
+					[
+						"org_prefe",
+						"org_preference\t(active_org_preference.rb)"
+					],
+					[
+						"authoriza",
+						"authorization\t(table_roles.rb)"
+					],
+					[
+						"nes",
+						"nextProps"
+					],
+					[
+						"componentWill",
+						"componentWillUpdate\t Life Cycle"
+					],
+					[
+						"minim",
+						"minimal_view\t(Preview.js)"
+					],
+					[
+						"autho",
+						"authorization\t(table_roles.rb)"
+					],
+					[
+						"Card",
+						"CardAssignee"
+					],
+					[
+						"Automa",
+						"AutomatedMessageSetup"
+					],
+					[
+						"comm",
+						"comments_count"
+					],
+					[
+						"pp-d",
+						"pp-display-block"
+					],
+					[
+						"pp-inpu",
+						"pp-input-wrap"
+					],
+					[
+						"acce",
+						"accept\t(dropzone.js)"
+					],
+					[
+						"compo",
+						"componentDidMount"
+					],
+					[
+						"atta",
+						"attachment\t(FieldTypeAttachment.jsx)"
+					],
+					[
+						"custom",
+						"custom_validation\t(FieldTypeAttachment.jsx)"
+					],
+					[
+						"tas",
+						"tas\ttask :task_name => [:dependent, :tasks] do .. end"
+					],
+					[
+						"constr",
+						"constructor\tReact.Component"
+					],
+					[
+						"hadle",
+						"handleClose"
+					],
+					[
+						"dis",
+						"dispatch"
+					],
+					[
+						"default",
+						"defaultProp"
+					],
+					[
+						"change",
+						"changeLabelSettingsFormVisibility\t(selectField.js)"
+					],
+					[
+						"map",
+						"mapDispatchToProps"
+					],
+					[
+						"di",
+						"dispatch\t(AssigneeSelectField.jsx)"
+					],
+					[
+						"Invite",
+						"InviteMembersModal"
+					],
+					[
+						"Table",
+						"TablesQuery\t(TableQuery.gql)"
+					],
+					[
+						"i18n",
+						"i18nScope"
+					],
+					[
+						"pp-",
+						"pp-description"
+					],
+					[
+						"defau",
+						"defaultProps\t(Index.jsx)"
+					],
+					[
+						"defaul",
+						"defaultProps\t(Radio.jsx)"
+					],
+					[
+						"lab",
+						"labelClasses"
+					],
+					[
+						"member",
+						"member_role"
+					],
+					[
+						"error",
+						"error_message"
+					],
+					[
+						"mem",
+						"member_role"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"List",
+							""
+						],
+						[
+							"Rspec",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Rspec",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "ruby",
+				"selected_items":
+				[
+					[
+						"ruby",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"au",
+						"RuboCop: Auto correct current file"
+					],
+					[
+						"auto",
+						"RuboCop: Auto correct current file"
+					],
+					[
+						"com",
+						"Compare with..."
+					],
+					[
+						"sql",
+						"SQL Beautifier: Format Current SQL File"
+					],
+					[
+						"comap",
+						"Compare with..."
+					],
+					[
+						"gits",
+						"git: status"
+					],
+					[
+						"rename",
+						"File: Rename"
+					],
+					[
+						"duplicate",
+						"File: Duplicate"
+					],
+					[
+						"copy",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"dele",
+						"File: Delete"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"rubocop",
+						"RuboCop: Auto correct current file"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"babel",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"eslint",
+						"Preferences: SublimeLinter Settings – Default"
+					],
+					[
+						"pret",
+						"JsPrettier: Format Code"
+					],
+					[
+						"markdo",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"rena",
+						"File: Rename"
+					],
+					[
+						"reane",
+						"File: Rename"
+					],
+					[
+						"blame",
+						"git: blame current file"
+					],
+					[
+						"reanme",
+						"File: Rename"
+					],
+					[
+						"delete",
+						"File: Delete"
+					],
+					[
+						"jsx",
+						"Set Syntax: JSX"
+					],
+					[
+						"came",
+						"Convert Case: camelCase"
+					],
+					[
+						"camel",
+						"Convert Case: camelCase"
+					],
+					[
+						"case",
+						"Convert Case: camelCase"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"duplica",
+						"File: Duplicate"
+					],
+					[
+						"copyre",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"flow",
+						"Flow"
+					],
+					[
+						"format",
+						"JsPrettier: Format Code"
+					],
+					[
+						"jspre",
+						"JsPrettier: Format Code"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"compare",
+						"Compare with..."
+					],
+					[
+						"uniq",
+						"Permute Lines: Unique"
+					],
+					[
+						"josn",
+						"Set Syntax: JSON"
+					],
+					[
+						"gql",
+						"Set Syntax: GraphQL"
+					],
+					[
+						"rean",
+						"File: Rename"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"gra",
+						"Set Syntax: GraphQL"
+					],
+					[
+						"graph",
+						"Set Syntax: GraphQL"
+					],
+					[
+						"gitblame",
+						"git: blame current file"
+					],
+					[
+						"duplicte",
+						"File: Duplicate"
+					],
+					[
+						"sq",
+						"Set Syntax: SQL"
+					],
+					[
+						"gitsta",
+						"git: status"
+					],
+					[
+						"unqi",
+						"Permute Lines: Unique"
+					],
+					[
+						"mo",
+						"File: Move"
+					],
+					[
+						"git blame",
+						"git: blame current file"
+					],
+					[
+						"git bla",
+						"git: blame current file"
+					],
+					[
+						"dupl",
+						"File: Duplicate"
+					],
+					[
+						"gitblam",
+						"git: blame current file"
+					],
+					[
+						"gitstatus",
+						"git: status"
+					],
+					[
+						"cop",
+						"File: Copy Name Encoded"
+					],
+					[
+						"copyrela",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"git blam",
+						"git: blame current file"
+					],
+					[
+						"pull",
+						"git: pull"
+					],
+					[
+						"push",
+						"git: push (force)"
+					],
+					[
+						"git new",
+						"git: checkout new branch"
+					],
+					[
+						"git rebas",
+						"git: rebase"
+					],
+					[
+						"git bran",
+						"git: branch"
+					],
+					[
+						"rspec",
+						"Set Syntax: Better RSpec"
+					],
+					[
+						"jsoin",
+						"Pretty JSON: Minify (compress) JSON"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"rubo",
+						"RuboCop: Auto correct current file"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"duplic",
+						"File: Duplicate"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"copyr",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"gitstat",
+						"Git: Status"
+					],
+					[
+						"blam",
+						"Git: Blame"
+					],
+					[
+						"dupli",
+						"File: Duplicate"
+					],
+					[
+						"copyrel",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"rela",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"copyrea",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"csv",
+						"CSV: Justify columns"
+					],
+					[
+						"copyrelat",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"gitblma",
+						"Git: Blame"
+					],
+					[
+						"rubop",
+						"RuboCop: Check current project"
+					],
+					[
+						"ru",
+						"RuboCop: Check current file"
+					],
+					[
+						"copyrelati",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"markdon",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"copyrelae",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"reame",
+						"File: Rename"
+					],
+					[
+						"gitblm",
+						"Git: Blame"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ruo",
+						"RuboCop: Offense Count in current project"
+					],
+					[
+						"title",
+						"Convert Case: Title Case"
+					],
+					[
+						"tit",
+						"Convert Case: Title Case"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"rudo",
+						"RuboCop: Check folder of current file"
+					],
+					[
+						"gi",
+						"Git: Status"
+					],
+					[
+						"gitst",
+						"Git: Status"
+					],
+					[
+						"upp",
+						"Convert Case: Upper Case"
+					],
+					[
+						"uni",
+						"Permute Lines: Unique"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"up",
+						"Convert Case: Upper Case"
+					],
+					[
+						"table ma",
+						"Table Editor: Set table syntax 'MultiMarkdown' for current view"
+					],
+					[
+						"un",
+						"Permute Lines: Unique"
+					],
+					[
+						"ma",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"delte",
+						"File: Delete"
+					],
+					[
+						"rudy",
+						"RuboCop: Check folder of current file (only with lint cops)"
+					],
+					[
+						"mov",
+						"File: Move"
+					],
+					[
+						"copypath",
+						"File: Copy Path From Project"
+					],
+					[
+						"git bl",
+						"Git: Blame"
+					],
+					[
+						"cope",
+						"File: Copy Name Encoded"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"esli",
+						"ESLint"
+					],
+					[
+						"csv sort",
+						"CSV: Sort by column (Ascending)"
+					],
+					[
+						"markd",
+						"Set Syntax: Markdown"
+					],
+					[
+						"rei",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"babe",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"bla",
+						"Git: Blame"
+					],
+					[
+						"dup",
+						"File: Duplicate"
+					],
+					[
+						"yml",
+						"Set Syntax: YAML"
+					],
+					[
+						"ever new",
+						"Evernote: New empty note"
+					],
+					[
+						"javas",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"bab",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"block",
+						"Toggle Block Comment"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"select",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"erb",
+						"Coffee: Quick Run Bar"
+					],
+					[
+						"slim",
+						"Set Syntax: Ruby Slim"
+					],
+					[
+						"jslin",
+						"JSLint"
+					]
+				],
+				"width": 588.0
+			},
+			"console":
+			{
+				"height": 752.0,
+				"history":
+				[
+					"help",
+					"reload"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/marciotrindade/Downloads/personal.csv",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/models/abilities/base.rb",
+				"/Users/marciotrindade/Google Drive/codigos/pipefy/create_subscription.rb",
+				"/Users/marciotrindade/Google Drive/codigos/pipefy/export_accenteure_users.rb",
+				"/Users/marciotrindade/Google Drive/codigos/pipefy/migrate_database.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy_activities/web/controllers/activity_controller.ex",
+				"/Users/marciotrindade/projects/pipefy/pipefy_activities/web/models/activity.ex",
+				"/Users/marciotrindade/projects/pipefy/pipefy_activities/config/test.exs",
+				"/Users/marciotrindade/.ssh/config",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/resource_provider/notifications_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/resource_provider/notifications.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/notifications_controller.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/controllers/organizations_controller.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/controllers/organizations_controller_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/application_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/abilities/organization_roles.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/view_objects/metrics_view_object.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/organizations_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/user_preference.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/user.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/pipe.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/user_inviter/pipe.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/abilities/base.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/helpers/application_helper.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/notification.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/views/notifications/_popup.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/repo.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/models/organization.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/helpers/users_helper.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/layouts/_header.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/role.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/notifications/_popup.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/notifications/popup.js.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/organization.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/pipes/metrics.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/pipe_metrics_query.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/pipes_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/analytics.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/analytics/intercom_adapter.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/analytics/mixpanel_adapter.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/initializers/intercom.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/vcr_cassettes/timeline/organization/success_empty_pipe.yml",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/internal_api/timelines_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/controllers/internal_api/timelines_controller_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/vcr_cassettes/timeline/organization/success_empty.yml",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/activity_api/org_loader.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/activity_api/api.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/models/abilities/repo_roles_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/vcr_cassettes/timeline/pipe/success_data.yml",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/models/public_form_abilities_spec.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/models/abilities/pipe_roles_spec.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/models/abilities/organization_roles_spec.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/models/abilities/database_roles_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/concerns/slave_concern.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/controllers/internal_api/cards_controller_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/concerns/internal_api/cards/index.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/pipe/Phase.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/internal_api/phases_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/card.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/internal_api/cards_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/pipes/show.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/pipe/DropCardPlaceholder.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/db/structure.sql",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/react-pipestyle/Modal/index.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/react-pipestyle/Modal/Header.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/react-pipestyle/Modal/Footer.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/workers/webhooks/record_worker.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/graphql/types/phase_gql_type.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/graphql/types/query_gql_type.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/containers/OpenTableRecord/index.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/TableRecord/index.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/components/TableShow/TableArea.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/card_relations/RelatedCard.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/layouts/application.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/shared/_footer.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/stores/PhaseStore.js",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/actions/CardMovementActions.js",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/stores/PipeStore.js",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/repo_cloner/pipe_cloner.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/presenters/clone_presenters/pipe_presenter.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/presenters/clone_presenters/card_presenter.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/presenters/clone_presenters/card_presenter_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/OrgDashboard/components/PipeBox/index.jsx",
+				"/Users/marciotrindade/Dropbox/Sublime Text 3/Packages/User/FlowIDE.sublime-settings",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/card_relations/GqlRelatedCard.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/package.json",
+				"/Users/marciotrindade/Dropbox/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/bin/setup",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/lib/tasks/create_template_store_pipes.rake",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/services/subscribe_plan.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/db/seeds.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/.env.local",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/.env",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/README.md",
+				"/etc/hosts",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec_features/features/database/permission_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec_features/features/database/fields_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/OrgDashboard/components/index.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/OrgDashboard/components/PipeBox/Menu.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/assets/javascripts/v3/views/organizations/dashboard.js",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/.git/MERGE_MSG",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/pipe/EmptyRepo.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/organizations/show.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/OrgDashboard/types/index.js",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/OrgDashboard/components/PipeBox/BoxLink.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/main.js",
+				"/Users/marciotrindade/Dropbox/Sublime Text 3/Packages/FlowIDE/FlowIDE.sublime-settings",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/pipe/PipeBox.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/assets/javascripts/v3/init.js.coffee",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/organizations/_unjoined_pipe.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/helpers/application_helper.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/abilities/table_roles.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/abilities/repo_roles.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/abilities/pipe_roles.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/spring.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/database.yml",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/initializers/octopus.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/Gemfile",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/initializers/wrap_parameters.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/initializers/simple_token_authentication.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/Connections/components/List.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/Connections/components/FormModal/index.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/Connections/components/FormModal/Footer.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/pipe/PipeSettingsSidebar.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/Connections/components/FormModal/BasicFields.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/Connections/components/ListItem/index.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec_features/features/pipe_settings/pipe_relations_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/.env.local"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/Connections",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec/javascripts/views",
+					"",
+					"app/javascripts",
+					"",
+					"spec/graphql",
+					"app/graphql",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/graphql/mutations",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/helpers",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app,-*.js",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/views",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/helpers",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/views",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/graphql",
+					"graphql/",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src",
+					"",
+					"spec",
+					"app",
+					"app/javascript",
+					"react_components/",
+					"app/",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/,-*.gql",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/components",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/views",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/views",
+					"",
+					"spec/feature",
+					"app/graphql",
+					"spec/graphql",
+					"app/graphql",
+					"",
+					"graphql",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec/javascripts",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src",
+					"",
+					"react_components/",
+					"spec_features/",
+					"spec_features",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/views",
+					"",
+					"react_components/src/",
+					"spec_features/",
+					"react_components/",
+					"spec/javascritps/",
+					"react_components/",
+					"react_components",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec_features/open_card",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec/models",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec_features",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/assets/stylesheets/v3",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/config/locales",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/assets/javascripts",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec_features",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/db",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/spec_features",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/db",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/app/models/abilities",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/spec_features/features",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/app/views/database",
+					"/Users/marciotrindade/pipefy/pipefy/app/views",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/react_components",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/app/assets/javascripts/v3",
+					"/Users/marciotrindade/pipefy/pipefy/spec/javascripts",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/react_components",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/views",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/stores",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/dispatchers",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/actions",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/views",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/stores",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/dispatchers",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/actions",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/views"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"<<-GRAPHQL",
+					"value",
+					"line[",
+					"}\"",
+					"\"#{",
+					"\\n",
+					"#####################",
+					"Logger",
+					"leade",
+					"set_pipes",
+					"configure_permitted_parameters",
+					"init_gon",
+					"init_current_organization_id",
+					"change_time_zone",
+					"check_organization_subscription",
+					"using",
+					"choosable_roles_for_repo",
+					"roles",
+					"plan",
+					"active_subscription",
+					"freemium?",
+					"custom_member_react_properties",
+					"organization_super_properties",
+					"organization_attributes",
+					"user_role_for_organization",
+					"list_with_post",
+					"admin_pipe_ids",
+					"other_pipe",
+					"other_members_pipe_ids",
+					"params",
+					"VCR_SUCCESS_SINCE",
+					"VCR_SUCCESS_EMPTY",
+					"VCR_SUCCESS_DATA",
+					"Timecop",
+					"the_beginning",
+					"Abilities::Base.new",
+					"other_members_pipe_ids",
+					"admin_pipe_ids",
+					"with_deleted",
+					"admin_pipe_ids",
+					"public_form_user",
+					"apply_permissions",
+					"create_alias",
+					"organization",
+					"@organization",
+					"other_members_pipe_ids",
+					"card_assignees",
+					"restricted_view?",
+					"cards_with_includes",
+					"\\n",
+					"cards_without_includes",
+					"cards_with_includes",
+					"_filterMyCardsOnly",
+					"current_user_view_only_assigned_cards",
+					"handleClose",
+					"onCloseLabel",
+					"customContentClass",
+					"customModalClass",
+					"onSavelabel",
+					"handleClose",
+					"onCloseLabel",
+					"customFooterClass",
+					"customCtaClass",
+					"handleClose",
+					"contentTag",
+					"this.props.",
+					"this.props",
+					"e: JsEvent",
+					"Error",
+					"max_page_size",
+					"Portal",
+					"tableId",
+					"isDisplayingPhases",
+					"_togglePhases",
+					"OpenTableRecord",
+					"CardStore.setupData(data)",
+					"NEW_CLOSED_CARD_DATA",
+					"CardMovementActions",
+					"NOT_CLONABLE_ATTRIBUTES",
+					"deep_clone",
+					"NOT_CLONABLE_ATTRIBUTES",
+					"repo_cloner",
+					"RepoCloner",
+					"icon",
+					"@",
+					"flow",
+					"PIPEUI",
+					"APP_URL",
+					"document.getElementById('timeline_placeholder')",
+					"renderTimelineInfinite",
+					"PipeStore",
+					"toggleFavorite",
+					"isFavorite",
+					"toggleFavorite",
+					"false",
+					"EmptyRepo",
+					"#org-timeline-menu-icon",
+					"bindEvents",
+					"I18n.",
+					"sortByPipeName",
+					"getPipesOrdered",
+					"pipe_creator",
+					"join_public_pipes",
+					"organization_normal",
+					"pipe_creator",
+					"transform_pipes_to_attributes",
+					"set_pipes",
+					"_renderMenuItem",
+					"{ scope: 'menu.pipe_settings' }",
+					"pp-trigger-dropdown",
+					".pp-popup-menu ul li",
+					"li#relation-item-#{pipe.id}",
+					"_validRelation",
+					"id, pageSize",
+					"PIPEFY_OFFICE_IP",
+					"lodash",
+					"{\nlodash",
+					"lodash",
+					"eventToPrevent",
+					"onCancel",
+					"toLowerCase",
+					"removePipeRelation",
+					"onConfirmSwal",
+					"state",
+					"onSave",
+					"pipes",
+					"_handleChangesSelect",
+					"onChangeName"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"utils/i18n",
+					" ",
+					"tableId",
+					"'api.errors.general.invalid_input', field: $1, value:$2)",
+					"'api.errors.general.invalid_input', field: $1, input_value: $2)",
+					"errors.general.permission_denied",
+					"$2",
+					".pp-header .pp-nav-center",
+					"$1: ",
+					"require_relative '../",
+					"",
+					"$3",
+					"\\n",
+					" ",
+					"to have_no",
+					":card_title=>\"\"",
+					"\"card_title\"=>\"\"",
+					"staging-www",
+					"if (",
+					"DELETE from card_field_values where id = (select id from card_field_values WHERE field_id = $2 AND card_phase_detail_id = $3 AND deleted_at IS NULL ORDER BY updated_at ASC LIMIT 1);",
+					"DELETE from card_field_values where id = (select id from card_field_values WHERE field_id = $2 AND card_phase_detail_id = $ AND deleted_at IS NULL ORDER BY updated_at ASC LIMIT 1);",
+					"DELETE from card_field_values where id = (select id from card_field_values WHERE field_id = $2 AND card_phase_detail_id = $3 AND deleted_at IS NULL ORDER BY updated_at ASC LIMIT 1);",
+					"DELETE from card_field_values where id = (select id from card_field_values WHERE field_id = $1 AND card_phase_detail_id = $2 AND deleted_at IS NULL ORDER BY updated_at ASC LIMIT 1);",
+					"require 'features_helper'",
+					"$2 - $1",
+					"users(:pipe_org_admin)",
+					"pending",
+					"$2",
+					"render ",
+					":$1",
+					"product_properties_check('$1', $2, dynamic: true)",
+					"product_properties_radio('$1', $2, default: true)",
+					"product_properties_check('$1', $2, default: true)",
+					"$1",
+					"{{ server_hostname }}",
+					"current_site",
+					"ApiClient",
+					"",
+					"set_flash",
+					"$3",
+					"$1;",
+					"$2",
+					"",
+					", ",
+					"{account_id: $1, message_id: $2, batch: $3},",
+					"",
+					"$2,$1,hm8307\\n",
+					"$2,$1,hm8307",
+					"{account_id: $1, message_id: $2},",
+					"$2,$1,hm1720\\n",
+					"$2,$1,hm950\\n",
+					"$2,$1,hm950",
+					"$2,$1,hm638",
+					"\\n",
+					"\"",
+					"\"\\n\"",
+					"'\\n'",
+					"$1",
+					"\\n",
+					"be_falsey",
+					"be_truthy",
+					"be_falsey",
+					"be_truthy",
+					"ls-label",
+					"ls-label-text",
+					"{\"$3\" => \"$1\"},",
+					"{\"$3}\" => \"$1\"},",
+					"\\n",
+					"",
+					"\\n",
+					"",
+					"\\n",
+					"",
+					"$1, $3, $5",
+					"Host.find_by_ip(\"$2\").update_attribute(:name, \"$3\")",
+					"$2,$3,$1",
+					",\\n",
+					"$1",
+					",\\n",
+					",",
+					",\\n",
+					"$2",
+					"",
+					"\\n",
+					"",
+					"\"$1\",",
+					"$1",
+					"\",\\n\"",
+					",\\n",
+					"$1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"menu_visible": true,
+			"output.9o:///Users/marciotrindade/locaweb/emkt-bounces/app/workers":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/marciotrindade/locaweb/emkt-provisioner/spec/lib":
+			{
+				"height": 112.0
+			},
+			"output.GitSavvy":
+			{
+				"height": 138.0
+			},
+			"output.GoSublime-output":
+			{
+				"height": 100.0
+			},
+			"output.MarGo-output":
+			{
+				"height": 100.0
+			},
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 406.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-commit":
+			{
+				"height": 132.0
+			},
+			"output.git-push":
+			{
+				"height": 132.0
+			},
+			"output.show_commit_info":
+			{
+				"height": 138.0
+			},
+			"pinned_build_system": "Packages/User/Bash.sublime-build",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"create",
+						"create_subscription.rb"
+					],
+					[
+						"notificationscontro",
+						"app/controllers/notifications_controller.rb"
+					],
+					[
+						"applicationcontroller",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"roles",
+						"app/models/abilities/organization_roles.rb"
+					],
+					[
+						"metricsviewobject",
+						"app/view_objects/metrics_view_object.rb"
+					],
+					[
+						"userprefe",
+						"app/models/user_preference.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"pipe.rb",
+						"app/models/pipe.rb"
+					],
+					[
+						"pipe",
+						"app/services/user_inviter/pipe.rb"
+					],
+					[
+						"organizationcontroller",
+						"app/controllers/organizations_controller.rb"
+					],
+					[
+						"notification",
+						"app/models/notification.rb"
+					],
+					[
+						"role",
+						"app/models/role.rb"
+					],
+					[
+						"repo",
+						"app/models/repo.rb"
+					],
+					[
+						"notifications/popup",
+						"app/views/notifications/popup.js.erb"
+					],
+					[
+						"organization",
+						"app/models/organization.rb"
+					],
+					[
+						"pipemetricsquery",
+						"app/models/pipe_metrics_query.rb"
+					],
+					[
+						"analyti",
+						"app/models/analytics.rb"
+					],
+					[
+						"intercom",
+						"config/initializers/intercom.rb"
+					],
+					[
+						"orgloader",
+						"app/services/activity_api/org_loader.rb"
+					],
+					[
+						"timeline/organization/success_empty",
+						"spec/vcr_cassettes/timeline/organization/success_empty.yml"
+					],
+					[
+						"timeline/pipe/success_data",
+						"spec/vcr_cassettes/timeline/pipe/success_data.yml"
+					],
+					[
+						"piperb",
+						"app/models/pipe.rb"
+					],
+					[
+						"cardrb",
+						"app/models/card.rb"
+					],
+					[
+						"pipeshow",
+						"app/views/pipes/show.html.erb"
+					],
+					[
+						"dropcardplaceholder",
+						"react_components/src/views/pipe/DropCardPlaceholder.jsx"
+					],
+					[
+						"structure",
+						"db/structure.sql"
+					],
+					[
+						"react_components/src/react-pipestyle/modal/index.jsx",
+						"react_components/src/react-pipestyle/Modal/index.jsx"
+					],
+					[
+						"recordworker",
+						"app/workers/webhooks/record_worker.rb"
+					],
+					[
+						"realatedcard",
+						"react_components/src/views/card_relations/RelatedCard.jsx"
+					],
+					[
+						"shared/footer",
+						"app/views/shared/_footer.html.erb"
+					],
+					[
+						"applicationhtmlerb",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"pipeshowhtml",
+						"app/views/pipes/show.html.erb"
+					],
+					[
+						"pipestore",
+						"react_components/src/stores/PipeStore.js"
+					],
+					[
+						"cardmovementactions",
+						"react_components/src/actions/CardMovementActions.js"
+					],
+					[
+						"clonepresenterspipepresenter",
+						"app/presenters/clone_presenters/pipe_presenter.rb"
+					],
+					[
+						"repocloner",
+						"app/services/repo_cloner/pipe_cloner.rb"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"react_components/src/orgdashboard/components/pipebox/index.jsx",
+						"react_components/src/OrgDashboard/components/PipeBox/index.jsx"
+					],
+					[
+						"seeds",
+						"db/seeds.rb"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"setup",
+						"bin/setup"
+					],
+					[
+						"readme",
+						"README.md"
+					],
+					[
+						"spec_features/features/database/permission_spec.rb",
+						"spec_features/features/database/permission_spec.rb"
+					],
+					[
+						"spec_features/features/database/fields_spec.rb",
+						"spec_features/features/database/fields_spec.rb"
+					],
+					[
+						"react_components/src/orgdashboard/components/index.jsx",
+						"react_components/src/OrgDashboard/components/index.jsx"
+					],
+					[
+						"react_components/src/orgdashboard/components/pipebox/menu.jsx",
+						"react_components/src/OrgDashboard/components/PipeBox/Menu.jsx"
+					],
+					[
+						"app/assets/javascripts/v3/views/organizations/dashboard.js",
+						"app/assets/javascripts/v3/views/organizations/dashboard.js"
+					],
+					[
+						"react_components/src/main.js",
+						"react_components/src/main.js"
+					],
+					[
+						"pipeboxmenu",
+						"react_components/src/views/pipe/PipeBoxMenu.jsx"
+					],
+					[
+						"emptyrepo",
+						"react_components/src/views/pipe/EmptyRepo.jsx"
+					],
+					[
+						"app/assets/javascripts/v3/init.js.coffee",
+						"app/assets/javascripts/v3/init.js.coffee"
+					],
+					[
+						"organizations/unjoined_pipe",
+						"app/views/organizations/_unjoined_pipe.html.erb"
+					],
+					[
+						"pipebox",
+						"react_components/src/views/pipe/PipeBox.jsx"
+					],
+					[
+						"piperoles",
+						"app/models/abilities/pipe_roles.rb"
+					],
+					[
+						"orgdashboard",
+						"react_components/src/views/OrgDashboard.jsx"
+					],
+					[
+						"database",
+						"config/database.yml"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"templaterake",
+						"lib/tasks/create_template_store_pipes.rake"
+					],
+					[
+						"binsetup",
+						"bin/setup"
+					],
+					[
+						"seed",
+						"db/seeds.rb"
+					],
+					[
+						"orgnizationsshow",
+						"app/views/organizations/show.html.erb"
+					],
+					[
+						"react_components/src/connections/components/formmodal/footer.jsx",
+						"react_components/src/Connections/components/FormModal/Footer.jsx"
+					],
+					[
+						"react_components/src/connections/components/formmodal/index.jsx",
+						"react_components/src/Connections/components/FormModal/index.jsx"
+					],
+					[
+						"react_components/src/connections/components/list.jsx",
+						"react_components/src/Connections/components/List.jsx"
+					],
+					[
+						"react_components/src/views/pipe/pipesettingssidebar.jsx",
+						"react_components/src/views/pipe/PipeSettingsSidebar.jsx"
+					],
+					[
+						".local",
+						".env.local"
+					],
+					[
+						".env.lo",
+						".env.local"
+					],
+					[
+						"spec_features/features/pipe_settings/automated_message_setup_settings_spec.rb",
+						"spec_features/features/pipe_settings/automated_message_setup_settings_spec.rb"
+					],
+					[
+						"react_components/src/connections/components/listitem/index.jsx",
+						"react_components/src/Connections/components/ListItem/index.jsx"
+					],
+					[
+						"react_components/src/connections/graphql/createmutation.gql",
+						"react_components/src/Connections/graphql/createMutation.gql"
+					],
+					[
+						"databasev2/graphql/tablerecordbasicquery.gql",
+						"app/javascripts/databaseV2/graphql/TableRecordBasicQuery.gql"
+					],
+					[
+						"pipeswal",
+						"react_components/src/views/PipeSwal/SimpleSwal.jsx"
+					],
+					[
+						"react_components/src/connections/containers/formmodal/create.js",
+						"react_components/src/Connections/containers/FormModal/Create.js"
+					],
+					[
+						"react_components/src/connections/components/listitem/options.jsx",
+						"react_components/src/Connections/components/ListItem/Options.jsx"
+					],
+					[
+						"react_components/src/connections/components/header.jsx",
+						"react_components/src/Connections/components/Header.jsx"
+					],
+					[
+						"app/graphql/resolvers/concerns/relation/create.rb",
+						"app/graphql/resolvers/concerns/relation/create.rb"
+					],
+					[
+						"react_components/src/views/modals/settings/piperelationslistitem.jsx",
+						"react_components/src/views/modals/settings/PipeRelationsListItem.jsx"
+					],
+					[
+						"react_components/src/views/modals/settings/piperelationssettingsmodal.jsx",
+						"react_components/src/views/modals/settings/PipeRelationsSettingsModal.jsx"
+					],
+					[
+						"rack",
+						"config/initializers/rack-attack.rb"
+					],
+					[
+						".tra",
+						".travis.yml"
+					],
+					[
+						"pack",
+						"package.json"
+					],
+					[
+						"utils/types",
+						"react_components/src/utils/types.js"
+					],
+					[
+						"pipedispatcher",
+						"react_components/src/dispatchers/PipeDispatcher.js"
+					],
+					[
+						"actions/settingsactions",
+						"app/javascripts/databaseV2/actions/settingsActions.js"
+					],
+					[
+						"components/sweetalert",
+						"app/javascripts/databaseV2/components/SweetAlert.jsx"
+					],
+					[
+						"containers/sweetalert",
+						"app/javascripts/databaseV2/containers/SweetAlert.js"
+					],
+					[
+						"components/opentablerecord",
+						"app/javascripts/databaseV2/components/OpenTableRecord/Options/Record.jsx"
+					],
+					[
+						"constants/actions",
+						"react_components/src/constants/Actions.js"
+					],
+					[
+						"serverpipeactions",
+						"react_components/src/actions/ServerPipeActions.js"
+					],
+					[
+						"newpiperelationmodal.jsx",
+						"react_components/src/views/modals/settings/NewPipeRelationModal.jsx"
+					],
+					[
+						"views/pipe/settings/fields/restrictionoptions",
+						"react_components/src/views/pipe/settings/fields/RestrictionOptions.jsx"
+					],
+					[
+						"newpiperelationmodal",
+						"react_components/src/views/modals/settings/NewPipeRelationModal.jsx"
+					],
+					[
+						"tablere",
+						"app/javascripts/databaseV2/reducers/tableReducer.js"
+					],
+					[
+						"views/pipe/settings/functions/renderoptions",
+						"react_components/src/views/pipe/settings/functions/renderOptions.jsx"
+					],
+					[
+						"views/pipe/settings/functions/loadpipes",
+						"react_components/src/views/pipe/settings/functions/loadPipes.js"
+					],
+					[
+						"mutations/updatetablerelationmutation",
+						"react_components/src/mutations/UpdateTableRelationMutation.js"
+					],
+					[
+						"piperelation",
+						"react_components/src/views/modals/settings/PipeRelationsListItem.jsx"
+					],
+					[
+						"repos",
+						"spec/fixtures/repos.yml"
+					],
+					[
+						"usersyml",
+						"spec/fixtures/users.yml"
+					],
+					[
+						"useryml",
+						"spec/fixtures/users.yml"
+					],
+					[
+						"reposyml",
+						"spec/fixtures/repos.yml"
+					],
+					[
+						"api",
+						"config/graphql/api.en.yml"
+					],
+					[
+						"naza",
+						"config/initializers/nazar.rb"
+					],
+					[
+						"graphql_helper",
+						"spec/graphql/graphql_helper.rb"
+					],
+					[
+						"travis",
+						".travis.yml"
+					],
+					[
+						"jasminehtml",
+						"app/views/layouts/jasmine_rails/spec_runner.html.erb"
+					],
+					[
+						"main",
+						"react_components/src/main.js"
+					],
+					[
+						"organization.rb",
+						"app/models/organization.rb"
+					],
+					[
+						"user.rb",
+						"app/models/user.rb"
+					],
+					[
+						"i18",
+						"react_components/src/utils/i18n.js"
+					],
+					[
+						"cardstore",
+						"react_components/src/stores/CardStore.js"
+					],
+					[
+						"package.json",
+						"package.json"
+					],
+					[
+						"esli",
+						"app/assets/javascripts/eslint.rc"
+					],
+					[
+						"react_components/src/views/pipe/phases/phaseheader.jsx",
+						"react_components/src/views/pipe/phases/PhaseHeader.jsx"
+					],
+					[
+						"react_components/src/views/pipe/phases/options/index.jsx",
+						"react_components/src/views/pipe/phases/Options/index.jsx"
+					],
+					[
+						"react_components/src/views/pipe/phases/options/dropdown.jsx",
+						"react_components/src/views/pipe/phases/Options/DropDown.jsx"
+					],
+					[
+						"spec_features/features/database/list_tables_spec.rb",
+						"spec_features/features/database/list_tables_spec.rb"
+					],
+					[
+						"pipedestroyer",
+						"app/services/destroyer/pipe_destroyer.rb"
+					],
+					[
+						"docker",
+						"docker-compose.yml"
+					],
+					[
+						"db/structure.sql",
+						"db/structure.sql"
+					],
+					[
+						"app/models/repo.rb",
+						"app/models/repo.rb"
+					],
+					[
+						"publicformrb",
+						"app/models/public_form.rb"
+					],
+					[
+						"spec_features/features/open_card/start_form_spec.rb",
+						"spec_features/features/open_card/start_form_spec.rb"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"reposcon",
+						"app/controllers/repos_controller.rb"
+					],
+					[
+						"publicformerb",
+						"app/views/layouts/public_form.html.erb"
+					],
+					[
+						"public_formerb",
+						"app/views/repos/public_form.html.erb"
+					],
+					[
+						"carduipresenter",
+						"app/presenters/card_ui_presenter.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/Dropbox/sublime_projects/codigos.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"2.1",
+						"$(TIMESTAMP_DIR)/.RUBYARCHDIR.-.hitimes.-.2.1.time:"
+					]
+				],
+				"width": 374.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 276.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1436.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"find",
+						"find_by"
+					],
+					[
+						"cla",
+						"cla\tclass .. initialize .. end"
+					],
+					[
+						"card",
+						"card_assignees"
+					],
+					[
+						"is",
+						"is_expected"
+					],
+					[
+						"noti",
+						"notifications_popup\t(_header.html.erb)"
+					],
+					[
+						"ass",
+						"assignees\t(index.rb)"
+					],
+					[
+						"React",
+						"ReactDOM"
+					],
+					[
+						"tab",
+						"tabIndex"
+					],
+					[
+						"pipe",
+						"pipeRelation"
+					],
+					[
+						"ta",
+						"tabIndex"
+					],
+					[
+						"private",
+						"private_constant\t(create.rb)"
+					],
+					[
+						"priv",
+						"private_constant\t(create.rb)"
+					],
+					[
+						"conslo",
+						"console.log"
+					],
+					[
+						"extend",
+						"extends"
+					],
+					[
+						"fiel",
+						"field_maps"
+					],
+					[
+						"repo",
+						"repo_clone"
+					],
+					[
+						"public_for",
+						"public_form_status"
+					],
+					[
+						"email_",
+						"email_inbox_attributes\t(start_forms_controller.rb)"
+					],
+					[
+						"public",
+						"public_form_active\t(repo.rb)"
+					],
+					[
+						"match",
+						"match_array"
+					],
+					[
+						"create",
+						"create_token"
+					],
+					[
+						"return",
+						"return_error"
+					],
+					[
+						"pla",
+						"platform_apps"
+					],
+					[
+						"email",
+						"email_inboxes"
+					],
+					[
+						"subtitle",
+						"subtitle_fields"
+					],
+					[
+						"the",
+						"then"
+					],
+					[
+						"phase",
+						"phase_details\t(card_phase_detail.rb)"
+					],
+					[
+						"alias",
+						"alias_method"
+					],
+					[
+						"upda",
+						"update_column"
+					],
+					[
+						"send",
+						"send_cards_to_es\t(reindex_cards_worker.rb)"
+					],
+					[
+						"checkli",
+						"checklist_items"
+					],
+					[
+						"check",
+						"checklist_items"
+					],
+					[
+						"time",
+						"time_entries\t(index.rb)"
+					],
+					[
+						"field",
+						"field_id"
+					],
+					[
+						"current_phase",
+						"current_phase_detail\t(index.rb)"
+					],
+					[
+						"curren",
+						"current_phase_detail"
+					],
+					[
+						"card_",
+						"card_hash"
+					],
+					[
+						"crea",
+						"created\t(create.rb)"
+					],
+					[
+						"com",
+						"comment"
+					],
+					[
+						"can",
+						"can_clone_all"
+					],
+					[
+						"Field",
+						"FieldType"
+					],
+					[
+						"user",
+						"user_id"
+					],
+					[
+						"assig",
+						"assigned_repo"
+					],
+					[
+						"title_field",
+						"title_field_id"
+					],
+					[
+						"mut",
+						"mutation"
+					],
+					[
+						"permi",
+						"permission_denied\t(base.rb)"
+					],
+					[
+						"perm",
+						"permission_denied\t(update.rb)"
+					],
+					[
+						"assi",
+						"assigned_repo\t(delete.rb)"
+					],
+					[
+						"table",
+						"table_id\t(create.rb)"
+					],
+					[
+						"in",
+						"input"
+					],
+					[
+						"pip",
+						"pipe_id"
+					],
+					[
+						"sel",
+						"self"
+					],
+					[
+						"sle",
+						"self"
+					],
+					[
+						"pro",
+						"process_input_and_context"
+					],
+					[
+						"proc",
+						"process_input_and_context\t(relation_creator.rb)"
+					],
+					[
+						"sub",
+						"subscription"
+					],
+					[
+						"acti",
+						"active_subscription\t(dunning_controller.rb)"
+					],
+					[
+						"current",
+						"current_organization"
+					],
+					[
+						"summa",
+						"summary_options"
+					],
+					[
+						"su",
+						"summary_attributes"
+					],
+					[
+						"tho",
+						"through"
+					],
+					[
+						"finis",
+						"finish_at\t(card_indexer.rb)"
+					],
+					[
+						"tim",
+						"time_entries\t(card.rb)"
+					],
+					[
+						"start",
+						"start_at\t(card_indexer.rb)"
+					],
+					[
+						"display",
+						"display_name\t(card_mover.rb)"
+					],
+					[
+						"attr",
+						"attr_reader\t(notifier.rb)"
+					],
+					[
+						"Prop",
+						"PropTypes.string"
+					],
+					[
+						"footer",
+						"footerOnClick\t(Popup.jsx)"
+					],
+					[
+						"Pro",
+						"PropTypes.string"
+					],
+					[
+						"Repo",
+						"RepoSummarizedLayoutAttribute\t(field.rb)"
+					],
+					[
+						"destroy",
+						"destroys"
+					],
+					[
+						"delete",
+						"deleted_at\t(phase_destroyer.rb)"
+					],
+					[
+						"Phase",
+						"PhaseDetail\t(phase_destroyer.rb)"
+					],
+					[
+						"automate",
+						"automated_message_setup"
+					],
+					[
+						"con",
+						"context\tcontext"
+					],
+					[
+						"attri",
+						"attribute_slug\t(field.rb)"
+					],
+					[
+						"A",
+						"AutomatedMessageSetup\t(automated_message_setup.rb)"
+					],
+					[
+						"pp-no",
+						"pp-no-margin"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"min",
+						"min_users"
+					],
+					[
+						"active",
+						"active_subscription"
+					],
+					[
+						"mini",
+						"minimal_view"
+					],
+					[
+						"toggle",
+						"toggleEmbedCode"
+					],
+					[
+						"class",
+						"className"
+					],
+					[
+						"preve",
+						"preventDefault\t(SettingsSidebar.jsx)"
+					],
+					[
+						"clas",
+						"className"
+					],
+					[
+						"canM",
+						"canManageTable"
+					],
+					[
+						"canMa",
+						"canManage"
+					],
+					[
+						"pp",
+						"pp-active\t(SettingsSidebar.jsx)"
+					],
+					[
+						"defa",
+						"defaultProps\t(SettingsSidebar.jsx)"
+					],
+					[
+						"cons",
+						"constructor\t(SettingsSidebar.jsx)"
+					],
+					[
+						"boo",
+						"boolean"
+					],
+					[
+						"bind",
+						"bindKeys"
+					],
+					[
+						"constru",
+						"constructor\tReact.Component"
+					],
+					[
+						"org_",
+						"org_preferences"
+					],
+					[
+						"public_form",
+						"public_form_enterprise\t(public_form.html.erb)"
+					],
+					[
+						"org_prefe",
+						"org_preference\t(active_org_preference.rb)"
+					],
+					[
+						"authoriza",
+						"authorization\t(table_roles.rb)"
+					],
+					[
+						"nes",
+						"nextProps"
+					],
+					[
+						"componentWill",
+						"componentWillUpdate\t Life Cycle"
+					],
+					[
+						"minim",
+						"minimal_view\t(Preview.js)"
+					],
+					[
+						"autho",
+						"authorization\t(table_roles.rb)"
+					],
+					[
+						"Card",
+						"CardAssignee"
+					],
+					[
+						"Automa",
+						"AutomatedMessageSetup"
+					],
+					[
+						"comm",
+						"comments_count"
+					],
+					[
+						"pp-d",
+						"pp-display-block"
+					],
+					[
+						"pp-inpu",
+						"pp-input-wrap"
+					],
+					[
+						"acce",
+						"accept\t(dropzone.js)"
+					],
+					[
+						"compo",
+						"componentDidMount"
+					],
+					[
+						"atta",
+						"attachment\t(FieldTypeAttachment.jsx)"
+					],
+					[
+						"custom",
+						"custom_validation\t(FieldTypeAttachment.jsx)"
+					],
+					[
+						"tas",
+						"tas\ttask :task_name => [:dependent, :tasks] do .. end"
+					],
+					[
+						"constr",
+						"constructor\tReact.Component"
+					],
+					[
+						"hadle",
+						"handleClose"
+					],
+					[
+						"dis",
+						"dispatch"
+					],
+					[
+						"default",
+						"defaultProp"
+					],
+					[
+						"change",
+						"changeLabelSettingsFormVisibility\t(selectField.js)"
+					],
+					[
+						"map",
+						"mapDispatchToProps"
+					],
+					[
+						"di",
+						"dispatch\t(AssigneeSelectField.jsx)"
+					],
+					[
+						"Invite",
+						"InviteMembersModal"
+					],
+					[
+						"Table",
+						"TablesQuery\t(TableQuery.gql)"
+					],
+					[
+						"i18n",
+						"i18nScope"
+					],
+					[
+						"pp-",
+						"pp-description"
+					],
+					[
+						"defau",
+						"defaultProps\t(Index.jsx)"
+					],
+					[
+						"defaul",
+						"defaultProps\t(Radio.jsx)"
+					],
+					[
+						"lab",
+						"labelClasses"
+					],
+					[
+						"member",
+						"member_role"
+					],
+					[
+						"error",
+						"error_message"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/marciotrindade/Projects/pipefy/pipefy/app/services/destroyer/card_destroyer.rb",
+					"settings":
+					{
+						"buffer_size": 2699,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"List",
+							""
+						],
+						[
+							"Rspec",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Rspec",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "delete",
+				"selected_items":
+				[
+					[
+						"delete",
+						"File: Delete"
+					],
+					[
+						"dele",
+						"File: Delete"
+					],
+					[
+						"copy",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"rename",
+						"File: Rename"
+					],
+					[
+						"blame",
+						"git: blame current file"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"sql",
+						"SQL Beautifier: Format Current SQL File"
+					],
+					[
+						"pyth",
+						"Set Syntax: Python"
+					],
+					[
+						"gitstatus",
+						"git: status"
+					],
+					[
+						"au",
+						"RuboCop: Auto correct current file"
+					],
+					[
+						"auto",
+						"RuboCop: Auto correct current file"
+					],
+					[
+						"com",
+						"Compare with..."
+					],
+					[
+						"comap",
+						"Compare with..."
+					],
+					[
+						"gits",
+						"git: status"
+					],
+					[
+						"duplicate",
+						"File: Duplicate"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"rubocop",
+						"RuboCop: Auto correct current file"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"babel",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"eslint",
+						"Preferences: SublimeLinter Settings – Default"
+					],
+					[
+						"pret",
+						"JsPrettier: Format Code"
+					],
+					[
+						"markdo",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"rena",
+						"File: Rename"
+					],
+					[
+						"reane",
+						"File: Rename"
+					],
+					[
+						"reanme",
+						"File: Rename"
+					],
+					[
+						"jsx",
+						"Set Syntax: JSX"
+					],
+					[
+						"came",
+						"Convert Case: camelCase"
+					],
+					[
+						"camel",
+						"Convert Case: camelCase"
+					],
+					[
+						"case",
+						"Convert Case: camelCase"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"duplica",
+						"File: Duplicate"
+					],
+					[
+						"copyre",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"flow",
+						"Flow"
+					],
+					[
+						"format",
+						"JsPrettier: Format Code"
+					],
+					[
+						"jspre",
+						"JsPrettier: Format Code"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"compare",
+						"Compare with..."
+					],
+					[
+						"uniq",
+						"Permute Lines: Unique"
+					],
+					[
+						"josn",
+						"Set Syntax: JSON"
+					],
+					[
+						"gql",
+						"Set Syntax: GraphQL"
+					],
+					[
+						"rean",
+						"File: Rename"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"gra",
+						"Set Syntax: GraphQL"
+					],
+					[
+						"graph",
+						"Set Syntax: GraphQL"
+					],
+					[
+						"gitblame",
+						"git: blame current file"
+					],
+					[
+						"duplicte",
+						"File: Duplicate"
+					],
+					[
+						"sq",
+						"Set Syntax: SQL"
+					],
+					[
+						"gitsta",
+						"git: status"
+					],
+					[
+						"unqi",
+						"Permute Lines: Unique"
+					],
+					[
+						"mo",
+						"File: Move"
+					],
+					[
+						"git blame",
+						"git: blame current file"
+					],
+					[
+						"git bla",
+						"git: blame current file"
+					],
+					[
+						"dupl",
+						"File: Duplicate"
+					],
+					[
+						"gitblam",
+						"git: blame current file"
+					],
+					[
+						"cop",
+						"File: Copy Name Encoded"
+					],
+					[
+						"copyrela",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"git blam",
+						"git: blame current file"
+					],
+					[
+						"pull",
+						"git: pull"
+					],
+					[
+						"push",
+						"git: push (force)"
+					],
+					[
+						"git new",
+						"git: checkout new branch"
+					],
+					[
+						"git rebas",
+						"git: rebase"
+					],
+					[
+						"git bran",
+						"git: branch"
+					],
+					[
+						"rspec",
+						"Set Syntax: Better RSpec"
+					],
+					[
+						"jsoin",
+						"Pretty JSON: Minify (compress) JSON"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"rubo",
+						"RuboCop: Auto correct current file"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"duplic",
+						"File: Duplicate"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"copyr",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"gitstat",
+						"Git: Status"
+					],
+					[
+						"blam",
+						"Git: Blame"
+					],
+					[
+						"dupli",
+						"File: Duplicate"
+					],
+					[
+						"copyrel",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"rela",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"copyrea",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"csv",
+						"CSV: Justify columns"
+					],
+					[
+						"copyrelat",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"gitblma",
+						"Git: Blame"
+					],
+					[
+						"rubop",
+						"RuboCop: Check current project"
+					],
+					[
+						"ru",
+						"RuboCop: Check current file"
+					],
+					[
+						"copyrelati",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"markdon",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"copyrelae",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"reame",
+						"File: Rename"
+					],
+					[
+						"gitblm",
+						"Git: Blame"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ruo",
+						"RuboCop: Offense Count in current project"
+					],
+					[
+						"title",
+						"Convert Case: Title Case"
+					],
+					[
+						"tit",
+						"Convert Case: Title Case"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"rudo",
+						"RuboCop: Check folder of current file"
+					],
+					[
+						"gi",
+						"Git: Status"
+					],
+					[
+						"gitst",
+						"Git: Status"
+					],
+					[
+						"upp",
+						"Convert Case: Upper Case"
+					],
+					[
+						"uni",
+						"Permute Lines: Unique"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"up",
+						"Convert Case: Upper Case"
+					],
+					[
+						"table ma",
+						"Table Editor: Set table syntax 'MultiMarkdown' for current view"
+					],
+					[
+						"un",
+						"Permute Lines: Unique"
+					],
+					[
+						"ma",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"delte",
+						"File: Delete"
+					],
+					[
+						"rudy",
+						"RuboCop: Check folder of current file (only with lint cops)"
+					],
+					[
+						"mov",
+						"File: Move"
+					],
+					[
+						"copypath",
+						"File: Copy Path From Project"
+					],
+					[
+						"git bl",
+						"Git: Blame"
+					],
+					[
+						"cope",
+						"File: Copy Name Encoded"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"esli",
+						"ESLint"
+					],
+					[
+						"csv sort",
+						"CSV: Sort by column (Ascending)"
+					],
+					[
+						"markd",
+						"Set Syntax: Markdown"
+					],
+					[
+						"rei",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"babe",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"bla",
+						"Git: Blame"
+					],
+					[
+						"dup",
+						"File: Duplicate"
+					],
+					[
+						"yml",
+						"Set Syntax: YAML"
+					],
+					[
+						"ever new",
+						"Evernote: New empty note"
+					],
+					[
+						"javas",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"bab",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"block",
+						"Toggle Block Comment"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"select",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"erb",
+						"Coffee: Quick Run Bar"
+					],
+					[
+						"slim",
+						"Set Syntax: Ruby Slim"
+					]
+				],
+				"width": 588.0
+			},
+			"console":
+			{
+				"height": 752.0,
+				"history":
+				[
+					"help",
+					"reload"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/marciotrindade/Projects/pipefy/pipefy",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/graphql",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/graphql/TableRecord",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/graphql",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/graphql/mutations",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/graphql/mutations/webhooks"
+			],
+			"file_history":
+			[
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/table.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/organization.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/open_card/CardPhaseBox.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/mixins/TimeDuration.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/pipe/DropCardPlaceholder.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/closed_card/DraggableClosedCard.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/closed_card/ClosedCard.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/stores/CardStore.js",
+				"/Users/marciotrindade/projects/pipefy/pipefy/.git/COMMIT_EDITMSG",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/spring.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/Gemfile",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/initializers/octopus.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/controllers/queries_controller.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/controllers/public_api_controller.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/controllers/internal_api_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/initializers/optics_agent.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/graphql/types/table_gql_type.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/graphql/types/pipe_gql_type.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/graphql/types/organization_gql_type.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/graphql/types/query_gql_type.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/graphql/types/card_gql_type.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/destroyer/field_destroyer.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/workers/create_notification_worker.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/card.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec_features/features/pipe/pipe_spec.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/services/card_mover.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/mailers/notification_mailer.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/services/push_notification.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/services/activity_publisher_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/user_inviter/pipe.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/docker-compose.yml",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/workers/cache_worker/pipe_invalidator.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/workers/cache_worker/pipe_invalidator_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/pipe.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/cards/show.json.jbuilder",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/controllers/internal_api/settings/pipes_controller_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/models/pipe_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/workers/cache/pipe_invalidator_worker.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/workers/cache/pipe_invalidator_worker_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/cards_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/card_mover.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/puma.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/presenters/internal_api/cards/index_presenter.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/gatekeeper/force_move_card.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/automated_message.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/mailers/automated_message_mailer.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/pipes_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/mailers/notification_mailer.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/database.yml",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/sidekiq.yml",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/initializers/sidekiq.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/graphql/CreateLabelMutation.gql",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/pipe/settings/PipeGeneralSettingsModal.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/modals/settings/GeneralSettingsModal.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/presenters/internal_api/settings/pipe_presenter.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/user.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/presenters/internal_api/settings/pipe_presenter_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/organizations_controller.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/services/resource_provider/notifications.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/resource_provider/notifications_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/resource_provider/notifications.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/notifications_controller.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/controllers/organizations_controller.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/controllers/organizations_controller_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/application_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/abilities/organization_roles.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/models/abilities/base.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/view_objects/metrics_view_object.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/user_preference.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/abilities/base.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/helpers/application_helper.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/notification.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/views/notifications/_popup.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/repo.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/models/organization.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/helpers/users_helper.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/layouts/_header.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/role.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/notifications/_popup.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/notifications/popup.js.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/pipes/metrics.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/pipe_metrics_query.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/analytics.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/analytics/intercom_adapter.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/analytics/mixpanel_adapter.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/initializers/intercom.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/vcr_cassettes/timeline/organization/success_empty_pipe.yml",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/internal_api/timelines_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/controllers/internal_api/timelines_controller_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/vcr_cassettes/timeline/organization/success_empty.yml",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/activity_api/org_loader.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/activity_api/api.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/models/abilities/repo_roles_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/vcr_cassettes/timeline/pipe/success_data.yml",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/models/public_form_abilities_spec.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/models/abilities/pipe_roles_spec.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/models/abilities/organization_roles_spec.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/models/abilities/database_roles_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/concerns/slave_concern.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/controllers/internal_api/cards_controller_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/concerns/internal_api/cards/index.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/pipe/Phase.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/internal_api/phases_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/internal_api/cards_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/pipes/show.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/db/structure.sql",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/react-pipestyle/Modal/index.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/react-pipestyle/Modal/Header.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/react-pipestyle/Modal/Footer.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/workers/webhooks/record_worker.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/graphql/types/phase_gql_type.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/containers/OpenTableRecord/index.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/TableRecord/index.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/components/TableShow/TableArea.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/card_relations/RelatedCard.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/layouts/application.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/shared/_footer.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/stores/PhaseStore.js",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/actions/CardMovementActions.js",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/stores/PipeStore.js",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/repo_cloner/pipe_cloner.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/presenters/clone_presenters/pipe_presenter.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/presenters/clone_presenters/card_presenter.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/presenters/clone_presenters/card_presenter_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/OrgDashboard/components/PipeBox/index.jsx",
+				"/Users/marciotrindade/Dropbox/Sublime Text 3/Packages/User/FlowIDE.sublime-settings",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/card_relations/GqlRelatedCard.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/package.json"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/Connections",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec/javascripts/views",
+					"",
+					"app/javascripts",
+					"",
+					"spec/graphql",
+					"app/graphql",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/graphql/mutations",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/helpers",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app,-*.js",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/views",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/helpers",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/views",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/graphql",
+					"graphql/",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src",
+					"",
+					"spec",
+					"app",
+					"app/javascript",
+					"react_components/",
+					"app/",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/,-*.gql",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/components",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/views",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/views",
+					"",
+					"spec/feature",
+					"app/graphql",
+					"spec/graphql",
+					"app/graphql",
+					"",
+					"graphql",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec/javascripts",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src",
+					"",
+					"react_components/",
+					"spec_features/",
+					"spec_features",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/views",
+					"",
+					"react_components/src/",
+					"spec_features/",
+					"react_components/",
+					"spec/javascritps/",
+					"react_components/",
+					"react_components",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec_features/open_card",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec/models",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec_features",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/assets/stylesheets/v3",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/config/locales",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/assets/javascripts",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec_features",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/db",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/spec_features",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/db",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/app/models/abilities",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/spec_features/features",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/app/views/database",
+					"/Users/marciotrindade/pipefy/pipefy/app/views",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/react_components",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/app/assets/javascripts/v3",
+					"/Users/marciotrindade/pipefy/pipefy/spec/javascripts",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/react_components",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/views",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/stores",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/dispatchers",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/actions",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/views",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/stores",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/dispatchers",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/actions",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/views"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"duration_in_current_phase_time",
+					"color",
+					"mixins/TimeDuration",
+					"renderDuration",
+					"CardPhaseStatistics",
+					"PhaseForm",
+					"_renderBody",
+					"_renderHeader",
+					"_renderStartedDate",
+					"_renderHeader",
+					"update_pipe_subtitles",
+					", ",
+					"Thread",
+					"send_leaving_old_phase_email_templates!",
+					"send_email_templates",
+					"formated_phases",
+					"notify_create",
+					"delay_for",
+					"formated_assignees",
+					"touch_card_updated_at_on_redis",
+					"send_email",
+					"message",
+					"send_leaving_old_phase_email_templates",
+					"automated",
+					"messages",
+					"automated",
+					"verify_jump_ability",
+					"validate_and_move",
+					"build",
+					"activity_id",
+					"select count(id)",
+					"Thread",
+					"SIDEKIQ_REDIS_POOL",
+					"SIDEKIQ_CONCURRENCY",
+					",",
+					"64103",
+					",",
+					"bil",
+					"load_resource",
+					"leade",
+					"set_pipes",
+					"configure_permitted_parameters",
+					"init_gon",
+					"init_current_organization_id",
+					"change_time_zone",
+					"check_organization_subscription",
+					"using",
+					"choosable_roles_for_repo",
+					"roles",
+					"plan",
+					"active_subscription",
+					"freemium?",
+					"custom_member_react_properties",
+					"organization_super_properties",
+					"organization_attributes",
+					"user_role_for_organization",
+					"list_with_post",
+					"admin_pipe_ids",
+					"other_pipe",
+					"other_members_pipe_ids",
+					"params",
+					"VCR_SUCCESS_SINCE",
+					"VCR_SUCCESS_EMPTY",
+					"VCR_SUCCESS_DATA",
+					"Timecop",
+					"the_beginning",
+					"Abilities::Base.new",
+					"other_members_pipe_ids",
+					"admin_pipe_ids",
+					"with_deleted",
+					"admin_pipe_ids",
+					"public_form_user",
+					"apply_permissions",
+					"create_alias",
+					"organization",
+					"@organization",
+					"other_members_pipe_ids",
+					"card_assignees",
+					"restricted_view?",
+					"cards_with_includes",
+					"\\n",
+					"cards_without_includes",
+					"cards_with_includes",
+					"_filterMyCardsOnly",
+					"current_user_view_only_assigned_cards",
+					"handleClose",
+					"onCloseLabel",
+					"customContentClass",
+					"customModalClass",
+					"onSavelabel",
+					"handleClose",
+					"onCloseLabel",
+					"customFooterClass",
+					"customCtaClass",
+					"handleClose",
+					"contentTag",
+					"this.props.",
+					"this.props",
+					"e: JsEvent",
+					"Error",
+					"max_page_size",
+					"Portal",
+					"tableId",
+					"isDisplayingPhases",
+					"_togglePhases",
+					"OpenTableRecord",
+					"CardStore.setupData(data)",
+					"NEW_CLOSED_CARD_DATA",
+					"CardMovementActions",
+					"NOT_CLONABLE_ATTRIBUTES",
+					"deep_clone",
+					"NOT_CLONABLE_ATTRIBUTES",
+					"repo_cloner",
+					"RepoCloner",
+					"icon",
+					"@",
+					"flow",
+					"PIPEUI",
+					"APP_URL",
+					"document.getElementById('timeline_placeholder')",
+					"renderTimelineInfinite",
+					"PipeStore",
+					"toggleFavorite",
+					"isFavorite",
+					"toggleFavorite",
+					"false",
+					"EmptyRepo",
+					"#org-timeline-menu-icon"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"utils/i18n",
+					" ",
+					"tableId",
+					"'api.errors.general.invalid_input', field: $1, value:$2)",
+					"'api.errors.general.invalid_input', field: $1, input_value: $2)",
+					"errors.general.permission_denied",
+					"$2",
+					".pp-header .pp-nav-center",
+					"$1: ",
+					"require_relative '../",
+					"",
+					"$3",
+					"\\n",
+					" ",
+					"to have_no",
+					":card_title=>\"\"",
+					"\"card_title\"=>\"\"",
+					"staging-www",
+					"if (",
+					"DELETE from card_field_values where id = (select id from card_field_values WHERE field_id = $2 AND card_phase_detail_id = $3 AND deleted_at IS NULL ORDER BY updated_at ASC LIMIT 1);",
+					"DELETE from card_field_values where id = (select id from card_field_values WHERE field_id = $2 AND card_phase_detail_id = $ AND deleted_at IS NULL ORDER BY updated_at ASC LIMIT 1);",
+					"DELETE from card_field_values where id = (select id from card_field_values WHERE field_id = $2 AND card_phase_detail_id = $3 AND deleted_at IS NULL ORDER BY updated_at ASC LIMIT 1);",
+					"DELETE from card_field_values where id = (select id from card_field_values WHERE field_id = $1 AND card_phase_detail_id = $2 AND deleted_at IS NULL ORDER BY updated_at ASC LIMIT 1);",
+					"require 'features_helper'",
+					"$2 - $1",
+					"users(:pipe_org_admin)",
+					"pending",
+					"$2",
+					"render ",
+					":$1",
+					"product_properties_check('$1', $2, dynamic: true)",
+					"product_properties_radio('$1', $2, default: true)",
+					"product_properties_check('$1', $2, default: true)",
+					"$1",
+					"{{ server_hostname }}",
+					"current_site",
+					"ApiClient",
+					"",
+					"set_flash",
+					"$3",
+					"$1;",
+					"$2",
+					"",
+					", ",
+					"{account_id: $1, message_id: $2, batch: $3},",
+					"",
+					"$2,$1,hm8307\\n",
+					"$2,$1,hm8307",
+					"{account_id: $1, message_id: $2},",
+					"$2,$1,hm1720\\n",
+					"$2,$1,hm950\\n",
+					"$2,$1,hm950",
+					"$2,$1,hm638",
+					"\\n",
+					"\"",
+					"\"\\n\"",
+					"'\\n'",
+					"$1",
+					"\\n",
+					"be_falsey",
+					"be_truthy",
+					"be_falsey",
+					"be_truthy",
+					"ls-label",
+					"ls-label-text",
+					"{\"$3\" => \"$1\"},",
+					"{\"$3}\" => \"$1\"},",
+					"\\n",
+					"",
+					"\\n",
+					"",
+					"\\n",
+					"",
+					"$1, $3, $5",
+					"Host.find_by_ip(\"$2\").update_attribute(:name, \"$3\")",
+					"$2,$3,$1",
+					",\\n",
+					"$1",
+					",\\n",
+					",",
+					",\\n",
+					"$2",
+					"",
+					"\\n",
+					"",
+					"\"$1\",",
+					"$1",
+					"\",\\n\"",
+					",\\n",
+					"$1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/marciotrindade/Projects/pipefy/pipefy"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/marciotrindade/Projects/pipefy/pipefy/app/services/destroyer/card_destroyer.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2699,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										25,
+										38
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"git_savvy.repo_path": "/Users/marciotrindade/projects/pipefy/pipefy",
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/Rails/Ruby on Rails.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o:///Users/marciotrindade/locaweb/emkt-bounces/app/workers":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/marciotrindade/locaweb/emkt-provisioner/spec/lib":
+			{
+				"height": 112.0
+			},
+			"output.GitSavvy":
+			{
+				"height": 138.0
+			},
+			"output.GoSublime-output":
+			{
+				"height": 100.0
+			},
+			"output.MarGo-output":
+			{
+				"height": 100.0
+			},
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 406.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-commit":
+			{
+				"height": 132.0
+			},
+			"output.git-push":
+			{
+				"height": 132.0
+			},
+			"output.show_commit_info":
+			{
+				"height": 138.0
+			},
+			"pinned_build_system": "Packages/User/Bash.sublime-build",
+			"position": "0 0 0 1436 878 0 0 1440 878 ",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"card_destroyer",
+						"app/services/destroyer/card_destroyer.rb"
+					],
+					[
+						"tablerb",
+						"app/models/table.rb"
+					],
+					[
+						"organizationrb",
+						"app/models/organization.rb"
+					],
+					[
+						"closedcard",
+						"react_components/src/views/closed_card/ClosedCard.jsx"
+					],
+					[
+						"draggableclosedcard",
+						"react_components/src/views/closed_card/DraggableClosedCard.jsx"
+					],
+					[
+						"dropcard",
+						"react_components/src/views/pipe/DropCardPlaceholder.jsx"
+					],
+					[
+						"spring",
+						"config/spring.rb"
+					],
+					[
+						"mixins/timeduration",
+						"react_components/src/views/mixins/TimeDuration.jsx"
+					],
+					[
+						"cardphasebox",
+						"react_components/src/views/open_card/CardPhaseBox.jsx"
+					],
+					[
+						"octop",
+						"config/initializers/octopus.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"config/initializers/optics_agent.rb",
+						"config/initializers/optics_agent.rb"
+					],
+					[
+						"card.rb",
+						"app/models/card.rb"
+					],
+					[
+						"pipe",
+						"app/services/user_inviter/pipe.rb"
+					],
+					[
+						"fielddestroyer",
+						"app/services/destroyer/field_destroyer.rb"
+					],
+					[
+						"docker",
+						"docker-compose.yml"
+					],
+					[
+						"piperb",
+						"app/models/pipe.rb"
+					],
+					[
+						"cardsshow",
+						"app/views/cards/show.json.jbuilder"
+					],
+					[
+						"puma",
+						"config/puma.rb"
+					],
+					[
+						"automatedmessagemailer",
+						"app/mailers/automated_message_mailer.rb"
+					],
+					[
+						"automatedmessage",
+						"app/models/automated_message.rb"
+					],
+					[
+						"cardmover",
+						"app/services/card_mover.rb"
+					],
+					[
+						"forcemovecard",
+						"app/services/gatekeeper/force_move_card.rb"
+					],
+					[
+						"indexpresenter",
+						"app/presenters/internal_api/cards/index_presenter.rb"
+					],
+					[
+						"cardscontroler",
+						"app/controllers/cards_controller.rb"
+					],
+					[
+						"pipescontroller",
+						"app/controllers/pipes_controller.rb"
+					],
+					[
+						"notificationmailer",
+						"app/mailers/notification_mailer.rb"
+					],
+					[
+						"database",
+						"config/database.yml"
+					],
+					[
+						"sidekiq",
+						"config/sidekiq.yml"
+					],
+					[
+						"organization",
+						"app/models/organization.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"pipepresenter",
+						"app/presenters/internal_api/settings/pipe_presenter.rb"
+					],
+					[
+						"pipegenera",
+						"react_components/src/views/pipe/settings/PipeGeneralSettingsModal.jsx"
+					],
+					[
+						"generalsettings",
+						"react_components/src/views/modals/settings/GeneralSettingsModal.jsx"
+					],
+					[
+						"organizationsocntroller",
+						"app/controllers/organizations_controller.rb"
+					],
+					[
+						"notificationscontro",
+						"app/controllers/notifications_controller.rb"
+					],
+					[
+						"applicationcontroller",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"roles",
+						"app/models/abilities/organization_roles.rb"
+					],
+					[
+						"metricsviewobject",
+						"app/view_objects/metrics_view_object.rb"
+					],
+					[
+						"userprefe",
+						"app/models/user_preference.rb"
+					],
+					[
+						"pipe.rb",
+						"app/models/pipe.rb"
+					],
+					[
+						"organizationcontroller",
+						"app/controllers/organizations_controller.rb"
+					],
+					[
+						"notification",
+						"app/models/notification.rb"
+					],
+					[
+						"role",
+						"app/models/role.rb"
+					],
+					[
+						"repo",
+						"app/models/repo.rb"
+					],
+					[
+						"notifications/popup",
+						"app/views/notifications/popup.js.erb"
+					],
+					[
+						"pipemetricsquery",
+						"app/models/pipe_metrics_query.rb"
+					],
+					[
+						"analyti",
+						"app/models/analytics.rb"
+					],
+					[
+						"intercom",
+						"config/initializers/intercom.rb"
+					],
+					[
+						"orgloader",
+						"app/services/activity_api/org_loader.rb"
+					],
+					[
+						"timeline/organization/success_empty",
+						"spec/vcr_cassettes/timeline/organization/success_empty.yml"
+					],
+					[
+						"timeline/pipe/success_data",
+						"spec/vcr_cassettes/timeline/pipe/success_data.yml"
+					],
+					[
+						"cardrb",
+						"app/models/card.rb"
+					],
+					[
+						"pipeshow",
+						"app/views/pipes/show.html.erb"
+					],
+					[
+						"dropcardplaceholder",
+						"react_components/src/views/pipe/DropCardPlaceholder.jsx"
+					],
+					[
+						"structure",
+						"db/structure.sql"
+					],
+					[
+						"react_components/src/react-pipestyle/modal/index.jsx",
+						"react_components/src/react-pipestyle/Modal/index.jsx"
+					],
+					[
+						"recordworker",
+						"app/workers/webhooks/record_worker.rb"
+					],
+					[
+						"realatedcard",
+						"react_components/src/views/card_relations/RelatedCard.jsx"
+					],
+					[
+						"shared/footer",
+						"app/views/shared/_footer.html.erb"
+					],
+					[
+						"applicationhtmlerb",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"pipeshowhtml",
+						"app/views/pipes/show.html.erb"
+					],
+					[
+						"pipestore",
+						"react_components/src/stores/PipeStore.js"
+					],
+					[
+						"cardmovementactions",
+						"react_components/src/actions/CardMovementActions.js"
+					],
+					[
+						"clonepresenterspipepresenter",
+						"app/presenters/clone_presenters/pipe_presenter.rb"
+					],
+					[
+						"repocloner",
+						"app/services/repo_cloner/pipe_cloner.rb"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"react_components/src/orgdashboard/components/pipebox/index.jsx",
+						"react_components/src/OrgDashboard/components/PipeBox/index.jsx"
+					],
+					[
+						"seeds",
+						"db/seeds.rb"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"setup",
+						"bin/setup"
+					],
+					[
+						"readme",
+						"README.md"
+					],
+					[
+						"spec_features/features/database/permission_spec.rb",
+						"spec_features/features/database/permission_spec.rb"
+					],
+					[
+						"spec_features/features/database/fields_spec.rb",
+						"spec_features/features/database/fields_spec.rb"
+					],
+					[
+						"react_components/src/orgdashboard/components/index.jsx",
+						"react_components/src/OrgDashboard/components/index.jsx"
+					],
+					[
+						"react_components/src/orgdashboard/components/pipebox/menu.jsx",
+						"react_components/src/OrgDashboard/components/PipeBox/Menu.jsx"
+					],
+					[
+						"app/assets/javascripts/v3/views/organizations/dashboard.js",
+						"app/assets/javascripts/v3/views/organizations/dashboard.js"
+					],
+					[
+						"react_components/src/main.js",
+						"react_components/src/main.js"
+					],
+					[
+						"pipeboxmenu",
+						"react_components/src/views/pipe/PipeBoxMenu.jsx"
+					],
+					[
+						"emptyrepo",
+						"react_components/src/views/pipe/EmptyRepo.jsx"
+					],
+					[
+						"app/assets/javascripts/v3/init.js.coffee",
+						"app/assets/javascripts/v3/init.js.coffee"
+					],
+					[
+						"organizations/unjoined_pipe",
+						"app/views/organizations/_unjoined_pipe.html.erb"
+					],
+					[
+						"pipebox",
+						"react_components/src/views/pipe/PipeBox.jsx"
+					],
+					[
+						"piperoles",
+						"app/models/abilities/pipe_roles.rb"
+					],
+					[
+						"orgdashboard",
+						"react_components/src/views/OrgDashboard.jsx"
+					],
+					[
+						"templaterake",
+						"lib/tasks/create_template_store_pipes.rake"
+					],
+					[
+						"binsetup",
+						"bin/setup"
+					],
+					[
+						"seed",
+						"db/seeds.rb"
+					],
+					[
+						"orgnizationsshow",
+						"app/views/organizations/show.html.erb"
+					],
+					[
+						"react_components/src/connections/components/formmodal/footer.jsx",
+						"react_components/src/Connections/components/FormModal/Footer.jsx"
+					],
+					[
+						"react_components/src/connections/components/formmodal/index.jsx",
+						"react_components/src/Connections/components/FormModal/index.jsx"
+					],
+					[
+						"react_components/src/connections/components/list.jsx",
+						"react_components/src/Connections/components/List.jsx"
+					],
+					[
+						"react_components/src/views/pipe/pipesettingssidebar.jsx",
+						"react_components/src/views/pipe/PipeSettingsSidebar.jsx"
+					],
+					[
+						".local",
+						".env.local"
+					],
+					[
+						".env.lo",
+						".env.local"
+					],
+					[
+						"spec_features/features/pipe_settings/automated_message_setup_settings_spec.rb",
+						"spec_features/features/pipe_settings/automated_message_setup_settings_spec.rb"
+					],
+					[
+						"react_components/src/connections/components/listitem/index.jsx",
+						"react_components/src/Connections/components/ListItem/index.jsx"
+					],
+					[
+						"react_components/src/connections/graphql/createmutation.gql",
+						"react_components/src/Connections/graphql/createMutation.gql"
+					],
+					[
+						"databasev2/graphql/tablerecordbasicquery.gql",
+						"app/javascripts/databaseV2/graphql/TableRecordBasicQuery.gql"
+					],
+					[
+						"pipeswal",
+						"react_components/src/views/PipeSwal/SimpleSwal.jsx"
+					],
+					[
+						"react_components/src/connections/containers/formmodal/create.js",
+						"react_components/src/Connections/containers/FormModal/Create.js"
+					],
+					[
+						"react_components/src/connections/components/listitem/options.jsx",
+						"react_components/src/Connections/components/ListItem/Options.jsx"
+					],
+					[
+						"react_components/src/connections/components/header.jsx",
+						"react_components/src/Connections/components/Header.jsx"
+					],
+					[
+						"app/graphql/resolvers/concerns/relation/create.rb",
+						"app/graphql/resolvers/concerns/relation/create.rb"
+					],
+					[
+						"react_components/src/views/modals/settings/piperelationslistitem.jsx",
+						"react_components/src/views/modals/settings/PipeRelationsListItem.jsx"
+					],
+					[
+						"react_components/src/views/modals/settings/piperelationssettingsmodal.jsx",
+						"react_components/src/views/modals/settings/PipeRelationsSettingsModal.jsx"
+					],
+					[
+						"rack",
+						"config/initializers/rack-attack.rb"
+					],
+					[
+						".tra",
+						".travis.yml"
+					],
+					[
+						"pack",
+						"package.json"
+					],
+					[
+						"utils/types",
+						"react_components/src/utils/types.js"
+					],
+					[
+						"pipedispatcher",
+						"react_components/src/dispatchers/PipeDispatcher.js"
+					],
+					[
+						"actions/settingsactions",
+						"app/javascripts/databaseV2/actions/settingsActions.js"
+					],
+					[
+						"components/sweetalert",
+						"app/javascripts/databaseV2/components/SweetAlert.jsx"
+					],
+					[
+						"containers/sweetalert",
+						"app/javascripts/databaseV2/containers/SweetAlert.js"
+					],
+					[
+						"components/opentablerecord",
+						"app/javascripts/databaseV2/components/OpenTableRecord/Options/Record.jsx"
+					],
+					[
+						"constants/actions",
+						"react_components/src/constants/Actions.js"
+					],
+					[
+						"serverpipeactions",
+						"react_components/src/actions/ServerPipeActions.js"
+					],
+					[
+						"newpiperelationmodal.jsx",
+						"react_components/src/views/modals/settings/NewPipeRelationModal.jsx"
+					],
+					[
+						"views/pipe/settings/fields/restrictionoptions",
+						"react_components/src/views/pipe/settings/fields/RestrictionOptions.jsx"
+					],
+					[
+						"newpiperelationmodal",
+						"react_components/src/views/modals/settings/NewPipeRelationModal.jsx"
+					],
+					[
+						"tablere",
+						"app/javascripts/databaseV2/reducers/tableReducer.js"
+					],
+					[
+						"views/pipe/settings/functions/renderoptions",
+						"react_components/src/views/pipe/settings/functions/renderOptions.jsx"
+					],
+					[
+						"views/pipe/settings/functions/loadpipes",
+						"react_components/src/views/pipe/settings/functions/loadPipes.js"
+					],
+					[
+						"mutations/updatetablerelationmutation",
+						"react_components/src/mutations/UpdateTableRelationMutation.js"
+					],
+					[
+						"piperelation",
+						"react_components/src/views/modals/settings/PipeRelationsListItem.jsx"
+					],
+					[
+						"repos",
+						"spec/fixtures/repos.yml"
+					],
+					[
+						"usersyml",
+						"spec/fixtures/users.yml"
+					],
+					[
+						"useryml",
+						"spec/fixtures/users.yml"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/Dropbox/sublime_projects/codigos.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"2.1",
+						"$(TIMESTAMP_DIR)/.RUBYARCHDIR.-.hitimes.-.2.1.time:"
+					]
+				],
+				"width": 374.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 276.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3415,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"is",
+						"is_expected"
+					],
+					[
+						"noti",
+						"notifications_popup\t(_header.html.erb)"
+					],
+					[
+						"ass",
+						"assignees\t(index.rb)"
+					],
+					[
+						"React",
+						"ReactDOM"
+					],
+					[
+						"tab",
+						"tabIndex"
+					],
+					[
+						"pipe",
+						"pipeRelation"
+					],
+					[
+						"ta",
+						"tabIndex"
+					],
+					[
+						"private",
+						"private_constant\t(create.rb)"
+					],
+					[
+						"priv",
+						"private_constant\t(create.rb)"
+					],
+					[
+						"conslo",
+						"console.log"
+					],
+					[
+						"extend",
+						"extends"
+					],
+					[
+						"fiel",
+						"field_maps"
+					],
+					[
+						"repo",
+						"repo_clone"
+					],
+					[
+						"public_for",
+						"public_form_status"
+					],
+					[
+						"email_",
+						"email_inbox_attributes\t(start_forms_controller.rb)"
+					],
+					[
+						"public",
+						"public_form_active\t(repo.rb)"
+					],
+					[
+						"match",
+						"match_array"
+					],
+					[
+						"create",
+						"create_token"
+					],
+					[
+						"return",
+						"return_error"
+					],
+					[
+						"pla",
+						"platform_apps"
+					],
+					[
+						"email",
+						"email_inboxes"
+					],
+					[
+						"subtitle",
+						"subtitle_fields"
+					],
+					[
+						"the",
+						"then"
+					],
+					[
+						"phase",
+						"phase_details\t(card_phase_detail.rb)"
+					],
+					[
+						"alias",
+						"alias_method"
+					],
+					[
+						"upda",
+						"update_column"
+					],
+					[
+						"send",
+						"send_cards_to_es\t(reindex_cards_worker.rb)"
+					],
+					[
+						"find",
+						"find_each\t(elastic_search.rake)"
+					],
+					[
+						"checkli",
+						"checklist_items"
+					],
+					[
+						"check",
+						"checklist_items"
+					],
+					[
+						"time",
+						"time_entries\t(index.rb)"
+					],
+					[
+						"field",
+						"field_id"
+					],
+					[
+						"current_phase",
+						"current_phase_detail\t(index.rb)"
+					],
+					[
+						"curren",
+						"current_phase_detail"
+					],
+					[
+						"card_",
+						"card_hash"
+					],
+					[
+						"crea",
+						"created\t(create.rb)"
+					],
+					[
+						"com",
+						"comment"
+					],
+					[
+						"can",
+						"can_clone_all"
+					],
+					[
+						"Field",
+						"FieldType"
+					],
+					[
+						"user",
+						"user_id"
+					],
+					[
+						"assig",
+						"assigned_repo"
+					],
+					[
+						"title_field",
+						"title_field_id"
+					],
+					[
+						"mut",
+						"mutation"
+					],
+					[
+						"permi",
+						"permission_denied\t(base.rb)"
+					],
+					[
+						"perm",
+						"permission_denied\t(update.rb)"
+					],
+					[
+						"assi",
+						"assigned_repo\t(delete.rb)"
+					],
+					[
+						"table",
+						"table_id\t(create.rb)"
+					],
+					[
+						"in",
+						"input"
+					],
+					[
+						"pip",
+						"pipe_id"
+					],
+					[
+						"sel",
+						"self"
+					],
+					[
+						"sle",
+						"self"
+					],
+					[
+						"pro",
+						"process_input_and_context"
+					],
+					[
+						"proc",
+						"process_input_and_context\t(relation_creator.rb)"
+					],
+					[
+						"sub",
+						"subscription"
+					],
+					[
+						"acti",
+						"active_subscription\t(dunning_controller.rb)"
+					],
+					[
+						"current",
+						"current_organization"
+					],
+					[
+						"summa",
+						"summary_options"
+					],
+					[
+						"su",
+						"summary_attributes"
+					],
+					[
+						"tho",
+						"through"
+					],
+					[
+						"finis",
+						"finish_at\t(card_indexer.rb)"
+					],
+					[
+						"tim",
+						"time_entries\t(card.rb)"
+					],
+					[
+						"start",
+						"start_at\t(card_indexer.rb)"
+					],
+					[
+						"display",
+						"display_name\t(card_mover.rb)"
+					],
+					[
+						"attr",
+						"attr_reader\t(notifier.rb)"
+					],
+					[
+						"Prop",
+						"PropTypes.string"
+					],
+					[
+						"footer",
+						"footerOnClick\t(Popup.jsx)"
+					],
+					[
+						"Pro",
+						"PropTypes.string"
+					],
+					[
+						"card",
+						"card_ids"
+					],
+					[
+						"Repo",
+						"RepoSummarizedLayoutAttribute\t(field.rb)"
+					],
+					[
+						"destroy",
+						"destroys"
+					],
+					[
+						"delete",
+						"deleted_at\t(phase_destroyer.rb)"
+					],
+					[
+						"Phase",
+						"PhaseDetail\t(phase_destroyer.rb)"
+					],
+					[
+						"automate",
+						"automated_message_setup"
+					],
+					[
+						"con",
+						"context\tcontext"
+					],
+					[
+						"attri",
+						"attribute_slug\t(field.rb)"
+					],
+					[
+						"A",
+						"AutomatedMessageSetup\t(automated_message_setup.rb)"
+					],
+					[
+						"pp-no",
+						"pp-no-margin"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"min",
+						"min_users"
+					],
+					[
+						"active",
+						"active_subscription"
+					],
+					[
+						"mini",
+						"minimal_view"
+					],
+					[
+						"toggle",
+						"toggleEmbedCode"
+					],
+					[
+						"class",
+						"className"
+					],
+					[
+						"preve",
+						"preventDefault\t(SettingsSidebar.jsx)"
+					],
+					[
+						"clas",
+						"className"
+					],
+					[
+						"canM",
+						"canManageTable"
+					],
+					[
+						"canMa",
+						"canManage"
+					],
+					[
+						"pp",
+						"pp-active\t(SettingsSidebar.jsx)"
+					],
+					[
+						"defa",
+						"defaultProps\t(SettingsSidebar.jsx)"
+					],
+					[
+						"cons",
+						"constructor\t(SettingsSidebar.jsx)"
+					],
+					[
+						"boo",
+						"boolean"
+					],
+					[
+						"bind",
+						"bindKeys"
+					],
+					[
+						"constru",
+						"constructor\tReact.Component"
+					],
+					[
+						"org_",
+						"org_preferences"
+					],
+					[
+						"public_form",
+						"public_form_enterprise\t(public_form.html.erb)"
+					],
+					[
+						"org_prefe",
+						"org_preference\t(active_org_preference.rb)"
+					],
+					[
+						"authoriza",
+						"authorization\t(table_roles.rb)"
+					],
+					[
+						"nes",
+						"nextProps"
+					],
+					[
+						"componentWill",
+						"componentWillUpdate\t Life Cycle"
+					],
+					[
+						"minim",
+						"minimal_view\t(Preview.js)"
+					],
+					[
+						"autho",
+						"authorization\t(table_roles.rb)"
+					],
+					[
+						"Card",
+						"CardAssignee"
+					],
+					[
+						"Automa",
+						"AutomatedMessageSetup"
+					],
+					[
+						"comm",
+						"comments_count"
+					],
+					[
+						"pp-d",
+						"pp-display-block"
+					],
+					[
+						"pp-inpu",
+						"pp-input-wrap"
+					],
+					[
+						"acce",
+						"accept\t(dropzone.js)"
+					],
+					[
+						"compo",
+						"componentDidMount"
+					],
+					[
+						"atta",
+						"attachment\t(FieldTypeAttachment.jsx)"
+					],
+					[
+						"custom",
+						"custom_validation\t(FieldTypeAttachment.jsx)"
+					],
+					[
+						"tas",
+						"tas\ttask :task_name => [:dependent, :tasks] do .. end"
+					],
+					[
+						"constr",
+						"constructor\tReact.Component"
+					],
+					[
+						"hadle",
+						"handleClose"
+					],
+					[
+						"dis",
+						"dispatch"
+					],
+					[
+						"default",
+						"defaultProp"
+					],
+					[
+						"change",
+						"changeLabelSettingsFormVisibility\t(selectField.js)"
+					],
+					[
+						"map",
+						"mapDispatchToProps"
+					],
+					[
+						"di",
+						"dispatch\t(AssigneeSelectField.jsx)"
+					],
+					[
+						"Invite",
+						"InviteMembersModal"
+					],
+					[
+						"Table",
+						"TablesQuery\t(TableQuery.gql)"
+					],
+					[
+						"i18n",
+						"i18nScope"
+					],
+					[
+						"pp-",
+						"pp-description"
+					],
+					[
+						"defau",
+						"defaultProps\t(Index.jsx)"
+					],
+					[
+						"defaul",
+						"defaultProps\t(Radio.jsx)"
+					],
+					[
+						"lab",
+						"labelClasses"
+					],
+					[
+						"member",
+						"member_role"
+					],
+					[
+						"error",
+						"error_message"
+					],
+					[
+						"mem",
+						"member_role"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "openshift\n  - controla variaveis\n  - controla as imagens\n  - sobe as imagens no registry\n  - Trocar o usuário root\n  - poder ser para cento OS 7\n\nbuild\n  - pode ser um zip que tem uma pasta\n  - subir em um FTP\n  - ",
+					"settings":
+					{
+						"buffer_size": 214,
+						"line_ending": "Unix",
+						"name": "openshift"
+					}
+				},
+				{
+					"file": "/Users/marciotrindade/Google Drive/codigos/pipefy/importer/trought_api.rb",
+					"settings":
+					{
+						"buffer_size": 1742,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"List",
+							""
+						],
+						[
+							"Rspec",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Rspec",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 271.0,
+				"last_filter": "json",
+				"selected_items":
+				[
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"au",
+						"RuboCop: Auto correct current file"
+					],
+					[
+						"auto",
+						"RuboCop: Auto correct current file"
+					],
+					[
+						"com",
+						"Compare with..."
+					],
+					[
+						"sql",
+						"SQL Beautifier: Format Current SQL File"
+					],
+					[
+						"comap",
+						"Compare with..."
+					],
+					[
+						"gits",
+						"git: status"
+					],
+					[
+						"rename",
+						"File: Rename"
+					],
+					[
+						"duplicate",
+						"File: Duplicate"
+					],
+					[
+						"copy",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"dele",
+						"File: Delete"
+					],
+					[
+						"rubocop",
+						"RuboCop: Auto correct current file"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"babel",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"eslint",
+						"Preferences: SublimeLinter Settings – Default"
+					],
+					[
+						"pret",
+						"JsPrettier: Format Code"
+					],
+					[
+						"markdo",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"rena",
+						"File: Rename"
+					],
+					[
+						"reane",
+						"File: Rename"
+					],
+					[
+						"blame",
+						"git: blame current file"
+					],
+					[
+						"reanme",
+						"File: Rename"
+					],
+					[
+						"delete",
+						"File: Delete"
+					],
+					[
+						"jsx",
+						"Set Syntax: JSX"
+					],
+					[
+						"came",
+						"Convert Case: camelCase"
+					],
+					[
+						"camel",
+						"Convert Case: camelCase"
+					],
+					[
+						"case",
+						"Convert Case: camelCase"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"duplica",
+						"File: Duplicate"
+					],
+					[
+						"copyre",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"flow",
+						"Flow"
+					],
+					[
+						"format",
+						"JsPrettier: Format Code"
+					],
+					[
+						"jspre",
+						"JsPrettier: Format Code"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"compare",
+						"Compare with..."
+					],
+					[
+						"uniq",
+						"Permute Lines: Unique"
+					],
+					[
+						"josn",
+						"Set Syntax: JSON"
+					],
+					[
+						"gql",
+						"Set Syntax: GraphQL"
+					],
+					[
+						"rean",
+						"File: Rename"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"gra",
+						"Set Syntax: GraphQL"
+					],
+					[
+						"graph",
+						"Set Syntax: GraphQL"
+					],
+					[
+						"gitblame",
+						"git: blame current file"
+					],
+					[
+						"duplicte",
+						"File: Duplicate"
+					],
+					[
+						"sq",
+						"Set Syntax: SQL"
+					],
+					[
+						"gitsta",
+						"git: status"
+					],
+					[
+						"unqi",
+						"Permute Lines: Unique"
+					],
+					[
+						"mo",
+						"File: Move"
+					],
+					[
+						"git blame",
+						"git: blame current file"
+					],
+					[
+						"git bla",
+						"git: blame current file"
+					],
+					[
+						"dupl",
+						"File: Duplicate"
+					],
+					[
+						"gitblam",
+						"git: blame current file"
+					],
+					[
+						"gitstatus",
+						"git: status"
+					],
+					[
+						"cop",
+						"File: Copy Name Encoded"
+					],
+					[
+						"copyrela",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"git blam",
+						"git: blame current file"
+					],
+					[
+						"pull",
+						"git: pull"
+					],
+					[
+						"push",
+						"git: push (force)"
+					],
+					[
+						"git new",
+						"git: checkout new branch"
+					],
+					[
+						"git rebas",
+						"git: rebase"
+					],
+					[
+						"git bran",
+						"git: branch"
+					],
+					[
+						"rspec",
+						"Set Syntax: Better RSpec"
+					],
+					[
+						"jsoin",
+						"Pretty JSON: Minify (compress) JSON"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"rubo",
+						"RuboCop: Auto correct current file"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"duplic",
+						"File: Duplicate"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"copyr",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"gitstat",
+						"Git: Status"
+					],
+					[
+						"blam",
+						"Git: Blame"
+					],
+					[
+						"dupli",
+						"File: Duplicate"
+					],
+					[
+						"copyrel",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"rela",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"copyrea",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"csv",
+						"CSV: Justify columns"
+					],
+					[
+						"copyrelat",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"gitblma",
+						"Git: Blame"
+					],
+					[
+						"rubop",
+						"RuboCop: Check current project"
+					],
+					[
+						"ru",
+						"RuboCop: Check current file"
+					],
+					[
+						"copyrelati",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"markdon",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"copyrelae",
+						"Copy Relative Path: Copy"
+					],
+					[
+						"reame",
+						"File: Rename"
+					],
+					[
+						"gitblm",
+						"Git: Blame"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ruo",
+						"RuboCop: Offense Count in current project"
+					],
+					[
+						"title",
+						"Convert Case: Title Case"
+					],
+					[
+						"tit",
+						"Convert Case: Title Case"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"rudo",
+						"RuboCop: Check folder of current file"
+					],
+					[
+						"gi",
+						"Git: Status"
+					],
+					[
+						"gitst",
+						"Git: Status"
+					],
+					[
+						"upp",
+						"Convert Case: Upper Case"
+					],
+					[
+						"uni",
+						"Permute Lines: Unique"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"up",
+						"Convert Case: Upper Case"
+					],
+					[
+						"table ma",
+						"Table Editor: Set table syntax 'MultiMarkdown' for current view"
+					],
+					[
+						"un",
+						"Permute Lines: Unique"
+					],
+					[
+						"ma",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"delte",
+						"File: Delete"
+					],
+					[
+						"rudy",
+						"RuboCop: Check folder of current file (only with lint cops)"
+					],
+					[
+						"mov",
+						"File: Move"
+					],
+					[
+						"copypath",
+						"File: Copy Path From Project"
+					],
+					[
+						"git bl",
+						"Git: Blame"
+					],
+					[
+						"cope",
+						"File: Copy Name Encoded"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown GFM"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"esli",
+						"ESLint"
+					],
+					[
+						"csv sort",
+						"CSV: Sort by column (Ascending)"
+					],
+					[
+						"markd",
+						"Set Syntax: Markdown"
+					],
+					[
+						"rei",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"babe",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"bla",
+						"Git: Blame"
+					],
+					[
+						"dup",
+						"File: Duplicate"
+					],
+					[
+						"yml",
+						"Set Syntax: YAML"
+					],
+					[
+						"ever new",
+						"Evernote: New empty note"
+					],
+					[
+						"javas",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"bab",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"block",
+						"Toggle Block Comment"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"select",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"erb",
+						"Coffee: Quick Run Bar"
+					],
+					[
+						"slim",
+						"Set Syntax: Ruby Slim"
+					],
+					[
+						"jslin",
+						"JSLint"
+					]
+				],
+				"width": 588.0
+			},
+			"console":
+			{
+				"height": 752.0,
+				"history":
+				[
+					"help",
+					"reload"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/marciotrindade/Google Drive/codigos/pipefy",
+				"/Users/marciotrindade/Google Drive/codigos/pipefy/importer",
+				"/Users/marciotrindade/Google Drive/codigos/pipefy/importer/senai"
+			],
+			"file_history":
+			[
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/models/abilities/base.rb",
+				"/Users/marciotrindade/Google Drive/codigos/pipefy/create_subscription.rb",
+				"/Users/marciotrindade/Google Drive/codigos/pipefy/export_accenteure_users.rb",
+				"/Users/marciotrindade/Google Drive/codigos/pipefy/migrate_database.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy_activities/web/controllers/activity_controller.ex",
+				"/Users/marciotrindade/projects/pipefy/pipefy_activities/web/models/activity.ex",
+				"/Users/marciotrindade/projects/pipefy/pipefy_activities/config/test.exs",
+				"/Users/marciotrindade/.ssh/config",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/resource_provider/notifications_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/resource_provider/notifications.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/notifications_controller.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/controllers/organizations_controller.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/controllers/organizations_controller_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/application_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/abilities/organization_roles.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/view_objects/metrics_view_object.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/organizations_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/user_preference.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/user.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/pipe.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/user_inviter/pipe.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/abilities/base.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/helpers/application_helper.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/notification.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/views/notifications/_popup.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/repo.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/models/organization.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/helpers/users_helper.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/layouts/_header.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/role.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/notifications/_popup.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/notifications/popup.js.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/organization.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/pipes/metrics.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/pipe_metrics_query.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/pipes_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/analytics.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/analytics/intercom_adapter.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/analytics/mixpanel_adapter.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/initializers/intercom.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/vcr_cassettes/timeline/organization/success_empty_pipe.yml",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/internal_api/timelines_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/controllers/internal_api/timelines_controller_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/vcr_cassettes/timeline/organization/success_empty.yml",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/activity_api/org_loader.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/activity_api/api.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/models/abilities/repo_roles_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/vcr_cassettes/timeline/pipe/success_data.yml",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/models/public_form_abilities_spec.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/models/abilities/pipe_roles_spec.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/models/abilities/organization_roles_spec.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/spec/models/abilities/database_roles_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/concerns/slave_concern.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/controllers/internal_api/cards_controller_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/concerns/internal_api/cards/index.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/pipe/Phase.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/internal_api/phases_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/card.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers/internal_api/cards_controller.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/pipes/show.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/pipe/DropCardPlaceholder.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/db/structure.sql",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/react-pipestyle/Modal/index.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/react-pipestyle/Modal/Header.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/react-pipestyle/Modal/Footer.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/workers/webhooks/record_worker.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/graphql/types/phase_gql_type.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/graphql/types/query_gql_type.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/containers/OpenTableRecord/index.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/TableRecord/index.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/components/TableShow/TableArea.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/card_relations/RelatedCard.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/layouts/application.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/shared/_footer.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/stores/PhaseStore.js",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/actions/CardMovementActions.js",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/stores/PipeStore.js",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/services/repo_cloner/pipe_cloner.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/presenters/clone_presenters/pipe_presenter.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/presenters/clone_presenters/card_presenter.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec/presenters/clone_presenters/card_presenter_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/OrgDashboard/components/PipeBox/index.jsx",
+				"/Users/marciotrindade/Dropbox/Sublime Text 3/Packages/User/FlowIDE.sublime-settings",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/card_relations/GqlRelatedCard.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/package.json",
+				"/Users/marciotrindade/Dropbox/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/bin/setup",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/lib/tasks/create_template_store_pipes.rake",
+				"/Users/marciotrindade/projects/pipefy/pipefy/app/services/subscribe_plan.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/db/seeds.rb",
+				"/Users/marciotrindade/projects/pipefy/pipefy/.env.local",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/.env",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/README.md",
+				"/etc/hosts",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec_features/features/database/permission_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec_features/features/database/fields_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/OrgDashboard/components/index.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/OrgDashboard/components/PipeBox/Menu.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/assets/javascripts/v3/views/organizations/dashboard.js",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/.git/MERGE_MSG",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/pipe/EmptyRepo.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/organizations/show.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/OrgDashboard/types/index.js",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/OrgDashboard/components/PipeBox/BoxLink.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/main.js",
+				"/Users/marciotrindade/Dropbox/Sublime Text 3/Packages/FlowIDE/FlowIDE.sublime-settings",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/pipe/PipeBox.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/assets/javascripts/v3/init.js.coffee",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/views/organizations/_unjoined_pipe.html.erb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/helpers/application_helper.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/abilities/table_roles.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/abilities/repo_roles.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/app/models/abilities/pipe_roles.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/spring.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/database.yml",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/initializers/octopus.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/Gemfile",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/initializers/wrap_parameters.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/config/initializers/simple_token_authentication.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/Connections/components/List.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/Connections/components/FormModal/index.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/Connections/components/FormModal/Footer.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views/pipe/PipeSettingsSidebar.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/Connections/components/FormModal/BasicFields.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/Connections/components/ListItem/index.jsx",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/spec_features/features/pipe_settings/pipe_relations_spec.rb",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/.env.local",
+				"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/Connections/containers/FormModal/Create.js"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/Connections",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec/javascripts/views",
+					"",
+					"app/javascripts",
+					"",
+					"spec/graphql",
+					"app/graphql",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/graphql/mutations",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/helpers",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app,-*.js",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/views",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/helpers",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/views",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/graphql",
+					"graphql/",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src",
+					"",
+					"spec",
+					"app",
+					"app/javascript",
+					"react_components/",
+					"app/",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/,-*.gql",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts/databaseV2/components",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/javascripts",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/views",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/controllers",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/views",
+					"",
+					"spec/feature",
+					"app/graphql",
+					"spec/graphql",
+					"app/graphql",
+					"",
+					"graphql",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec/javascripts",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src",
+					"",
+					"react_components/",
+					"spec_features/",
+					"spec_features",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/views",
+					"",
+					"react_components/src/",
+					"spec_features/",
+					"react_components/",
+					"spec/javascritps/",
+					"react_components/",
+					"react_components",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec_features/open_card",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec/models",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/react_components/src/views",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec_features",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/assets/stylesheets/v3",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/config/locales",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/app/assets/javascripts",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/spec_features",
+					"",
+					"/Users/marciotrindade/Projects/pipefy/pipefy/db",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/spec_features",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/db",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/app/models/abilities",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/spec_features/features",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/app/views/database",
+					"/Users/marciotrindade/pipefy/pipefy/app/views",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/react_components",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/app/assets/javascripts/v3",
+					"/Users/marciotrindade/pipefy/pipefy/spec/javascripts",
+					"",
+					"/Users/marciotrindade/pipefy/pipefy/react_components",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/views",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/stores",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/dispatchers",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/actions",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/views",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/stores",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/dispatchers",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/actions",
+					"/Users/marciotrindade/pipefy/pipefy/react_components/src/views"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"\\n",
+					"<<-GRAPHQL",
+					"value",
+					"line[",
+					"}\"",
+					"\"#{",
+					"\\n",
+					"#####################",
+					"Logger",
+					"leade",
+					"set_pipes",
+					"configure_permitted_parameters",
+					"init_gon",
+					"init_current_organization_id",
+					"change_time_zone",
+					"check_organization_subscription",
+					"using",
+					"choosable_roles_for_repo",
+					"roles",
+					"plan",
+					"active_subscription",
+					"freemium?",
+					"custom_member_react_properties",
+					"organization_super_properties",
+					"organization_attributes",
+					"user_role_for_organization",
+					"list_with_post",
+					"admin_pipe_ids",
+					"other_pipe",
+					"other_members_pipe_ids",
+					"params",
+					"VCR_SUCCESS_SINCE",
+					"VCR_SUCCESS_EMPTY",
+					"VCR_SUCCESS_DATA",
+					"Timecop",
+					"the_beginning",
+					"Abilities::Base.new",
+					"other_members_pipe_ids",
+					"admin_pipe_ids",
+					"with_deleted",
+					"admin_pipe_ids",
+					"public_form_user",
+					"apply_permissions",
+					"create_alias",
+					"organization",
+					"@organization",
+					"other_members_pipe_ids",
+					"card_assignees",
+					"restricted_view?",
+					"cards_with_includes",
+					"\\n",
+					"cards_without_includes",
+					"cards_with_includes",
+					"_filterMyCardsOnly",
+					"current_user_view_only_assigned_cards",
+					"handleClose",
+					"onCloseLabel",
+					"customContentClass",
+					"customModalClass",
+					"onSavelabel",
+					"handleClose",
+					"onCloseLabel",
+					"customFooterClass",
+					"customCtaClass",
+					"handleClose",
+					"contentTag",
+					"this.props.",
+					"this.props",
+					"e: JsEvent",
+					"Error",
+					"max_page_size",
+					"Portal",
+					"tableId",
+					"isDisplayingPhases",
+					"_togglePhases",
+					"OpenTableRecord",
+					"CardStore.setupData(data)",
+					"NEW_CLOSED_CARD_DATA",
+					"CardMovementActions",
+					"NOT_CLONABLE_ATTRIBUTES",
+					"deep_clone",
+					"NOT_CLONABLE_ATTRIBUTES",
+					"repo_cloner",
+					"RepoCloner",
+					"icon",
+					"@",
+					"flow",
+					"PIPEUI",
+					"APP_URL",
+					"document.getElementById('timeline_placeholder')",
+					"renderTimelineInfinite",
+					"PipeStore",
+					"toggleFavorite",
+					"isFavorite",
+					"toggleFavorite",
+					"false",
+					"EmptyRepo",
+					"#org-timeline-menu-icon",
+					"bindEvents",
+					"I18n.",
+					"sortByPipeName",
+					"getPipesOrdered",
+					"pipe_creator",
+					"join_public_pipes",
+					"organization_normal",
+					"pipe_creator",
+					"transform_pipes_to_attributes",
+					"set_pipes",
+					"_renderMenuItem",
+					"{ scope: 'menu.pipe_settings' }",
+					"pp-trigger-dropdown",
+					".pp-popup-menu ul li",
+					"li#relation-item-#{pipe.id}",
+					"_validRelation",
+					"id, pageSize",
+					"PIPEFY_OFFICE_IP",
+					"lodash",
+					"{\nlodash",
+					"lodash",
+					"eventToPrevent",
+					"onCancel",
+					"toLowerCase",
+					"removePipeRelation",
+					"onConfirmSwal",
+					"state",
+					"onSave",
+					"pipes",
+					"_handleChangesSelect"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"utils/i18n",
+					" ",
+					"tableId",
+					"'api.errors.general.invalid_input', field: $1, value:$2)",
+					"'api.errors.general.invalid_input', field: $1, input_value: $2)",
+					"errors.general.permission_denied",
+					"$2",
+					".pp-header .pp-nav-center",
+					"$1: ",
+					"require_relative '../",
+					"",
+					"$3",
+					"\\n",
+					" ",
+					"to have_no",
+					":card_title=>\"\"",
+					"\"card_title\"=>\"\"",
+					"staging-www",
+					"if (",
+					"DELETE from card_field_values where id = (select id from card_field_values WHERE field_id = $2 AND card_phase_detail_id = $3 AND deleted_at IS NULL ORDER BY updated_at ASC LIMIT 1);",
+					"DELETE from card_field_values where id = (select id from card_field_values WHERE field_id = $2 AND card_phase_detail_id = $ AND deleted_at IS NULL ORDER BY updated_at ASC LIMIT 1);",
+					"DELETE from card_field_values where id = (select id from card_field_values WHERE field_id = $2 AND card_phase_detail_id = $3 AND deleted_at IS NULL ORDER BY updated_at ASC LIMIT 1);",
+					"DELETE from card_field_values where id = (select id from card_field_values WHERE field_id = $1 AND card_phase_detail_id = $2 AND deleted_at IS NULL ORDER BY updated_at ASC LIMIT 1);",
+					"require 'features_helper'",
+					"$2 - $1",
+					"users(:pipe_org_admin)",
+					"pending",
+					"$2",
+					"render ",
+					":$1",
+					"product_properties_check('$1', $2, dynamic: true)",
+					"product_properties_radio('$1', $2, default: true)",
+					"product_properties_check('$1', $2, default: true)",
+					"$1",
+					"{{ server_hostname }}",
+					"current_site",
+					"ApiClient",
+					"",
+					"set_flash",
+					"$3",
+					"$1;",
+					"$2",
+					"",
+					", ",
+					"{account_id: $1, message_id: $2, batch: $3},",
+					"",
+					"$2,$1,hm8307\\n",
+					"$2,$1,hm8307",
+					"{account_id: $1, message_id: $2},",
+					"$2,$1,hm1720\\n",
+					"$2,$1,hm950\\n",
+					"$2,$1,hm950",
+					"$2,$1,hm638",
+					"\\n",
+					"\"",
+					"\"\\n\"",
+					"'\\n'",
+					"$1",
+					"\\n",
+					"be_falsey",
+					"be_truthy",
+					"be_falsey",
+					"be_truthy",
+					"ls-label",
+					"ls-label-text",
+					"{\"$3\" => \"$1\"},",
+					"{\"$3}\" => \"$1\"},",
+					"\\n",
+					"",
+					"\\n",
+					"",
+					"\\n",
+					"",
+					"$1, $3, $5",
+					"Host.find_by_ip(\"$2\").update_attribute(:name, \"$3\")",
+					"$2,$3,$1",
+					",\\n",
+					"$1",
+					",\\n",
+					",",
+					",\\n",
+					"$2",
+					"",
+					"\\n",
+					"",
+					"\"$1\",",
+					"$1",
+					"\",\\n\"",
+					",\\n",
+					"$1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/marciotrindade/Google Drive/codigos/pipefy"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 214,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										144,
+										144
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"auto_name": "openshift",
+									"default_dir": "/Users/marciotrindade/Google Drive/codigos/pipefy",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/marciotrindade/Google Drive/codigos/pipefy/importer/trought_api.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1742,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										697,
+										697
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o:///Users/marciotrindade/locaweb/emkt-bounces/app/workers":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/marciotrindade/locaweb/emkt-provisioner/spec/lib":
+			{
+				"height": 112.0
+			},
+			"output.GitSavvy":
+			{
+				"height": 138.0
+			},
+			"output.GoSublime-output":
+			{
+				"height": 100.0
+			},
+			"output.MarGo-output":
+			{
+				"height": 100.0
+			},
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 406.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-commit":
+			{
+				"height": 132.0
+			},
+			"output.git-push":
+			{
+				"height": 132.0
+			},
+			"output.show_commit_info":
+			{
+				"height": 138.0
+			},
+			"pinned_build_system": "Packages/User/Bash.sublime-build",
+			"position": "0 0 0 1436 878 0 0 1440 878 ",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"create",
+						"create_subscription.rb"
+					],
+					[
+						"notificationscontro",
+						"app/controllers/notifications_controller.rb"
+					],
+					[
+						"applicationcontroller",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"roles",
+						"app/models/abilities/organization_roles.rb"
+					],
+					[
+						"metricsviewobject",
+						"app/view_objects/metrics_view_object.rb"
+					],
+					[
+						"userprefe",
+						"app/models/user_preference.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"pipe.rb",
+						"app/models/pipe.rb"
+					],
+					[
+						"pipe",
+						"app/services/user_inviter/pipe.rb"
+					],
+					[
+						"organizationcontroller",
+						"app/controllers/organizations_controller.rb"
+					],
+					[
+						"notification",
+						"app/models/notification.rb"
+					],
+					[
+						"role",
+						"app/models/role.rb"
+					],
+					[
+						"repo",
+						"app/models/repo.rb"
+					],
+					[
+						"notifications/popup",
+						"app/views/notifications/popup.js.erb"
+					],
+					[
+						"organization",
+						"app/models/organization.rb"
+					],
+					[
+						"pipemetricsquery",
+						"app/models/pipe_metrics_query.rb"
+					],
+					[
+						"analyti",
+						"app/models/analytics.rb"
+					],
+					[
+						"intercom",
+						"config/initializers/intercom.rb"
+					],
+					[
+						"orgloader",
+						"app/services/activity_api/org_loader.rb"
+					],
+					[
+						"timeline/organization/success_empty",
+						"spec/vcr_cassettes/timeline/organization/success_empty.yml"
+					],
+					[
+						"timeline/pipe/success_data",
+						"spec/vcr_cassettes/timeline/pipe/success_data.yml"
+					],
+					[
+						"piperb",
+						"app/models/pipe.rb"
+					],
+					[
+						"cardrb",
+						"app/models/card.rb"
+					],
+					[
+						"pipeshow",
+						"app/views/pipes/show.html.erb"
+					],
+					[
+						"dropcardplaceholder",
+						"react_components/src/views/pipe/DropCardPlaceholder.jsx"
+					],
+					[
+						"structure",
+						"db/structure.sql"
+					],
+					[
+						"react_components/src/react-pipestyle/modal/index.jsx",
+						"react_components/src/react-pipestyle/Modal/index.jsx"
+					],
+					[
+						"recordworker",
+						"app/workers/webhooks/record_worker.rb"
+					],
+					[
+						"realatedcard",
+						"react_components/src/views/card_relations/RelatedCard.jsx"
+					],
+					[
+						"shared/footer",
+						"app/views/shared/_footer.html.erb"
+					],
+					[
+						"applicationhtmlerb",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"pipeshowhtml",
+						"app/views/pipes/show.html.erb"
+					],
+					[
+						"pipestore",
+						"react_components/src/stores/PipeStore.js"
+					],
+					[
+						"cardmovementactions",
+						"react_components/src/actions/CardMovementActions.js"
+					],
+					[
+						"clonepresenterspipepresenter",
+						"app/presenters/clone_presenters/pipe_presenter.rb"
+					],
+					[
+						"repocloner",
+						"app/services/repo_cloner/pipe_cloner.rb"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"react_components/src/orgdashboard/components/pipebox/index.jsx",
+						"react_components/src/OrgDashboard/components/PipeBox/index.jsx"
+					],
+					[
+						"seeds",
+						"db/seeds.rb"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"setup",
+						"bin/setup"
+					],
+					[
+						"readme",
+						"README.md"
+					],
+					[
+						"spec_features/features/database/permission_spec.rb",
+						"spec_features/features/database/permission_spec.rb"
+					],
+					[
+						"spec_features/features/database/fields_spec.rb",
+						"spec_features/features/database/fields_spec.rb"
+					],
+					[
+						"react_components/src/orgdashboard/components/index.jsx",
+						"react_components/src/OrgDashboard/components/index.jsx"
+					],
+					[
+						"react_components/src/orgdashboard/components/pipebox/menu.jsx",
+						"react_components/src/OrgDashboard/components/PipeBox/Menu.jsx"
+					],
+					[
+						"app/assets/javascripts/v3/views/organizations/dashboard.js",
+						"app/assets/javascripts/v3/views/organizations/dashboard.js"
+					],
+					[
+						"react_components/src/main.js",
+						"react_components/src/main.js"
+					],
+					[
+						"pipeboxmenu",
+						"react_components/src/views/pipe/PipeBoxMenu.jsx"
+					],
+					[
+						"emptyrepo",
+						"react_components/src/views/pipe/EmptyRepo.jsx"
+					],
+					[
+						"app/assets/javascripts/v3/init.js.coffee",
+						"app/assets/javascripts/v3/init.js.coffee"
+					],
+					[
+						"organizations/unjoined_pipe",
+						"app/views/organizations/_unjoined_pipe.html.erb"
+					],
+					[
+						"pipebox",
+						"react_components/src/views/pipe/PipeBox.jsx"
+					],
+					[
+						"piperoles",
+						"app/models/abilities/pipe_roles.rb"
+					],
+					[
+						"orgdashboard",
+						"react_components/src/views/OrgDashboard.jsx"
+					],
+					[
+						"database",
+						"config/database.yml"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"templaterake",
+						"lib/tasks/create_template_store_pipes.rake"
+					],
+					[
+						"binsetup",
+						"bin/setup"
+					],
+					[
+						"seed",
+						"db/seeds.rb"
+					],
+					[
+						"orgnizationsshow",
+						"app/views/organizations/show.html.erb"
+					],
+					[
+						"react_components/src/connections/components/formmodal/footer.jsx",
+						"react_components/src/Connections/components/FormModal/Footer.jsx"
+					],
+					[
+						"react_components/src/connections/components/formmodal/index.jsx",
+						"react_components/src/Connections/components/FormModal/index.jsx"
+					],
+					[
+						"react_components/src/connections/components/list.jsx",
+						"react_components/src/Connections/components/List.jsx"
+					],
+					[
+						"react_components/src/views/pipe/pipesettingssidebar.jsx",
+						"react_components/src/views/pipe/PipeSettingsSidebar.jsx"
+					],
+					[
+						".local",
+						".env.local"
+					],
+					[
+						".env.lo",
+						".env.local"
+					],
+					[
+						"spec_features/features/pipe_settings/automated_message_setup_settings_spec.rb",
+						"spec_features/features/pipe_settings/automated_message_setup_settings_spec.rb"
+					],
+					[
+						"react_components/src/connections/components/listitem/index.jsx",
+						"react_components/src/Connections/components/ListItem/index.jsx"
+					],
+					[
+						"react_components/src/connections/graphql/createmutation.gql",
+						"react_components/src/Connections/graphql/createMutation.gql"
+					],
+					[
+						"databasev2/graphql/tablerecordbasicquery.gql",
+						"app/javascripts/databaseV2/graphql/TableRecordBasicQuery.gql"
+					],
+					[
+						"pipeswal",
+						"react_components/src/views/PipeSwal/SimpleSwal.jsx"
+					],
+					[
+						"react_components/src/connections/containers/formmodal/create.js",
+						"react_components/src/Connections/containers/FormModal/Create.js"
+					],
+					[
+						"react_components/src/connections/components/listitem/options.jsx",
+						"react_components/src/Connections/components/ListItem/Options.jsx"
+					],
+					[
+						"react_components/src/connections/components/header.jsx",
+						"react_components/src/Connections/components/Header.jsx"
+					],
+					[
+						"app/graphql/resolvers/concerns/relation/create.rb",
+						"app/graphql/resolvers/concerns/relation/create.rb"
+					],
+					[
+						"react_components/src/views/modals/settings/piperelationslistitem.jsx",
+						"react_components/src/views/modals/settings/PipeRelationsListItem.jsx"
+					],
+					[
+						"react_components/src/views/modals/settings/piperelationssettingsmodal.jsx",
+						"react_components/src/views/modals/settings/PipeRelationsSettingsModal.jsx"
+					],
+					[
+						"rack",
+						"config/initializers/rack-attack.rb"
+					],
+					[
+						".tra",
+						".travis.yml"
+					],
+					[
+						"pack",
+						"package.json"
+					],
+					[
+						"utils/types",
+						"react_components/src/utils/types.js"
+					],
+					[
+						"pipedispatcher",
+						"react_components/src/dispatchers/PipeDispatcher.js"
+					],
+					[
+						"actions/settingsactions",
+						"app/javascripts/databaseV2/actions/settingsActions.js"
+					],
+					[
+						"components/sweetalert",
+						"app/javascripts/databaseV2/components/SweetAlert.jsx"
+					],
+					[
+						"containers/sweetalert",
+						"app/javascripts/databaseV2/containers/SweetAlert.js"
+					],
+					[
+						"components/opentablerecord",
+						"app/javascripts/databaseV2/components/OpenTableRecord/Options/Record.jsx"
+					],
+					[
+						"constants/actions",
+						"react_components/src/constants/Actions.js"
+					],
+					[
+						"serverpipeactions",
+						"react_components/src/actions/ServerPipeActions.js"
+					],
+					[
+						"newpiperelationmodal.jsx",
+						"react_components/src/views/modals/settings/NewPipeRelationModal.jsx"
+					],
+					[
+						"views/pipe/settings/fields/restrictionoptions",
+						"react_components/src/views/pipe/settings/fields/RestrictionOptions.jsx"
+					],
+					[
+						"newpiperelationmodal",
+						"react_components/src/views/modals/settings/NewPipeRelationModal.jsx"
+					],
+					[
+						"tablere",
+						"app/javascripts/databaseV2/reducers/tableReducer.js"
+					],
+					[
+						"views/pipe/settings/functions/renderoptions",
+						"react_components/src/views/pipe/settings/functions/renderOptions.jsx"
+					],
+					[
+						"views/pipe/settings/functions/loadpipes",
+						"react_components/src/views/pipe/settings/functions/loadPipes.js"
+					],
+					[
+						"mutations/updatetablerelationmutation",
+						"react_components/src/mutations/UpdateTableRelationMutation.js"
+					],
+					[
+						"piperelation",
+						"react_components/src/views/modals/settings/PipeRelationsListItem.jsx"
+					],
+					[
+						"repos",
+						"spec/fixtures/repos.yml"
+					],
+					[
+						"usersyml",
+						"spec/fixtures/users.yml"
+					],
+					[
+						"useryml",
+						"spec/fixtures/users.yml"
+					],
+					[
+						"reposyml",
+						"spec/fixtures/repos.yml"
+					],
+					[
+						"api",
+						"config/graphql/api.en.yml"
+					],
+					[
+						"naza",
+						"config/initializers/nazar.rb"
+					],
+					[
+						"graphql_helper",
+						"spec/graphql/graphql_helper.rb"
+					],
+					[
+						"travis",
+						".travis.yml"
+					],
+					[
+						"jasminehtml",
+						"app/views/layouts/jasmine_rails/spec_runner.html.erb"
+					],
+					[
+						"main",
+						"react_components/src/main.js"
+					],
+					[
+						"organization.rb",
+						"app/models/organization.rb"
+					],
+					[
+						"user.rb",
+						"app/models/user.rb"
+					],
+					[
+						"i18",
+						"react_components/src/utils/i18n.js"
+					],
+					[
+						"cardstore",
+						"react_components/src/stores/CardStore.js"
+					],
+					[
+						"package.json",
+						"package.json"
+					],
+					[
+						"esli",
+						"app/assets/javascripts/eslint.rc"
+					],
+					[
+						"react_components/src/views/pipe/phases/phaseheader.jsx",
+						"react_components/src/views/pipe/phases/PhaseHeader.jsx"
+					],
+					[
+						"react_components/src/views/pipe/phases/options/index.jsx",
+						"react_components/src/views/pipe/phases/Options/index.jsx"
+					],
+					[
+						"react_components/src/views/pipe/phases/options/dropdown.jsx",
+						"react_components/src/views/pipe/phases/Options/DropDown.jsx"
+					],
+					[
+						"spec_features/features/database/list_tables_spec.rb",
+						"spec_features/features/database/list_tables_spec.rb"
+					],
+					[
+						"pipedestroyer",
+						"app/services/destroyer/pipe_destroyer.rb"
+					],
+					[
+						"docker",
+						"docker-compose.yml"
+					],
+					[
+						"db/structure.sql",
+						"db/structure.sql"
+					],
+					[
+						"app/models/repo.rb",
+						"app/models/repo.rb"
+					],
+					[
+						"publicformrb",
+						"app/models/public_form.rb"
+					],
+					[
+						"spec_features/features/open_card/start_form_spec.rb",
+						"spec_features/features/open_card/start_form_spec.rb"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"reposcon",
+						"app/controllers/repos_controller.rb"
+					],
+					[
+						"publicformerb",
+						"app/views/layouts/public_form.html.erb"
+					],
+					[
+						"public_formerb",
+						"app/views/repos/public_form.html.erb"
+					],
+					[
+						"carduipresenter",
+						"app/presenters/card_ui_presenter.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/Dropbox/sublime_projects/codigos.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"2.1",
+						"$(TIMESTAMP_DIR)/.RUBYARCHDIR.-.hitimes.-.2.1.time:"
+					]
+				],
+				"width": 374.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 276.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3446,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/marciotrindade/Dropbox/sublime_projects/backup-de-sites.sublime-workspace",
+			"/Users/marciotrindade/Dropbox/sublime_projects/codigos.sublime-workspace"
+		]
+	}
+}

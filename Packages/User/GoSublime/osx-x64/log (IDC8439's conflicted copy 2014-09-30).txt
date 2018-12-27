@@ -1,0 +1,14 @@
+
+** 2014-09-30 13:45:29.901893 **:
+MarGo: MarGo build failed
+cmd: `['/usr/local/Cellar/go/1.3/libexec/bin/go', 'build', '-v', '-x', '-o', 'gosublime.margo_r13.12.26-3_go1.3.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `WORK=/var/folders/9n/tl389h0x6zn1464hfbv80pvh0000gp/T/go-build636703105
+can't load package: package gosubli.me/margo: no buildable Go source files in /Users/marciotrindade/Dropbox/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo`
+exception: `None`
+--------------------------------
+
+** 2014-09-30 13:45:29.908590 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------

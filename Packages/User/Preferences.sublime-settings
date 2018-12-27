@@ -1,0 +1,58 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_commit_trigger_characters":
+	[
+		"Enter",
+		"Tab"
+	],
+	"auto_complete_with_fields": true,
+	"binary_file_patterns":
+	[
+		"tmp/*",
+		"log/*",
+		"react_components/dist/*",
+		"node_modules/*",
+		"vendor/assets/javascripts/v3/react_components.bundle.js"
+	],
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 3,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"detect_indentation": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"font_face": "Fira Code",
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		100
+	],
+	"show_definitions": false,
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "Cobalt2.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
+	"wide_caret": true,
+	"word_wrap": false
+}

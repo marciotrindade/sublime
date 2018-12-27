@@ -1,0 +1,6 @@
+<snippet>
+  <description>BindingPry</description>
+  <content><![CDATA[require 'pry'; binding.pry]]></content>
+  <tabTrigger>bp</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

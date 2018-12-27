@@ -1,0 +1,28 @@
+{
+	"packages":
+	[
+		"Alignment",
+		"Auto Encoding for Ruby",
+		"Base16 Color Schemes",
+		"CoffeeScript",
+		"ERB Insert and Toggle Commands",
+		"ERB Snippets",
+		"Git",
+		"nginx",
+		"Package Control",
+		"PackageResourceViewer",
+		"Rails Related Files",
+		"RailsGoToSpec",
+		"RSpec"
+	],
+	"syntax":
+	{
+		"Git Commit Message": 4,
+		"Plain text": 9,
+		"RSpec": 40,
+		"Ruby": 54,
+		"YAML": 2,
+		"nginx": 18
+	},
+	"time": 1383582581
+}

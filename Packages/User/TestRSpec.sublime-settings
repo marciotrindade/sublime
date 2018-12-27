@@ -1,0 +1,17 @@
+{
+  // environment variables for rspec command
+  "env": {
+    "PATH": "/Users/marciotrindade/.rvm/gems/ruby-2.4.1/bin:/Users/marciotrindade/.rvm/gems/ruby-2.4.1@global/bin:/Users/marciotrindade/.rvm/rubies/ruby-2.4.1/bin:/Users/marciotrindade/.rvm/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/marciotrindade/bin:/Users/marciotrindade/golang/bin"
+  },
+  // rspec runner paths
+  "paths_bin_rspec": "./bin/rspec",
+  "paths_rbenv": "~/.rvm/bin/rvm-auto-ruby",
+  "paths_rvm": "~/.rvm/bin/rvm-auto-ruby",
+  "paths_system_ruby": "~/.rvm/bin/rvm-auto-ruby",
+  // which rubies to check for when running rspec
+  "check_for_rbenv": false,
+  "check_for_rvm": true,
+  "check_for_system_ruby": false,
+  "check_for_bundler": true,
+  "check_for_spring": true,
+}

@@ -1,0 +1,205 @@
+{
+	"folders":
+	[
+		{
+			"path": "/usr/local/var/postgres"
+		},
+		{
+			"path": "/Users/marciotrindade/Sites/testeapp"
+		},
+		{
+			"path": "/Users/marciotrindade/Sites/detetive_fatima"
+		},
+		{
+			"path": "/Users/marciotrindade/Sites/blog"
+		},
+		{
+			"path": "/Users/marciotrindade/Sites/amo_papel"
+		},
+		{
+			"path": "/Users/marciotrindade/projects/testapp"
+		},
+		{
+			"path": "/Users/marciotrindade/projects/my_blog"
+		},
+		{
+			"path": "/Users/marciotrindade/projects/kaminari"
+		},
+		{
+			"path": "/Users/marciotrindade/projects/imap_move"
+		},
+		{
+			"path": "/Users/marciotrindade/projects/angular-phonecat"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/test_app"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/security/safe-pass"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/saas_plan_config"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/saas/saas_plan_config"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/saas/emkt-web"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/saas/emkt-provisioner"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/saas/emkt-core"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/saas/backup-de-sites"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/saas/backp-de-sites"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/qualidade/automacao-rspec/saas"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/qualidade/automacao-rspec"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/qualidade/autobots/smtp"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/qualidade/autobots/skeleton"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/qualidade/autobots/site"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/qualidade/autobots/emkt"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/qualidade/autobots/ea"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/qualidade/autobots/bkup"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/qualidade/autobots/all_spark-selenium"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/practices"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/journal"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/heartcheck"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/frontend/banner-api"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/front/locastyle"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/front/docs"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/front/banner-api"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/emkt-web"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/marciotrindade/locaweb/emkt-support"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/emkt-provisioner"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/marciotrindade/locaweb/emkt-core"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/common/package-installer"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/common/apostila"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/common"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/commom/products-plan-config"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/commom/apostila"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/cfengine/ft_qa_saas_masterfiles"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/cfengine/ft_qa_saas_inputs"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/backup-de-sites"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/backp-de-sites"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/autobots/skeleton"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/autobots/iaas-api"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/autobots/emkt"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/autobots/ea"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/autobots/bkup"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/autobots/backup"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/autobots/all_spark-selenium"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/autobots/all_spark"
+		},
+		{
+			"path": "/Users/marciotrindade/locaweb/autobots"
+		},
+		{
+			"path": "/Users/marciotrindade/Google Drive/codigos"
+		},
+		{
+			"path": "/Users/marciotrindade/Dropbox/Sublime Text 3/Packages/User"
+		},
+		{
+			"path": "/Users/marciotrindade/Downloads"
+		},
+		{
+			"path": "/Users/marciotrindade/ansible/blog"
+		},
+		{
+			"path": "/Users/marciotrindade/ansible"
+		},
+		{
+			"path": "/Users/marciotrindade/.ssh"
+		},
+		{
+			"path": "/Users/marciotrindade/.rvm/gems/ruby-2.2.3/extensions/x86_64-darwin-15/2.2.0/nokogiri-1.6.6.2"
+		},
+		{
+			"path": "/Users/marciotrindade/.rvm/gems/ruby-2.2.3"
+		},
+		{
+			"path": "/Users/marciotrindade/.oh-my-zsh/themes"
+		}
+	]
+}

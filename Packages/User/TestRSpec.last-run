@@ -1,0 +1,14 @@
+{
+	"command_hash":
+	{
+		"encoding": "utf-8",
+		"env":
+		{
+			"PATH": "/Users/marciotrindade/.rvm/gems/ruby-2.4.1/bin:/Users/marciotrindade/.rvm/gems/ruby-2.4.1@global/bin:/Users/marciotrindade/.rvm/rubies/ruby-2.4.1/bin:/Users/marciotrindade/.rvm/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/marciotrindade/bin:/Users/marciotrindade/golang/bin"
+		},
+		"file_regex": "([^ ]*\\.rb):?(\\d*)",
+		"shell_cmd": "( cd /Users/marciotrindade/Projects/pipefy/pipefy && ./bin/rspec spec/presenters/internal_api/cards/index_presenter_spec.rb)",
+		"syntax": "Packages/TestRSpec/themes/TestConsole.tmLanguage",
+		"working_dir": "/Users/marciotrindade/Projects/pipefy/pipefy"
+	}
+}

@@ -1,0 +1,10 @@
+// Settings in here override those in "/User/consolewrap.sublime-settings",
+
+{
+    "js": {
+        "single_quotes": true,                 // If true output: console.log('title', variable);
+    },
+    "fileTypeMap" : {                   // Maps file type to wrapper. For example "text.html.vue": "js" means use js wrapper in vue js files
+        "source.jsx"     : "js",
+    }
+}
